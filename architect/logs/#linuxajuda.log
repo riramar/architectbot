@@ -1,0 +1,3257 @@
+[22:15:40] <Guest40362> !voto agent
+[22:15:51] <Guest40362> !voto  Agent_Smith 5
+[22:15:51] <Architect> Guest40362: O colaborador  Agent_Smith nao esta cadastrado. Para cadastralo envie um e-mail para agent_smith@linxuajuda.com.br ou um memo para Agent_Smith com o seu nick, nome e e-mail.
+[22:16:11] <aFlag> maRc3ll0: compartilhador de arquivo?
+[22:16:18] <Guest40362> !voto  agent_smith 5
+[22:16:18] <Architect> Guest40362: O colaborador  agent_smith nao esta cadastrado. Para cadastralo envie um e-mail para agent_smith@linxuajuda.com.br ou um memo para Agent_Smith com o seu nick, nome e e-mail.
+[22:16:26] <ActualMInd> vota em eu =P
+[22:16:31] <aFlag> sou gay, fiz um blog :D
+[22:16:32] <maRc3ll0> tipo Kazaa!!!
+[22:16:35] <Guest40362> !voto  ActualMInd 10
+[22:16:35] <Architect> Guest40362: O colaborador  ActualMInd nao esta cadastrado. Para cadastralo envie um e-mail para agent_smith@linxuajuda.com.br ou um memo para Agent_Smith com o seu nick, nome e e-mail.
+[22:16:38] <ActualMInd> aFlag: hahah
+[22:16:40] Join: Foox
+[22:16:43] <maRc3ll0> aFlag : tipo Kazaa
+[22:16:47] <ActualMInd> maRc3ll0: ja falei
+[22:16:50] <aFlag> maRc3ll0: tem, mas eu nao lembro os nomes
+[22:16:53] <ActualMInd> maRc3ll0: mldonkey
+[22:16:57] <aFlag> mas acho que nao tem nenhum que usa a rede kazaa
+[22:17:02] <ActualMInd> maRc3ll0: mldonkey que é tipo kazaa[p2p]
+[22:17:10] <ActualMInd> aFlag:  o ml usa
+[22:17:11] <aFlag> mas vc pode rodar o kazaa usando o wine
+[22:17:12] <Guest40362> ActualMInd: vc precisa nao tah nem entre os 10
+[22:17:20] <Cruel-Intentions> maRc3ll0 mldonkey, gift usam a rede do kazaa
+[22:17:22] <maRc3ll0> o MLdonkey e  bom?
+[22:17:31] <ActualMInd> eu usava e gostava muito
+[22:17:37] <ActualMInd> muito rapido e efeciente
+[22:17:42] <ActualMInd> na minha opinião
+[22:17:58] <ActualMInd> a febre do momento é o bittorrent mas ele so eh usado em arquivos grandes
+[22:18:04] <ActualMInd> como filmes de 3 cds e coisas do genero
+[22:18:11] <aFlag> tenho nao ActualMInd
+[22:18:11] <hahja>  compartinhador != compartilhador
+[22:18:22] <hahja> maRc3ll0 use giFT
+[22:18:29] <ActualMInd> aFlag:  eu tenho
+[22:18:41] <aFlag> só pego músicas mesmo, meu comp é meio tosco pra ver videos
+[22:18:43] <ActualMInd> maRc3ll0: recomendo o mldonkey
+[22:18:51] <aFlag> música ele já é chato... :P
+[22:19:03] <ActualMInd> aFlag: po me amarrei nesse video mas eh meio totalmente sombrio
+[22:19:20] Join: SnowRaptor
+[22:19:22] Join: K9_Pippen_Aracatuba
+[22:19:23] Join: kiko
+[22:19:24] <hahja> aFlag tenta no console com a placa de video em modo vesa
+[22:19:24] <ActualMInd> imagine ravenloft(um rpg de terror quem joga rp sabe que eh foda) eh tipo isso
+[22:19:31] <SnowRaptor> hey!!
+[22:19:33] <kiko> alguem poderia me ajudar?
+[22:19:38] <ActualMInd> kiko: pois nao
+[22:19:43] <SnowRaptor> como faÄ‡o pra uma variaveld e ambiente estar como padrao?
+[22:19:48] <kiko> faço
+[22:19:54] <ActualMInd> epa
+[22:19:57] <SnowRaptor> kiko: sim?
+[22:19:58] <ActualMInd> os 2 sao a mesma pessoa?
+[22:20:04] <K9_Pippen_Aracatuba> !google iso
+[22:20:12] <ActualMInd> num saquei um de cada vez
+[22:20:12] <LnxHelp> http://www.linuxiso.org/
+[22:20:14] <ActualMInd> kiko o que voce quer?
+[22:20:20] <SnowRaptor> aFlag: cara.. jah recompilei o kernel...
+[22:20:22] Join: sven-mstream
+[22:20:29] <kiko> depois de muito sofrimento, eu e meu camarada ^HEAVY-META^ conseguimos instalar a internet aqui no meu pc usando o rp-pppoe
+[22:20:29] <SnowRaptor> aFlag: como faco pra setar uma variavel de ambiente como padrao no boot?
+[22:20:40] <ActualMInd> kiko certo
+[22:20:57] <kiko> agora estou com um problema quando vou abrir o licq. Eu clico para abrir ele, ele começa a carrega e sem mais nem menos fecha. O que seria isso
+[22:20:57] <sven-mstream> oi galera:
+[22:21:17] <sven-mstream> alguém que manje legal de ysql??????
+[22:21:18] <ActualMInd> kiko estranho isso ja exprimemtou outro cliente?
+[22:21:21] <sven-mstream> alguém que manje legal de mysql??????
+[22:21:31] <ActualMInd> kiko as vezes é problema de clientee
+[22:21:39] <jack22> coloque no .bashrc ou no .bash_profile para tornar padrao no boot
+[22:21:41] <K9_Pippen_Aracatuba> T1AGO usa debian neh gay?
+[22:21:42] <SnowRaptor> kiko: tente usar op GAIM: http://gaim.sourceforge.net
+[22:21:43] <SnowRaptor> ;)
+[22:21:44] <hahja> kiko mostre o erro , veja-o -=> tail /var/log/messages
+[22:21:44] <ActualMInd> experimenta o gnomeICU?
+[22:21:47] <ActualMInd> experimenta o gnomeICU!
+[22:22:05] <K9_Pippen_Aracatuba> quem usa debian?
+[22:22:05] <kiko> vou ver lá e já posto
+[22:22:27] <jack22> SnowRaptor: coloque no .bashrc ou no .bash_profile para tornar padrao no boot
+[22:22:36] <K9_Pippen_Aracatuba> quem usa debian?!!!!!!!!
+[22:22:37] Quit: Quit: [Foox]
+[22:22:43] <sven-mstream> eu uso debian
+[22:22:57] <sven-mstream> alguém que manje legal de mysql??????
+[22:23:01] <ViperX> ActualMInd fala rapá ;D
+[22:23:05] <ne0fito> K9_Pippen_Aracatuba, diga-me
+[22:23:09] <ActualMInd> ViperX: eta rapaz ta lagadao ae
+[22:23:11] <K9_Pippen_Aracatuba> ne0fito ou kra... q link eu pego lah???!
+[22:23:11] Join: Foox
+[22:23:11] <K9_Pippen_Aracatuba> ne0fito a ISO
+[22:23:22] <K9_Pippen_Aracatuba> ne0fito http://www.linuxiso.org/distro.php?distro=4
+[22:23:23] <ne0fito> haueheua
+[22:23:27] <ne0fito> pera
+[22:23:34] <ne0fito> xo olhar pra vc
+[22:23:43] <K9_Pippen_Aracatuba> uhauhahuahu
+[22:24:17] <kiko> aparentemente não apareceu nada sobre o Licq
+[22:24:22] <T1AGO> K9_Pippen_Aracatuba: e slack
+[22:24:24] <T1AGO> K9_Pippen_Aracatuba: pq?
+[22:24:39] <T1AGO> slack 9.1 e debian sid
+[22:24:41] Quit: Remote closed the connection [Guest40362]
+[22:25:10] <ActualMInd> !google gnomeICU
+[22:25:38] <maRc3ll0> tipo um Kazaa
+[22:25:38] <ne0fito> K9_Pippen_Aracatuba, kra eu uso o kernel 2.4.18, pode ser dele?
+[22:25:40] <Nightbond> leticia-sp 0_o
+[22:25:44] <jack22> e' compartilhador
+[22:25:44] Quit: Quit: [rogerio]
+[22:25:50] <maRc3ll0> eu não quero o kazaa no linux
+[22:25:50] <ne0fito> leticia-sp, dona moca!!!
+[22:25:57] Quit: Quit: [kiko]
+[22:26:12] <maRc3ll0> eu quero um programa do linux
+[22:26:13] <hahja> maRc3ll0 use giFT
+[22:26:20] <K9_Pippen_Aracatuba> ne0fito pode.....qual o link!
+[22:26:26] <maRc3ll0> o que o giFT?
+[22:26:28] Quit: Read error: 104 (Connection reset by peer) [NoiadoX]
+[22:26:30] <ActualMInd> maRc3ll0: USE O MLDONKEY
+[22:26:32] <ActualMInd> maRc3ll0: USE O MLDONKEY!
+[22:26:33] <ActualMInd> maRc3ll0: USE O MLDONKEY!!
+[22:26:44] Quit: Read error: 54 (Connection reset by peer) [leticia-sp]
+[22:26:49] <hahja> maRc3ll0 http://gift.sourceforge.net/
+[22:26:52] <hahja> :}
+[22:26:57] <ne0fito> K9_Pippen_Aracatuba, esse -> http://www.linuxiso.org/download.php/405/debian-30r1-i386-binary-5.iso
+[22:26:59] Quit: Quit: [lovezinho]
+[22:27:27] <K9_Pippen_Aracatuba> ne0fito kd??
+[22:27:38] <ne0fito> http://www.linuxiso.org/download.php/405/debian-30r1-i386-binary-5.iso
+[22:27:38] Quit: Quit: [kiLLe]
+[22:27:49] <ne0fito> =)
+[22:28:26] Join: kiLLe
+[22:28:49] Quit: Quit: [hahja]
+[22:29:30] <maRc3ll0> o problema do MLdonkey e que eu não sei configurar
+[22:29:38] Join: wormhole
+[22:30:05] <sven-mstream> access denied for user: ´root@localhost´ (Using password: NO)
+[22:30:10] Join: redhate
+[22:30:16] <smp> ActualMind : Desculpe a demora , nunca tentei usar o particionador ñ !
+[22:30:32] Part: SnowRaptor
+[22:30:46] <ActualMInd> smp: utilize-o cfdisk
+[22:31:03] <redhate> yo pipos
+[22:31:26] Join: ElementoX
+[22:32:11] Join: K9_Pippen
+[22:33:50] <ViperX> ActualMInd nem.
+[22:33:51] <ViperX> :)
+[22:34:17] Join: caixabox_
+[22:34:28] <K9_Pippen> T1AGO o fdp!!!!!!!!!!
+[22:34:32] <K9_Pippen> caixabox_ hei man!
+[22:34:35] <Foox> AMD Athlon 64 !!!
+[22:34:41] <Foox> :)~~~  ~~
+[22:34:41] <Foox> meeeeeee
+[22:34:41] <K9_Pippen> caixabox_ olha isso daki!
+[22:34:43] <caixabox_> K9_Pippen noite :D
+[22:34:45] <K9_Pippen> caixabox_ : )))
+[22:34:52] <Foox> bem q a AMD tinha prometido ano passado esse CPU
+[22:34:52] <Foox> :D
+[22:34:52] <K9_Pippen> caixabox_ http://www.phy.olemiss.edu/debian-cd/
+[22:34:58] <LnxHelp> http://freshmeat.net/projects/gnomeicu/
+[22:35:17] Quit: Ping timeout: 240 seconds [K9_Pippen_Aracatuba]
+[22:35:24] Quit: Quit: [wormhole]
+[22:35:43] <K9_Pippen> caixabox_ viste?
+[22:35:59] Join: contraventor
+[22:35:59] <caixabox_> K9_Pippen ta abrindo
+[22:36:41] <STK_KINGKONG_III> como q escuta cd de musica?
+[22:36:42] <jack22> !help
+[22:36:48] <jack22> !ajuda
+[22:36:59] Part: jack22
+[22:37:16] Join: jack22
+[22:37:19] Part: Enkhrypthor
+[22:37:31] <sven-mstream> !ajuda
+[22:37:46] <contraventor> STK_KINGKONG_III xmms 
+[22:38:10] <caixabox_> K9_Pippen abriu ..
+[22:38:35] <STK_KINGKONG_III> nao precisa monta?
+[22:39:10] <contraventor> STK_KINGKONG_III não
+[22:39:31] <maRc3ll0> valeu
+[22:39:40] Quit: Read error: 54 (Connection reset by peer) [K9_Pippen]
+[22:39:44] <maRc3ll0> !ajuda
+[22:40:17] Join: K9_Pippen_Aracatuba
+[22:40:48] Part: jack22
+[22:41:25] Join: slac
+[22:41:39] <caixabox_> slac noite tio
+[22:41:47] <slac> boa noite
+[22:41:50] <slac> tudo bom ae omi?
+[22:41:59] <Koolosh> boa noite slac
+[22:42:00] <ne0fito> slac, boua homi
+[22:42:08] <ne0fito> slac, ta de castigo ainda?
+[22:42:13] <slac> Koolosh fala sumido
+[22:42:20] <slac> ne0fito aeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+[22:42:40] <ne0fito> slac, c tb sumiu hein
+[22:42:40] <Koolosh> é to sumido e  navegando sem um server dns 
+[22:42:40] <Koolosh> grrr
+[22:42:41] <Koolosh> só na base do ip 
+[22:43:06] <slac> Koolosh hahaha
+[22:43:13] <slac> ne0fito tava viajando
+[22:43:26] <Koolosh> se te contar  vc vai morrer de rir
+[22:43:34] <ne0fito> slac, a sow
+[22:43:42] Join: Maudozo
+[22:43:43] <slac> Koolosh fala ai que rir e comigo mesmo
+[22:43:46] <slac> hahahahahaha
+[22:43:56] Join: Guest41702
+[22:43:59] <Koolosh> vai via pvt
+[22:44:05] Join: _rikimaru
+[22:44:15] <Guest41702> Ae galera, queria soh uma informacaum, preu instalar o red Hat 9 eu preciso dos 3 cds ow os dois ultimos saum soh de aplicativos?
+[22:44:27] <_rikimaru> Boa Noite, Alguem ai sabe com eu posso configurar o meu servidro de POP3 com o sendmail ???
+[22:45:03] <ne0fito> _rikimaru, kra, olha no site www.underlinux.com.br
+[22:45:18] <ne0fito> K9_Pippen_Aracatuba, ow
+[22:45:26] <_rikimaru> valeu cara
+[22:45:36] <Guest41702> Ae galera, queria soh uma informacaum, preu instalar o red Hat 9 eu preciso dos 3 cds ow os dois ultimos saum soh de aplicativos?
+[22:45:37] <ne0fito> achei um melhor pra vc!
+[22:45:41] <ne0fito> http://linorg.usp.br/iso/debian/3.0_r1/
+[22:46:12] <K9_Pippen_Aracatuba> ne0fito thx
+[22:46:33] <ne0fito> ai
+[22:46:44] <K9_Pippen_Aracatuba> ne0fito tah errado : (((((((((((
+[22:46:44] <ne0fito> K9_Pippen_Aracatuba, so a  primeira e importante, o resto tu ja conhece
+[22:46:45] <aFlag> Guest41702: provavelmetne os 2 ultimos sao soh aplicativos
+[22:46:50] Join: idgfan-forasteiro
+[22:46:55] <Nightbond> la la
+[22:46:57] <K9_Pippen_Aracatuba> ne0fito tah errado : (((((((((((..
+[22:46:58] <Nightbond> kd o caxeiro
+[22:47:02] <Nightbond> caixabox_ feio
+[22:47:03] <idgfan-forasteiro> o galera preciso de uma ajuda ae
+[22:47:08] <caixabox_> Nightbond que foi 
+[22:47:08] <ne0fito> K9_Pippen_Aracatuba, aki de primeira pifow tb, dps dei um reload melhorow =)
+[22:47:16] <ne0fito> tenta ae
+[22:47:16] <K9_Pippen_Aracatuba> blz
+[22:47:16] <ne0fito> caxeiro
+[22:47:16] <ne0fito> aheuaheua
+[22:47:16] <Nightbond> caixabox_ ui
+[22:47:19] Quit: Ping timeout: 240 seconds [xaquirao]
+[22:47:39] <caixabox_> Nightbond se morde
+[22:47:39] <FORASTEIRO_> PRECISO Q ALGUEM ME ENSINE A PARTICIONAR MEU HD
+[22:47:43] <caixabox_> ta vendo
+[22:47:50] <Nightbond> FORASTEIRO_ preciso de alguem que me de 1 000 reais
+[22:47:57] <K9_Pippen_Aracatuba> ne0fito : ))))))))))))))
+[22:47:57] <Nightbond> caixabox_ se morde ai safado
+[22:47:57] <Koolosh> FORASTEIRO_:   usa o qtparted 
+[22:47:59] <caixabox_> FORASTEIRO_ sem o caps
+[22:47:59] <FORASTEIRO_> PRECISO Q ALGUEM ME ENSINE A PARTICIONAR MEU HD
+[22:48:00] <Koolosh> dispença ajuda
+[22:48:02] <ne0fito> hauheueauh
+[22:48:03] <Koolosh> e nao grita  desgraçca
+[22:48:03] <Nightbond> vai toma kike
+[22:48:03] <Nightbond> nskdnasd
+[22:48:11] <ne0fito> caixabox_, ta bravu hj hein
+[22:48:13] <ne0fito> K9_Pippen_Aracatuba,  deu??
+[22:48:23] <caixabox_> FORASTEIRO_ <Koolosh> FORASTEIRO_:   usa o qtparted 
+[22:48:43] <FORASTEIRO_> ondee axu?
+[22:48:54] <caixabox_> !busca  qtparted
+[22:48:58] <LnxHelp> http://www.icewalkers.com/Linux/Software/519870/QtParted.html
+[22:49:18] <smp> ActualMind : Valew !
+[22:49:22] Quit: Quit: [Guest41702]
+[22:49:33] <caixabox_> ne0fito nem tocaindo de sono
+[22:49:34] Quit: Quit: [kiLLe]
+[22:49:42] Quit: Read error: 54 (Connection reset by peer) [STK_KINGKONG_III]
+[22:50:01] <ne0fito> caixabox_, =)
+[22:50:05] <ne0fito> caixabox_, homi trabalhador
+[22:50:05] <caixabox_> :D
+[22:50:10] <caixabox_> vou nanar
+[22:50:16] <caixabox_> ontem e hj foi puxado
+[22:50:40] <caixabox_> ne0fito 6 to acordado 
+[22:50:50] Quit: Quit: [_rikimaru]
+[22:50:56] <ne0fito> caixabox_, =)
+[22:50:57] <FORASTEIRO_> pra q serve as shells q tem no linux akelas shell q já vem nele?
+[22:51:00] <smp> alguem conhece um sistema de diminuir a largura da banda pra um micro da rede ?
+[22:51:23] <contraventor> smp squid
+[22:51:26] <Paulo^> contraventor !
+[22:51:37] <caixabox_> smp CBQ  
+[22:51:45] <contraventor> Paulo^ oi chapeuzinho :P~
+[22:51:49] Quit: Quit: [Koolosh]
+[22:51:53] <Paulo^> hehehe
+[22:51:57] <Paulo^> babão
+[22:51:59] <contraventor> caixabox_ boa noite 
+[22:52:06] <FORASTEIRO_> a
+[22:52:24] Join: leticia-sp
+[22:52:24] <Paulo^> smp: Pra limitar o cbq
+[22:52:25] Join: Spynal
+[22:52:25] <Paulo^> leticia-sp nao morre mais
+[22:52:25] <Paulo^> hahaha
+[22:52:25] <smp> valew
+[22:52:34] <smp> onde eu consigo esse cbq ?
+[22:52:38] <Paulo^> no google
+[22:52:40] <Paulo^> www.google.com.br/linux
+[22:52:40] <Paulo^> Provura
+[22:52:44] <Paulo^> Procura
+[22:53:00] Part: sven-mstream
+[22:53:20] Join: rizer
+[22:53:35] <rizer> caixabox_ i ae blz :)
+[22:53:41] <rizer> contraventor blz rapa tudo na paz ai
+[22:53:41] <caixabox_> rizer ai
+[22:53:50] <contraventor> ao rizer
+[22:54:03] Join: NyuMatrix
+[22:54:11] <Nightbond> !rank 9
+[22:54:15] <Paulo^> Me injuriei
+[22:54:15] <Nightbond> powww
+[22:54:15] <Nightbond> naum aaprece mais
+[22:54:16] <Nightbond> !ajuda
+[22:54:19] Quit: Killed (NickServ (GHOST command used by Paulo^)) [Paulo]
+[22:54:23] Part: NyuMatrix
+[22:54:23] <Nightbond> vai
+[22:54:23] <Nightbond> dknsdasd
+[22:54:50] <contraventor> Paulo^ q foi ?
+[22:54:57] <Paulo^> Voce vai ver
+[22:54:59] Quit: Quit: [Paulo^]
+[22:55:26] Join: Paulo^
+[22:55:26] <Nightbond> !voto Nightbond 5
+[22:55:26] <Architect> Nightbond: Voce quer votar em voce mesmo?
+[22:55:27] <Nightbond> ksndasknd
+[22:55:33] <Nightbond> caixabox_ issu broxo ?
+[22:55:40] <Paulo^> Nossa
+[22:55:43] <Paulo^> Como essa rede ta um lixo
+[22:55:54] <contraventor> Paulo^ ta sim
+[22:56:05] <leticia-sp> Nightbond:  me opa
+[22:56:16] <leticia-sp> tks
+[22:56:16] <Nightbond> se naum emrece
+[22:56:21] <Nightbond> mas ta ai
+[22:56:21] <Nightbond> :~
+[22:56:24] <leticia-sp> como ??
+[22:56:25] <Paulo^> oxi
+[22:56:25] <Nightbond> hahaha
+[22:56:27] <leticia-sp> eh comigo isto ?
+[22:56:30] <Nightbond> :x
+[22:56:37] <Nightbond> leticia-sp :**
+[22:56:37] <Paulo^> O nigthbond nao ta aparecendo ou e' impressao minha ?
+[22:56:46] Join: dentim
+[22:56:51] Join: OGangrel
+[22:56:52] <leticia-sp> ...
+[22:56:54] <dentim> aew, pode dar um help aki, povo?
+[22:57:38] <Nightbond> leticia-sp ou le
+[22:57:41] <Paulo^> dentim: fala
+[22:57:41] <Nightbond> leticia-sp ta ocupada ?
+[22:57:46] <leticia-sp> pra vc sim Nightbond
+[22:57:49] <leticia-sp> OGangrel: oieeeeeeeeeeee =@@@@@@@@@@@@@@@@@@@@@@
+[22:57:49] <Nightbond> leticia-sp poxa tb entao
+[22:57:52] Join: Junior-Moura
+[22:58:03] <dentim> pra remover diretorio com todos subdiretórios?
+[22:58:09] <ne0fito> leticia-sp, vai ter k-juzin na festa??
+[22:58:09] <OGangrel> leticia-sp :**************
+[22:58:10] <dentim> como eu faço?
+[22:58:12] <Nightbond> leticia-sp tem certeza ?
+[22:58:12] <Paulo^> dentim: rm -rf
+[22:58:19] Quit: Quit: [smp]
+[22:58:30] <dentim> rm -rf nomedodiretorio ????
+[22:58:31] <dentim> assim:?
+[22:58:33] <Paulo^> Sim
+[22:59:39] <dentim> vlw paulo
+[22:59:42] <Paulo> Beleza
+[23:00:52] <Nightbond> hahahhaa
+[23:00:52] <Nightbond> Architect libera um voto ai
+[23:00:52] <ne0fito> hauehuah
+[23:00:52] <ne0fito> Nightbond, nem tow cadastrado
+[23:00:53] <ne0fito> Nightbond, o agent nem pos eu =(
+[23:00:53] <Nightbond> ne0fito hahaha
+[23:00:53] <Nightbond> OGangrel fala meu kerido
+[23:00:56] Join: csaiuasdasdsad
+[23:00:58] Part: csaiuasdasdsad
+[23:01:00] Join: fotograf0
+[23:01:00] <OGangrel> Nightbond iaê!
+[23:01:05] <Nightbond> OGangrel blz cara ?
+[23:01:05] Quit: Ping timeout: 240 seconds [FORASTEIRO_]
+[23:01:05] <OGangrel> Nightbond na mesma de sempre...
+[23:01:05] Join: kiLLe
+[23:01:06] <Nightbond> OGangrel humm 
+[23:01:08] <OGangrel> e vc?
+[23:01:10] <Nightbond> OGangrel to tranquilo aki cara 
+[23:01:10] <Nightbond> hehehe
+[23:01:11] <Nightbond> :~~
+[23:01:11] <caixabox_> Nightbond desiste 
+[23:01:12] <OGangrel> ?!?!?!?
+[23:01:17] <Nightbond> caixabox_ pow ela e jogo duro
+[23:01:25] <caixabox_> hhahahhahaaa
+[23:01:28] <Nightbond> caixabox_ hehe essa mulher e fogo !
+[23:02:21] <leticia-sp> boa noite
+[23:02:27] Join: drummer
+[23:02:31] <drummer> leticia-sp leeeeeeee
+[23:02:39] Part: Spynal
+[23:02:46] <Nightbond> leticia-sp boa noite !!
+[23:02:48] <Nightbond> :p
+[23:03:07] <OGangrel> leticia-sp já vai?
+[23:03:17] <ne0fito> tb quero
+[23:03:25] <goldblade> Patola! is away desde 22:53 (fui pra casa tou de volta amanha ::: page/on log/on)
+[23:03:26] <ne0fito> leticia-sp, boua noite
+[23:03:48] <leticia-sp> ne0fito: =@@@@@@@@@@@@
+[23:03:51] <leticia-sp> sim OGangrel
+[23:03:58] <OGangrel> leticia-sp beijos, bom soninho.
+[23:04:02] <elcio_> buam boa noite
+[23:04:10] Quit: Remote closed the connection [ActualMInd]
+[23:04:12] <elcio_> leticia-sp boa noite amor
+[23:04:19] <Nightbond> elcio_ tb te am
+[23:04:22] <Nightbond> elcio_ tb te amo
+[23:04:24] Part: drummer
+[23:04:30] <elcio_> cambada boa
+[23:04:31] <ne0fito> aheuhuehaeuhe
+[23:04:34] <leticia-sp> OGangrel:  nao funciona akele esquema do site dos 6 minutos
+[23:04:35] <leticia-sp> =/
+[23:04:38] <elcio_> Nightbond se morde
+[23:04:43] <Nightbond> huahuahuaha
+[23:04:48] <OGangrel> leticia-sp naum?
+[23:04:50] Join: drummer
+[23:04:50] <leticia-sp> nao
+[23:04:52] <Nightbond> elcio_ falow cara bons sonhos
+[23:04:53] <drummer> Nossa leticia-sp
+[23:04:53] <leticia-sp> pvt
+[23:04:57] <drummer> Me excluiu
+[23:04:57] <drummer> :~
+[23:05:05] <Nightbond> elcio_ eu vo ficar torrando a casca grossa aki
+[23:05:07] <Nightbond> hahaha
+[23:05:45] Join: yourcasperbr
+[23:06:01] Quit: Quit: [Junior-Moura]
+[23:06:16] <yourcasperbr> alguÃ©m aqui sabe onde digito make symlinks dep
+[23:06:28] Join: ^KiKo^
+[23:06:32] <yourcasperbr> ???
+[23:06:37] <^KiKo^> :D alguem pode me ajudar?
+[23:06:58] <^KiKo^> to aqui no linux e td mais... to kerendo ver o ambiente windows ... onde vejo?
+[23:07:29] <ne0fito> ^KiKo^, tu quer ver seus arkivos no windows?
+[23:07:37] <^KiKo^> pelo linux
+[23:07:45] <contraventor> ^KiKo^ mkdir /windows ; mount -o umask=002 /dev/hdaX /windows
+[23:07:56] <^KiKo^> quero ver pelo ambiente grafico
+[23:07:59] <contraventor> ^KiKo^ mkdir /windows ; mount -o umask=002 /dev/hda1  /windows   ESSE
+[23:08:09] <ne0fito> contraventor, nuuuuuu, rapido no gatilho
+[23:08:09] <yourcasperbr> alguÃ©m aqui sabe onde digito make symlinks dep
+[23:08:22] <^KiKo^> contraventor: quero ver pelo ambiente grafico
+[23:08:42] <^KiKo^> pq tenho um backup meu la
+[23:08:45] Quit: Read error: 54 (Connection reset by peer) [maRc3ll0]
+[23:08:49] <^KiKo^> quero pegar uma foto e bota de papel de parede
+[23:08:51] <ne0fito> ^KiKo^, qual ambiente grafico?
+[23:08:55] <^KiKo^> techlinux
+[23:08:59] <contraventor> ^KiKo^ então papa depois abre o "konqueror" e vai na pasta /windows
+[23:09:18] <^KiKo^> konqueror? :D
+[23:09:30] <^KiKo^> mew, sei mexe nisso nao.. hoho, soh n lembro onde q vê o windows aki
+[23:09:39] <contraventor> ^KiKo^ techlinux não eh um abiente grafico e sim uma distribuição não ?
+[23:09:56] <ne0fito> ^KiKo^, abre um konsole e digita konqueror /windows &
+[23:09:57] <^KiKo^> seila mew
+[23:09:58] <contraventor> ^KiKo^ no "kde" tem o konqueror
+[23:10:06] Join: url
+[23:10:18] Quit: Quit: [fotograf0]
+[23:10:31] <yourcasperbr> alguÃ©m aqui sabe onde digito make symlinks dep?????
+[23:10:55] <^KiKo^> calmae
+[23:10:56] <ne0fito> ^KiKo^, antes de vc ver, vc tem q montar, com o comando q o contraventor te passow
+[23:11:06] <^KiKo^> ah eh
+[23:11:09] <^KiKo^> tem que montar pra ver o windows
+[23:11:11] <^KiKo^> verdad
+[23:11:30] <^KiKo^> eh soh ir no console e digitar: konqueror /windows &?
+[23:11:53] Join: Sell_
+[23:11:58] <ne0fito> Nightbond, =)
+[23:11:59] <Sell_> .
+[23:11:59] <Nightbond> violencia aki naum
+[23:12:02] <Nightbond> huahua
+[23:12:04] <^KiKo^> eh soh ir no console e digitar: konqueror /windows &?
+[23:12:06] <Sell_> alguem aqui jah usou WinLinux
+[23:12:07] <Sell_> alguem aqui jah usou WinLinux?
+[23:12:23] <leticia-sp> /mode +e leticia-sp
+[23:12:25] <leticia-sp> grrrrrrr
+[23:12:37] <ne0fito> Nightbond, huhuhhu
+[23:12:39] <^KiKo^> :D
+[23:12:55] <Sell_> kd o help?
+[23:12:59] <Nightbond> leticia-sp pra que serve +e ?
+[23:13:11] Quit: Quit: [Maudozo]
+[23:13:11] Join: isprv
+[23:13:12] <Nightbond> Sell_ numca usei naum cara
+[23:13:12] <leticia-sp> anti-ban
+[23:13:16] <leticia-sp> vc eh banida
+[23:13:22] <leticia-sp> e volta ao canal mesmo com o ban setado
+[23:13:28] <Nightbond> leticia-sp hummm
+[23:13:34] <Nightbond> leticia-sp hackas !!
+[23:13:37] <leticia-sp> ...
+[23:13:42] <leticia-sp> bom
+[23:13:44] <leticia-sp> vou dormir
+[23:14:02] <Nightbond> leticia-sp boa noite antes de ir dormi ve o pvt e de coracao !!
+[23:15:17] Part: isprv
+[23:15:42] <Sell_> alguem sabe como faço para recuperar a particao do linux para FAT32 sem ter que reformatar o disco?
+[23:16:14] Quit: Quit: [kiLLe]
+[23:17:09] <Sell_> tá todo mundo inváizíbôu?
+[23:17:45] Join: keffer
+[23:18:49] Quit: Conectado por tempo insuficiente [keffer]
+[23:18:55] Join: keffer
+[23:20:05] Quit: Quit: [m4rlb0ro]
+[23:20:27] <Guest46806> como eu crio um usuario com privilegios de root
+[23:20:29] <Guest46806> ?
+[23:20:50] Join: PiNGuLiM
+[23:20:55] Join: kiLLe
+[23:21:11] Join: nightnux
+[23:21:39] Quit: Quit: [yourcasperbr]
+[23:22:17] <PiNGuLiM> d@.@b System Of A Down - Psycho
+[23:22:55] Quit: Quit: [Sell_]
+[23:22:59] Join: TPrincipe
+[23:23:51] Quit: Conectado por tempo insuficiente [TPrincipe]
+[23:24:01] Join: TPrincipe
+[23:24:44] <Guest46806> como eu crio um usuario com privilegios de root?
+[23:24:53] Quit: Conectado por tempo insuficiente [TPrincipe]
+[23:25:57] Quit: Quit: [Foox]
+[23:26:03] <PiNGuLiM> d@.@b System Of A Down - Roulette
+[23:26:07] Quit: Quit: [^KiKo^]
+[23:27:12] <nightnux> Guest46806: edita o /etc/passwd e coloca 0 no uid e no id do usuario
+[23:28:07] Quit: Ping timeout: 240 seconds [Paulo]
+[23:29:07] Quit: Ping timeout: 240 seconds [keffer]
+[23:29:27] <PiNGuLiM> d@.@b System Of A Down - Science
+[23:30:05] <PiNGuLiM> d@.@b Audioslave - Bring 'Em Back Alive
+[23:30:28] <Nightbond_sleeping> [23:00] <ne0fito> Nightbond_sleeping, ja fez sexo virtual
+[23:30:28] <Nightbond_sleeping> cara gay
+[23:30:36] <Nightbond_sleeping> sai sai
+[23:30:41] <Nightbond_sleeping> o elcio_ curte issu
+[23:30:52] <ne0fito> haueheauhaeuheu
+[23:30:59] <ne0fito> Nightbond_sleeping, contanu minhas intimidades =(
+[23:31:01] <ne0fito> hauehaeu
+[23:31:05] <Nightbond_sleeping> kkkkkkkkkkkkkkkk
+[23:31:09] <Nightbond_sleeping> sai do meu pvt
+[23:31:13] <Nightbond_sleeping> sai sai
+[23:31:29] <ne0fito> hauheua
+[23:31:47] Join: STK_STRIKINADO
+[23:33:02] Join: hax0
+[23:33:25] <goldblade> Patola! is away desde 22:53 (fui pra casa tou de volta amanha ::: page/on log/on)
+[23:34:14] <PiNGuLiM> d@.@b Audioslave - I Am the Highway
+[23:34:44] <STK_STRIKINADO> dae blz tipo eu comfigurei o alsa  pra roda o som da placa  via8233  e dai tipo depois que compilei  depois de tudo deu certo mas  soh funga se eu nao reinicia o kernel  pq  po tava funcionado agora paro poque eu reiniciei fala umas parada de som no kernel tipo aparese tudo o kmix e tudo mas mas nao sai som pq
+[23:36:26] <STK_STRIKINADO> ?
+[23:37:02] Join: unistd
+[23:37:09] Join: sp1t
+[23:37:39] Quit: Quit: [ne0fito]
+[23:37:43] Quit: Quit: [nightnux]
+[23:37:56] Quit: Conectado por tempo insuficiente [sp1t]
+[23:37:57] Quit: Quit: [kiLLe]
+[23:37:59] Quit: Quit: [STK_STRIKINADO]
+[23:38:54] <Guest46806> como eu crio um usuario no linux?
+[23:39:03] <hax0> Guest46806 adduser usuario
+[23:39:06] <slac_off> adduser
+[23:39:12] Join: BlauBlau
+[23:39:50] <PiNGuLiM> d@.@b Audioslave - Like A Stone
+[23:39:57] Join: kiLLe
+[23:41:38] <PiNGuLiM> d@.@b System Of A Down - A.D.D.
+[23:42:06] Part: PiNGuLiM
+[23:43:30] Quit: *.net *.split [hax0]
+[23:43:30] Quit: *.net *.split [T1AGO]
+[23:43:30] Quit: *.net *.split [Guest46806]
+[23:43:30] Quit: *.net *.split [contraventor]
+[23:43:30] Quit: *.net *.split [Iucas`saiu]
+[23:43:30] Quit: *.net *.split [binary_code]
+[23:43:30] Quit: *.net *.split [boomerang\out]
+[23:43:30] Quit: *.net *.split [ViperX]
+[23:43:30] Quit: *.net *.split [url]
+[23:43:30] Quit: *.net *.split [kiLLe]
+[23:43:30] Quit: *.net *.split [BlauBlau]
+[23:43:30] Quit: *.net *.split [drummer]
+[23:43:30] Quit: *.net *.split [RiZeR[Off]]
+[23:43:30] Quit: *.net *.split [leticia-sp]
+[23:43:30] Quit: *.net *.split [K9_Pippen_Aracatuba]
+[23:43:30] Quit: *.net *.split [elcio_]
+[23:43:30] Quit: *.net *.split [slac_off]
+[23:43:30] Quit: *.net *.split [Megatron_away]
+[23:43:30] Quit: *.net *.split [Peter_li_casa]
+[23:43:30] Quit: *.net *.split [WAlucygAWAY]
+[23:43:30] Quit: *.net *.split [Cruel-Intentions]
+[23:43:30] Quit: *.net *.split [goldblade]
+[23:43:30] Quit: *.net *.split [aFlag]
+[23:43:30] Quit: *.net *.split [OGangrel]
+[23:43:30] Quit: *.net *.split [b0nAn{off}[]]
+[23:43:30] Quit: *.net *.split [The_Invisible_Man]
+[23:43:30] Quit: *.net *.split [spymam]
+[23:43:30] Quit: *.net *.split [bads]
+[23:43:30] Quit: *.net *.split [LnxHelp]
+[23:43:30] Quit: *.net *.split [Nightbond_sleeping]
+[15:50:15] Join: Architect
+[15:50:17] Quit: Quit: [d3v1l-]
+[15:50:23] Quit: Quit: [NaArea]
+[15:50:24] <mR_X_fr0m_h3LL> LeColatra - ?
+[15:50:41] Join: NaArea_Bot
+[15:50:49] <LeColatra> mR_X_fr0m_h3LL nao pergunte isso a ele 
+[15:50:50] <hax0[Core]> caixa de fosforo ?
+[15:50:53] <LeColatra> hahahahhahahha
+[15:50:56] <mR_X_fr0m_h3LL> LeColatra - hauehauea
+[15:51:02] <hax0[Core]> querooo entrar pra CORE
+[15:51:02] <hax0[Core]> :~
+[15:51:05] <mR_X_fr0m_h3LL> blz...
+[15:51:07] Join: leticia-sp
+[15:51:13] <NaArea_Bot> ui
+[15:51:36] <hax0[Core]> mR_X_fr0m_h3LL, to desempregado
+[15:51:36] <hax0[Core]> a um mes
+[15:51:55] Quit: Quit: [Director]
+[15:51:56] Join: eli4stxt
+[15:52:01] <mR_X_fr0m_h3LL> hax0[Core] - ave.... eu to a 8
+[15:52:18] <hax0[Core]> mais eu ainda vou voltar
+[15:52:22] <LeColatra> mR_X_fr0m_h3LL ele pediu para sair !!
+[15:52:25] <hax0[Core]> eu me arrependi de ter saido do meu emprego
+[15:52:26] <hax0[Core]> :/
+[15:52:32] <mR_X_fr0m_h3LL> hax0[Core] - eh phoda eu fui mandando... 
+[15:52:34] <LeColatra> hahhahahhahahhahhahhahahha
+[15:52:45] <hax0[Core]> mais eu ainda vou voltar
+[15:52:50] <hax0[Core]> to com saudade
+[15:52:50] <hax0[Core]> :x
+[15:52:57] <cp_nec> meu linux ta sem kernel 
+[15:53:01] <cp_nec> buaaaaaaaaaaaaaaaaaaaaaa
+[15:53:08] <cp_nec> se eu reseta ja era
+[15:53:09] <LeColatra> cp_nec humm
+[15:53:11] <cp_nec> buaaaaaaaaaaaa
+[15:53:30] <hax0[Core]> se resetar vc entra com rescue
+[15:53:31] <cp_nec> to tentando termina de compila agora usando o make bzlilo
+[15:53:35] <mR_X_fr0m_h3LL> cp_nec - ce deu make clean ?
+[15:53:42] <LeColatra> cp_nec baixa um bz2 e compila um novo
+[15:53:42] <cp_nec> aham
+[15:53:51] <mR_X_fr0m_h3LL> hax0[Core] - eh phoda kra... eu tb sinto saudade do meu trampo...
+[15:53:56] <hax0[Core]> LeColatra, eu quero ir pra core :~
+[15:53:59] <cp_nec> to compilando dinovo
+[15:54:13] <LeColatra> e bot
+[15:54:19] <cp_nec> mas se por um acaso a energia acabar ou o pc travar to ferrado
+[15:54:24] <ne0fito[trampo]> hax0[Core] trabalhava de q?
+[15:54:30] <LeColatra> hahahahahhahahha
+[15:54:33] <hax0[Core]> Cordenadoria de Recursos Especiais
+[15:54:40] <cp_nec> ai com certeza vou colocar o slack pra ver como é
+[15:54:41] <hax0[Core]> eu ainda vou entrar pra la
+[15:54:42] <LeColatra> ne0fito[trampo] nao pergunta
+[15:54:46] <cp_nec> auahuhuu
+[15:54:49] <hax0[Core]> ne0fito[trampo], Polinter
+[15:55:01] <ne0fito[trampo]> LeColatra ???
+[15:55:05] <cp_nec> ai deu otro erro
+[15:55:11] <mR_X_fr0m_h3LL> hax0[Core] - ave mano....
+[15:55:16] <cp_nec> falo q meu kernel ta muito grande
+[15:55:18] <cp_nec> buaaaaaaaaaaaaaaaaaaaaaa
+[15:55:19] <mR_X_fr0m_h3LL> hax0[Core] - e o ce pediu pra sair.. ? aeaua
+[15:55:30] <hax0[Core]> sai :/
+[15:55:43] <mR_X_fr0m_h3LL> hax0[Core] - phoda... 
+[15:55:47] <ne0fito[trampo]> nem sei q isso =(
+[15:55:49] <hax0[Core]> eu trabalhei na Polinter , Draco , pc-alpha
+[15:55:50] <ne0fito[trampo]> polinter
+[15:55:58] <mR_X_fr0m_h3LL> hax0[Core] - hehehehe 
+[15:56:01] <LeColatra> ne0fito[trampo] se dor de corno matasse tinha algum morto
+[15:56:01] <cp_nec> q q eu faço?
+[15:56:20] <cp_nec> mandei faze os modulos
+[15:56:20] <cp_nec> make modules
+[15:56:20] <cp_nec> to ferrasoe
+[15:56:21] <ne0fito[trampo]> LeColatra ?????? eu hein
+[15:56:22] Quit: Ping timeout: 240 seconds [aspirinas]
+[15:56:23] <hax0[Core]> ne0fito[trampo], bom , sabe oq eh Policia civil ?
+[15:56:23] <Agent_Smith> putz
+[15:56:33] <ne0fito[trampo]> hax0[Core] + -
+[15:56:34] <Agent_Smith> LeColatra soh agora q entendi o seu nick
+[15:56:35] <ne0fito[trampo]> aueheauh
+[15:56:38] <Agent_Smith> putz
+[15:56:39] <ne0fito[trampo]> hax0[Core] sei
+[15:56:41] <Agent_Smith> ki lezo
+[15:56:44] <mR_X_fr0m_h3LL> Agent_Smith - aheuaehaua
+[15:56:50] <Agent_Smith> my Good
+[15:56:50] <LeColatra> Agent_Smith :D
+[15:56:53] <cp_nec> rsyncd voce ta ai??
+[15:56:54] <Agent_Smith> onde chegamos
+[15:56:56] <hax0[Core]> eu trabalhava lá
+[15:56:58] <hax0[Core]> :)
+[15:57:01] <ne0fito[trampo]> hax0[Core] uia
+[15:57:06] <cp_nec> rsyncd voce ta ai diz q sim 
+[15:57:14] <ne0fito[trampo]> Agent_Smith eu ainda naum intendi =(
+[15:57:18] <LeColatra> cp_nec ela nao esta
+[15:57:22] <DebianColatra> Vcs Sabiam que o Agent_Smith que fez Matrix eh um dos Viadinhos de Priscila a Rainha do Deserto???
+[15:57:24] <cp_nec> ahhhhhhhhhhhhhhh
+[15:57:29] <cp_nec> aham
+[15:57:34] <ne0fito[trampo]> DebianColatra huhuhuuuuh
+[15:57:35] <hax0[Core]> Policia r0x
+[15:57:36] <cp_nec> com certez
+[15:57:41] <hax0[Core]> neh LeColatra
+[15:57:56] <hax0[Core]> eh bomzaum bater nos outros :x
+[15:58:05] <Agent_Smith> NaArea eu ia te kickar
+[15:58:11] <Agent_Smith> NaArea xa ki eh vc
+[15:58:11] <NaArea> Agent_Smith eu vi hihihi
+[15:58:13] <Agent_Smith> xaprala
+[15:58:26] <LeColatra> oia vcs dois
+[15:58:31] <cp_nec> vou testar todas as distros e ver a qual me adapto melhor
+[15:58:32] <cp_nec> qual voces me indicam pra começar
+[15:58:37] <NaArea> Agent_Smith aff, eu soh falei o q me falaram ontem no carro!!
+[15:58:45] <NaArea> cp_nec Debian
+[15:58:48] <LeColatra> cp_nec nem pergunte isso 
+[15:58:50] <hax0[Core]> kick o LeColatra
+[15:58:52] <cp_nec> heeheh
+[15:58:55] <hax0[Core]> kicka o LeColatra
+[15:58:59] <cp_nec> hauhauhuhahuh
+[15:59:09] <NaArea> hax0[Core] ele eh doido, anda armado e tudo!! da meda
+[15:59:19] <hax0[Core]> NaArea, quem ?
+[15:59:31] <NaArea> hax0[Core] o caxinha!! manda ele mostrar o panterinha proce ver!!
+[15:59:37] <hax0[Core]> ahhahahaa
+[15:59:46] <LeColatra> hax0[Core] ele gostou 
+[15:59:48] <cp_nec> eu devo começar pelo debian mandrak slack suse techlinux (connectiva ta fora da minha lista viu) !!!!!
+[15:59:52] <hax0[Core]> o papel de parede
+[15:59:53] <Agent_Smith> NaArea se os outros falam merda vc tb fala?
+[15:59:54] <cp_nec> qual?
+[16:00:04] <LeColatra> NaArea ele tinha uma 380 da foto
+[16:00:06] <NaArea> Agent_Smith nops huahuauh eh mentira???
+[16:00:10] <LeColatra> :P
+[16:00:12] <Agent_Smith> NaArea http://bohne.homelinux.net/wallpaper-deb.jpg
+[16:00:13] <hax0[Core]> po eu tenho uma foto muinha com um fuzil e uma doze em casa mao , deixa eu ver se eu acho
+[16:00:15] <hax0[Core]> hehee
+[16:00:26] <cp_nec> por q hoje ta cheio de op aki heim???
+[16:00:36] <NaArea> Agent_Smith to de BX ;-( destruiram o cooler da minha maquina
+[16:00:36] <Agent_Smith> NaArea to pesando em colocar este wallpaper no topic
+[16:00:51] <sindicate-Away> gravadoras de CD 40X12X40 - LG INT. preta/branco R$ 130,00]
+[16:00:54] <Agent_Smith> NaArea kiki se acha?
+[16:00:57] <cp_nec> akele q tinha um monte de arma???
+[16:01:04] <NaArea> Agent_Smith hum, pera ae xo ve 
+[16:01:09] <cp_nec> akele q tinha um monte de arma???
+[16:01:41] <Agent_Smith> VEJAM MEU NOVO WALLPAPER!!! http://bohne.homelinux.net/wallpaper-deb.jpg
+[16:02:04] <sindicate-Away> aki num abriu
+[16:02:07] Join: eXploit
+[16:02:15] <mR_X_fr0m_h3LL> Agent_Smith - The requested URL /wallpaper-deb.jpg was not found on this server.
+[16:02:19] <cp_nec> aki tambem nao
+[16:02:30] <cp_nec> affffffff
+[16:02:30] Join: knoppix
+[16:02:35] <sindicate-Away> GO TO HELL, BASTARD!
+[16:02:35] <sindicate-Away> You aren´t welcome!
+[16:02:36] <cp_nec> manda o troço com o link certo ne
+[16:02:38] <knoppix> como configuro o sshd?
+[16:02:40] <NaArea> aki tb deu notfound
+[16:02:42] <Agent_Smith> mR_X_fr0m_h3LL aki abre numa boa
+[16:02:45] <sindicate-Away> aff nem e a page num abre pra win
+[16:02:49] <sindicate-Away> hahaha
+[16:02:52] Quit: Remote closed the connection [knoppix]
+[16:02:53] <cp_nec> ahuhauh
+[16:02:55] <cp_nec> heheh
+[16:02:57] <cp_nec> hehe
+[16:03:04] <mR_X_fr0m_h3LL> Agent_Smith - uia.. aqui nao rola..
+[16:03:05] <NaArea> Agent_Smith viu se for besteira nem aparece, aposto q o server eh um Slack!!
+[16:03:11] <cp_nec> to com vontade d qebrar meu linux
+[16:03:15] <NaArea> mR_X_fr0m_h3LL aki tb nem rolou
+[16:03:18] <cp_nec> to de saco cheio dele
+[16:03:24] <Agent_Smith> mR_X_fr0m_h3LL vo faze up pra outro site
+[16:03:29] <Agent_Smith> mR_X_fr0m_h3LL perai esse vale a pena
+[16:03:30] <mR_X_fr0m_h3LL> Agent_Smith - blz...
+[16:03:33] <sindicate-Away> hehe
+[16:03:37] <NaArea> Agent_Smith faz upload pra um Debian q funfa ;D
+[16:03:39] <Agent_Smith> euahhuea
+[16:03:41] <Agent_Smith> NaArea vc viu neh
+[16:03:45] <cp_nec> nem compila nao q essa merda de kernel 2.4
+[16:04:11] <cp_nec> eu quero sabe qual é a proxima distro q vo usa
+[16:04:11] Join: aspirinas
+[16:04:13] <cp_nec> hauhauhu
+[16:04:21] <NaArea> Agent_Smith nem abriu aki
+[16:04:29] <Agent_Smith> ueahuea
+[16:04:29] <Agent_Smith> sei
+[16:04:32] <sindicate-Away> gravadoras de CD 40X12X40 - LG INT. preta/branco R$ 130,00]
+[16:04:38] <NaArea> serio ;D
+[16:04:38] <mR_X_fr0m_h3LL> sindicate-Away - aonde issu ?
+[16:04:42] <sindicate-Away> eu memo
+[16:04:45] <NaArea> coloca em outro site preu ver!!
+[16:04:52] <sindicate-Away> eu vendo material de informatica
+[16:05:11] <Agent_Smith> http://planeta.terra.com.br/informatica/MapleInfo/temp/deb.jpeg
+[16:05:16] <Agent_Smith> mR_X_fr0m_h3LL http://planeta.terra.com.br/informatica/MapleInfo/temp/deb.jpeg
+[16:05:19] <Agent_Smith> NaArea http://planeta.terra.com.br/informatica/MapleInfo/temp/deb.jpeg
+[16:05:27] <NaArea> puts, olha o tamanho da URL nao tinha 1 lugar menor nao??
+[16:05:35] <sindicate-Away> hahaha]
+[16:05:37] <NaArea> tenho q digitar tudu ;-(
+[16:05:39] <sindicate-Away> mR_X_fr0m_h3LL : oia o pvt
+[16:05:42] <mR_X_fr0m_h3LL> ageayegayegeyaegayeagyegayaegyegayeagayeag
+[16:05:43] <Agent_Smith> NaArea veja q criativo
+[16:05:49] <Agent_Smith> mR_X_fr0m_h3LL gostou?
+[16:05:59] <Agent_Smith> mR_X_fr0m_h3LL pode copiar eh GPL
+[16:06:01] <mR_X_fr0m_h3LL> Agent_Smith - sim.. aehaeuah 
+[16:06:09] <Agent_Smith> NaArea e vc?
+[16:06:29] Join: knoppix
+[16:06:36] Quit: Quit: [mR_X_fr0m_h3LL]
+[16:06:37] <Agent_Smith> NaArea viu ai?
+[16:06:49] <knoppix> alguem pode me dizer aonde tem um tutorial de sshd?
+[16:07:03] Join: mR_X_fr0m_h3LL
+[16:07:06] <NaArea> Agent_Smith no minimo ridiculo
+[16:07:07] <sindicate-Away> [mR_X_fr0m_h3LL]: aff
+[16:07:14] <mR_X_fr0m_h3LL> fechei o term. .aehau
+[16:07:17] <NaArea> Agent_Smith nada haver!!
+[16:07:28] <sindicate-Away> mR_X_fr0m_h3LL: hahaha
+[16:07:31] <sindicate-Away> gravadoras de CD 40X12X40 - LG INT. preta/branco R$ 130,00]
+[16:07:49] <NaArea> pessoas tem medo de usar Debian e gostar, ae da nisso!!! Fei d+++
+[16:08:06] <Paulo> Playing MPEG stream from Racionais - Negro Drama.mp3 ...
+[16:08:25] <NaArea> Xo vazar pq ja deu minha hora ;D Cya garotos!!!
+[16:08:26] Quit: Quit: [NaArea]
+[16:08:30] Join: zechim
+[16:09:03] <mR_X_fr0m_h3LL> flws..
+[16:09:50] Quit: Quit: [goldblade]
+[16:11:16] Quit: Quit: [hax0[Core]]
+[16:12:04] Join: jack22
+[16:12:18] <jack22> blz!?
+[16:12:31] <mR_X_fr0m_h3LL> opa e ae..
+[16:13:24] Quit: Quit: [kurumin]
+[16:14:13] Join: nunoneves
+[16:14:39] <cp_nec> vol
+[16:14:41] Join: unistd_
+[16:14:41] <cp_nec> tei
+[16:14:42] <nunoneves> galera ,como faço para atachar um arquivo no shell . Estou utilizando mail ....[
+[16:15:08] <nunoneves> qual a sintaxe
+[16:15:10] Part: unistd_
+[16:15:21] Part: jack22
+[16:15:27] <cp_nec> nunoneves find  / -name nomedoarkivo
+[16:16:26] <nunoneves> A linha de comando ficaria assim EX : mail -s Teste nuno@... find / -name /...
+[16:16:30] <cp_nec> nunoneves acho ???
+[16:16:47] <cp_nec> nunoneves nao
+[16:16:52] <cp_nec> tenta assim
+[16:16:56] <sindicate-Away> MB K7 ASUS A7V8X-X DDR400 SOM/LAN R$ 290,00
+[16:17:06] <cp_nec> find / -name nomedoarkivo
+[16:17:13] <sindicate-Away> K7 XP2200+ AMD R$ 255,00
+[16:17:33] <nunoneves> não quero localizar o arq , apenas mandar por e-mail ....
+[16:17:43] <LeColatra> sindicate-Away que isso ?
+[16:17:50] <sindicate-Away> peças de informatica
+[16:17:54] <cp_nec> entao localiza ele e manda por email
+[16:17:55] <LeColatra> ta abrindo banca de venda ?
+[16:17:58] <sindicate-Away> [LeColatra]: peças de informatica
+[16:18:01] <Shebbas> camelo
+[16:18:04] <sindicate-Away> [LeColatra]: eheheh ja tenho
+[16:18:11] <Shebbas> vai vender essas bagueiras pra la
+[16:18:36] <sindicate-Away> «Shebbas» nem
+[16:18:46] <sindicate-Away> to vendendo mais barado po povo do canal
+[16:18:46] <nunoneves> eu só quero saber a sintaxe de anexar um arquivo no e-mail atraves do shell 
+[16:18:59] <Shebbas> a ta falou
+[16:19:49] <cp_nec> ou
+[16:19:59] <cp_nec> Shebbas e ai blz
+[16:20:00] <Shebbas> vou empalar um teclado em K7
+[16:20:05] <cp_nec> ta compilando aki
+[16:20:05] <zechim> <nunoneves> man mail
+[16:20:18] <cp_nec> so q ta dando uns erro mo estranho
+[16:20:24] <nunoneves> Não entendi nada desse man !!!!!!!
+[16:20:31] <sindicate-Away> .:cp_nec: é o reker ke invadiu vc
+[16:20:34] <nunoneves> Esse man é uma bosta .....
+[16:20:35] <Shebbas> cp_nec levando brother
+[16:20:39] <cp_nec> ta falando warnig the autor ......
+[16:20:50] <cp_nec> ahuhauhauiaiah
+[16:21:00] <sindicate-Away> ta vendio
+[16:21:02] <cp_nec> ele invadiu meu linux?
+[16:21:10] <mR_X_fr0m_h3LL> cp_nec - warning nao eh erro..
+[16:21:16] <cp_nec> eu sei
+[16:21:23] Join: goldblade
+[16:21:25] <sindicate-Away> hehe]
+[16:21:31] <cp_nec>  mas quando termina de compila vai vira um monte d erro
+[16:21:39] <mR_X_fr0m_h3LL> cp_nec - entao pq ce ta falando que ta dando erro ?
+[16:21:56] <cp_nec> pq ta des dakela hora compilando
+[16:22:09] <R00T3R> ai essa festa vai ser aonde????
+[16:22:12] <mR_X_fr0m_h3LL> cp_nec - que maquina eh ?
+[16:22:31] Quit: Read error: 54 (Connection reset by peer) [M3m0rY]
+[16:22:31] Part: nunoneves
+[16:22:36] <cp_nec> i586 ou pentium MMX 32 mb de ram VGA 1mb
+[16:22:51] Join: M3m0rY
+[16:23:04] Quit: Read error: 54 (Connection reset by peer) [aspirinas]
+[16:23:11] <mR_X_fr0m_h3LL> cp_nec - por isso ta demorando ...
+[16:23:12] <cp_nec> i586 ou pentium MMX 32 mb de ram VGA 1mb @mR_X_fr0m_h3LL
+[16:23:16] <cp_nec> ahhh
+[16:23:19] <sindicate-Away> haha
+[16:23:21] <cp_nec> entao ta explicado
+[16:23:30] <cp_nec> é a makina q uso pra estudar linux
+[16:23:31] <R00T3R> Agent_Smith:  ai Agent_Smith aonde vai ser a festa
+[16:23:39] <cp_nec> q festa
+[16:23:47] <cp_nec> nao fui convidado ainda
+[16:24:21] <cp_nec> @mR_X_fr0m_h3LL seu nick tem alguma coisa a ver com a interface X do linux????
+[16:24:40] <mR_X_fr0m_h3LL> cp_nec - nem.. heeheh
+[16:24:45] <sindicate-Away> K7 XP2200+ AMD R$ 255,00
+[16:24:46] <cp_nec> @mR_X_fr0m_h3LL blz
+[16:24:48] <sindicate-Away> gravadoras de CD 40X12X40 - LG INT. preta/branco R$ 130,00]
+[16:24:51] Quit: Read error: 54 (Connection reset by peer) [ne0fito[trampo]]
+[16:24:52] <sindicate-Away> MB K7 ASUS A7V8X-X DDR400 SOM/LAN R$ 290,00
+[16:25:04] <LeColatra> sindicate-Away chega
+[16:25:15] <cp_nec> é ra ficando chato
+[16:25:23] <cp_nec> ooooo demora lascada
+[16:25:27] <sindicate-Away> hahha
+[16:25:33] <sindicate-Away> phoda seis saum mau
+[16:25:33] <mR_X_fr0m_h3LL> cp_nec - aqui vai rapidaum.. aehaeuah
+[16:25:42] <mR_X_fr0m_h3LL> cp_nec - hell@node:/bugigangas$ cat /proc/cpuinfo 
+[16:25:46] <mR_X_fr0m_h3LL> vendor_id       : AuthenticAMD
+[16:25:48] <mR_X_fr0m_h3LL> model name      : AMD Athlon(TM) XP1600+
+[16:25:52] <mR_X_fr0m_h3LL> hell@node:/bugigangas$ 
+[16:26:05] <cp_nec> q q isso @mR_X_fr0m_h3LL
+[16:26:25] <cp_nec> mas tambem ne comparar uma carroça a uma ferrari
+[16:26:31] <cp_nec> nao da ne
+[16:26:33] <sindicate-Away> haaha
+[16:26:34] <cp_nec> huahuahuihiuah
+[16:26:42] <sindicate-Away> carroça e melhor gasta menos ke a ferrari
+[16:26:44] <mR_X_fr0m_h3LL> aehauehaue
+[16:26:46] <cp_nec> a carroça q to usndo o linux 
+[16:26:48] <R00T3R> sindicate-Away:  fala ai iannnnn beleza
+[16:26:49] <sindicate-Away> haha aki em sampa e bom carroça
+[16:26:52] <cp_nec> com certeza
+[16:26:54] <sindicate-Away> «rootsh» blz
+[16:26:59] <mR_X_fr0m_h3LL> cp_nec - ae compra uma nova com o sindicate
+[16:27:01] Join: ne0fito[trampo]
+[16:27:04] <sindicate-Away> root3bl
+[16:27:04] <cp_nec> hauah
+[16:27:07] <R00T3R> alguem sabe dizer aonde sera a festa
+[16:27:10] <cp_nec> to montandu minha makina
+[16:27:13] <sindicate-Away> R00T3R: blz veio
+[16:27:15] <R00T3R> sindicate-Away:  na boa e o clau cara
+[16:27:20] <cp_nec> segunda feira vo compra o hd
+[16:27:25] <sindicate-Away> .:R00T3R: ???
+[16:27:37] <cp_nec> vo compra um de 40g
+[16:27:40] <cp_nec> ta bom ?
+[16:27:42] Quit: Quit: [eXploit]
+[16:27:45] <cp_nec> eu acho q ta
+[16:27:54] <mR_X_fr0m_h3LL> cp_nec - pra essa maquina ? pq nao compra uma placa mae ?
+[16:28:08] <cp_nec> nao é pra essa makina
+[16:28:13] <cp_nec> é pra minha makina
+[16:28:16] <cp_nec> q vo monta
+[16:28:18] <R00T3R> sindicate-Away:  claudecir
+[16:28:19] <cp_nec> entende
+[16:28:25] <mR_X_fr0m_h3LL> sim...
+[16:28:29] <cp_nec> hummm
+[16:28:40] <cp_nec> vo tenta monta um pc bom 
+[16:28:46] <cp_nec> mas vai sai meio kro
+[16:28:54] <cp_nec> com meu salario 
+[16:28:56] <R00T3R> sindicate-Away:  é seu o site?
+[16:28:57] <sindicate-Away> [cp_nec]: HD 40.0 GB SAMSUNG IDE 7200RPM R$235,00
+[16:28:59] <cp_nec> vo demora 5 anos
+[16:29:39] <cp_nec> vo compra um hd de 40g novo lacrado por 248R
+[16:31:40] Quit: Quit: [__NE0]
+[16:31:49] Join: P4N1C0
+[16:33:06] Quit: Conectado por tempo insuficiente [P4N1C0]
+[16:33:13] Join: nightnux
+[16:33:23] <LeAuei> mR_X_fr0m_h3LL cuida da casa fio
+[16:33:28] <mR_X_fr0m_h3LL> flws..
+[16:33:40] Part: WhiteShin
+[16:35:33] Quit: Quit: [soap]
+[16:36:12] Join: Leonardo_Lopes
+[16:36:49] <Leonardo_Lopes> LeAuei: uia, leticia falsa
+[16:36:50] <Leonardo_Lopes> hehehe
+[16:36:55] <Leonardo_Lopes> !news
+[16:37:31] <LnxHelp>  Building an Advanced Mail Server  [sheyh]   
+[16:37:33] <LnxHelp>  Introductory: wireless technology  [sheyh]   
+[16:37:35] <LnxHelp>  OpenOffice.org 1.1.0 Released  [sheyh]   
+[16:37:37] <LnxHelp>  SuSE Linux 9.0 Announced  [sheyh]   
+[16:37:39] <LnxHelp>  Which Linux Distro Is Best For You?  [sheyh]   
+[16:37:41] <LnxHelp>  read these news on http://www.linux-on-line.net 
+[16:38:00] Join: Atchixim
+[16:39:02] Quit: Quit: [contraventor]
+[16:40:10] <Agent_Smith> Leonardo_Lopes esse news eh do dotslash?
+[16:40:35] <Agent_Smith> Leonardo_Lopes tem como tirar esse auto-op do LnxHelp
+[16:41:56] <Agent_Smith> LeAuei acorda panterinha
+[16:42:19] <mR_X_fr0m_h3LL> LeAuei - ele foi ali e ja vorta..
+[16:42:24] Join: contraventor
+[16:42:42] <SlackColatra> voltei
+[16:42:42] <SlackColatra> =)
+[16:42:53] <SlackColatra> uia
+[16:42:56] <Agent_Smith> mR_X_fr0m_h3LL ele kem?
+[16:42:58] <SlackColatra> espanco 
+[16:43:00] <SlackColatra> 14 =~
+[16:43:00] Quit: Ping timeout: 240 seconds [Leonardo_Lopes]
+[16:43:06] <mR_X_fr0m_h3LL> Agent_Smith - o LeAueie
+[16:43:11] <SlackColatra> LeAuei =@@@@@@@@@@@@@@
+[16:43:26] <f3ck4r> Ae
+[16:43:28] <ne0fito[trampo]> SlackColatra o dona, viu o pvt?
+[16:43:29] <f3ck4r> hehehe :PP
+[16:43:33] <SlackColatra> nao ne0fito[trampo] 
+[16:43:35] <Agent_Smith> pq todos estao camuflados hj?
+[16:43:39] <SlackColatra> Agent_Smith =P
+[16:43:45] <Agent_Smith> SlackColatra BD
+[16:43:50] <SlackColatra> Agent_Smith admitimos q somos colatras
+[16:43:52] Quit: Quit: [ViperX]
+[16:43:52] <ne0fito[trampo]> SlackColatra o negocio de ontem funcionow certin =)
+[16:44:22] <Agent_Smith> SexColotra?
+[16:44:26] <Agent_Smith> eauheuhaea
+[16:44:39] <ne0fito[trampo]> SlackColatra mas, ao conectar na maquina remota dentro do script, ele reboota a maquina e fica agarrado la dentro, no bash do ssh =(
+[16:45:58] Part: sindicate
+[16:46:01] Join: sindicate
+[16:46:04] <SlackColatra> Agent_Smith se vc eh fisurado em sexo
+[16:46:12] <sindicate> hahah
+[16:46:25] <f3ck4r> uhahuahuaiha
+[16:46:39] <SlackColatra> =PPP
+[16:46:44] <f3ck4r> sexoloolatra
+[16:46:52] <f3ck4r> sexocoolatra
+[16:46:58] <f3ck4r> uhauhauhaua
+[16:47:01] <BSDColatra> hahahahhaa
+[16:47:21] Quit: Quit: [C0d1g0]
+[16:47:31] <f3ck4r> putz quantos colatra
+[16:47:32] Join: L1nuxer
+[16:47:35] Part: L1nuxer
+[16:47:35] <LnxAjudaColatra> hahahahhaa
+[16:47:38] <LnxAjudaColatra> =P
+[16:47:44] <mR_X_fr0m_h3LL> ave...
+[16:47:47] <f3ck4r> ixe
+[16:48:00] <f3ck4r> AA ixe
+[16:48:04] <f3ck4r> vai fikar lotada
+[16:48:04] Quit: Ping timeout: 240 seconds [kille]
+[16:48:07] <LnxAjudaColatra> mR_X_fr0m_h3LL vc eh um ChatoColatra
+[16:48:14] <f3ck4r> uhahuahuahuahuaiahuahiahuiaa
+[16:48:16] <mR_X_fr0m_h3LL> sim...
+[16:48:22] <LnxAjudaColatra> hunpf
+[16:48:24] Join: Guest63821
+[16:48:24] <LnxAjudaColatra> ne0fito[trampo] diga la
+[16:48:29] <LnxAjudaColatra> qual a duvida ?
+[16:48:33] <mR_X_fr0m_h3LL> LnxAjudaColatra - =PPPPPPP
+[16:48:39] <ne0fito[trampo]> como faço pra ele naum parar?
+[16:48:45] <LnxAjudaColatra> ne0fito[trampo] como assim ?
+[16:48:54] <LnxAjudaColatra> sleep
+[16:48:55] <LnxAjudaColatra> comando
+[16:48:56] <LnxAjudaColatra> kill
+[16:48:59] <LnxAjudaColatra> =P
+[16:49:04] <f3ck4r> killall colatra
+[16:49:04] <ne0fito[trampo]> huuhuhu
+[16:49:08] <ne0fito[trampo]> calma
+[16:49:09] <f3ck4r> ahuhauhuahiahua
+[16:49:10] <ne0fito[trampo]> ...
+[16:49:12] <LnxAjudaColatra> melhor
+[16:49:17] <LnxAjudaColatra> comando
+[16:49:19] <LnxAjudaColatra> sleep
+[16:49:19] <LnxAjudaColatra> kill
+[16:49:21] <ne0fito[trampo]> LnxAjudaColatra lembra do script de ontem?
+[16:49:21] <Guest63821> na onde pego o gcc e o cc
+[16:49:23] <LnxAjudaColatra> pega o pid
+[16:49:28] <Guest63821> l
+[16:49:34] <Guest63821> ei
+[16:49:35] <LnxAjudaColatra> Guest63821 www.gcc.org
+[16:49:41] <f3ck4r> www.slackware.com
+[16:49:42] <LnxAjudaColatra> nussa
+[16:49:44] <LnxAjudaColatra> qdo guest
+[16:49:47] <LnxAjudaColatra> =~
+[16:50:01] <LnxAjudaColatra> boa
+[16:50:01] <LnxAjudaColatra> =)
+[16:50:10] <f3ck4r> ei guests pra registrar seu nick basta /quote nickserv register e-mail senha
+[16:50:14] <LnxAjudaColatra> Guest61761 change your nick please
+[16:50:28] Join: BulletProof_Monk
+[16:50:32] <f3ck4r> depois pra registrar
+[16:50:36] <L1nuxer> LnxAjudaColatra, tentando
+[16:50:37] <L1nuxer> hauhauha
+[16:50:40] <f3ck4r> e /quote nickserv identify senha
+[16:50:41] <LnxAjudaColatra> hehehehe
+[16:50:41] <LnxAjudaColatra> =)
+[16:50:45] <f3ck4r> :PP
+[16:50:48] <LnxAjudaColatra> boa f3ck4r 
+[16:50:49] <ne0fito[trampo]> LnxAjudaColatra lembra do script do ssh ontem?
+[16:50:53] <f3ck4r> uheuheheieia
+[16:50:53] <Guest61761> & <@Lua> LnxAjudaColatra a calmae to fazendo umas paradas no pvt mano a Brasnet ta com frescura
+[16:50:55] <LnxAjudaColatra> sim ne0fito[trampo] 
+[16:51:00] <Guest61761> & <@Lua> to conf meu linux aqui
+[16:51:06] <LnxAjudaColatra> Guest61761 =)
+[16:51:07] Join: SLACK`91`eh`bom`hein
+[16:51:09] <f3ck4r> hehehehehe
+[16:51:13] <f3ck4r> eita olha s0h
+[16:51:22] <LnxAjudaColatra> SLACK`91`eh`bom`hein eh bom mesmo!
+[16:51:24] <LnxAjudaColatra> =)
+[16:51:32] <SLACK`91`eh`bom`hein> =]
+[16:51:34] <SLACK`91`eh`bom`hein> kra
+[16:51:35] <SlackColatra> hahahhaahha
+[16:51:35] <CaFeCoLaTrA> uhahuahuahiahuaiha
+[16:51:36] <SLACK`91`eh`bom`hein> tenho q baxart
+[16:51:38] <SlackColatra> CaFeCoLaTrA boa boa
+[16:51:39] <SlackColatra> =P
+[16:51:42] <CaFeCoLaTrA> uhahuahuahaihauia
+[16:51:45] <SLACK`91`eh`bom`hein> onde tem um mirror bom??
+[16:51:49] <CaFeCoLaTrA> curti o nick
+[16:51:51] <ne0fito[trampo]> SlackColatra argggggggg, para kieta moça
+[16:51:54] <ne0fito[trampo]> =)
+[16:51:55] <SlackColatra> SLACK`91`eh`bom`hein www.linuxajuda.com.br
+[16:51:58] <SlackColatra> pega no news
+[16:52:02] <SlackColatra> tem o endereco do ISO
+[16:52:13] <mR_X_fr0m_h3LL> pelo bittorrent eh mais facil e mais rapido..
+[16:52:29] <CaFeCoLaTrA>  Nick CaFeCoLaTrA registrado a partir de sua conta:
+[16:52:32] <SLACK`91`eh`bom`hein> no site do superdownloads tah faladno q tem 4isos!!??
+[16:52:32] <SlackColatra> eh o mais rapido ate agora q achei
+[16:52:32] <SlackColatra> ta tudo lotado
+[16:52:32] <SlackColatra> e ve tb em ftp.slackware.at
+[16:52:33] <CaFeCoLaTrA> heheheheehehe
+[16:52:33] <SlackColatra> mR_X_fr0m_h3LL ªª
+[16:52:35] <SlackColatra> hahahahhah
+[16:52:37] <SlackColatra> sim slack
+[16:52:40] <SlackColatra> 1 - install
+[16:52:44] <drummer> SlackColatra
+[16:52:45] <SlackColatra> 2 - interfaces
+[16:52:46] <drummer> uuhAEUHAuioehaOAE
+[16:52:48] <CaFeCoLaTrA> todos somos ColaTras numa treta
+[16:52:48] <SlackColatra> 3 e 4 sao source
+[16:52:53] <SlackColatra> vc tem q pegar o 1 e 2
+[16:52:54] <CaFeCoLaTrA> huahuahuahuahihuaia
+[16:53:04] <CaFeCoLaTrA> eu tomei 2 garrafas cheias de cafe ateh agora
+[16:53:05] <Agent_Smith> SlackColatra nao sou fisurado em nada
+[16:53:10] <SlackColatra> hahahhaa
+[16:53:14] <SlackColatra> Agent_Smith eh sim
+[16:53:17] <Agent_Smith> em q?
+[16:53:20] <CaFeCoLaTrA> e verdade 
+[16:53:23] <ne0fito[trampo]> SlackColatra tipo assim, criei um usuario na maquina remota com o .bash_profile, um sudo /sbin/shutdown -r now! blz, funfow!! esta deligando mas ao desligar o script parece q para na bash de conexao ao cliente sshd, como posso fazer por script continuar ? intendeu?
+[16:53:24] <CaFeCoLaTrA> todos somos sim
+[16:53:26] <SlackColatra> RedesNeuraisColatra
+[16:53:27] <Shebbas> vai morrer de esclerose cedo cedo cafeina mata
+[16:53:30] <SlackColatra> hahahhaa
+[16:53:32] <CaFeCoLaTrA> pow init 6
+[16:53:32] <Agent_Smith> nopz
+[16:53:35] <SlackColatra> =P
+[16:53:42] <Agent_Smith> MatrixColotra talvez
+[16:53:50] <CaFeCoLaTrA> uhahuahuahuahiahuia
+[16:53:54] Quit: Ping timeout: 180 seconds [contraventor]
+[16:53:59] <Agent_Smith> ateh hj nao descobri meu vicio
+[16:54:07] <CaFeCoLaTrA> Ah fala seio
+[16:54:08] <SlackColatra> nao eh no profile
+[16:54:10] <CaFeCoLaTrA> serio
+[16:54:14] <SlackColatra> e no .bash_login do user
+[16:54:22] <CaFeCoLaTrA> eu ja descobri agente smith
+[16:54:26] <Agent_Smith> talves sede de conhecimento em qq area
+[16:54:30] <CaFeCoLaTrA> MatrixColaTra
+[16:54:34] <SlackColatra> Agent_Smith SmithColatra
+[16:54:35] <CaFeCoLaTrA> iauhahuhuahuaihhauia
+[16:54:35] <Agent_Smith> eauhea
+[16:54:39] <Agent_Smith> SlackColatra nopz
+[16:54:42] <ne0fito[trampo]> SlackColatra vai funfar, sem parar?
+[16:54:43] <CaFeCoLaTrA> huahuahuhaiahiaa
+[16:54:47] <SlackColatra> ne0fito[trampo] deveria
+[16:54:59] <SlackColatra> ne0fito[trampo] coloca la
+[16:55:02] <SlackColatra> para dar halt
+[16:55:04] <SlackColatra> e deslogar
+[16:55:05] <Agent_Smith> SlackColatra soh me identifiquei com o meliante (smith) devido a fomosa comparacao da raca humana com virus
+[16:55:08] <SlackColatra> assim ele libera a maquina
+[16:55:15] <CaFeCoLaTrA> hunf
+[16:55:16] <SlackColatra> ahahhahahahha
+[16:55:21] <SlackColatra> Agent_Smith IndecisoColatra
+[16:55:23] <SlackColatra> pronto
+[16:55:23] <CaFeCoLaTrA> MatrixColatra
+[16:55:26] <SlackColatra> este eh vc
+[16:55:28] <SlackColatra> =P
+[16:55:31] <CaFeCoLaTrA> =PP
+[16:55:33] <Agent_Smith> SlackColatra provavelmente
+[16:55:35] <Agent_Smith> euahueha
+[16:55:37] <CaFeCoLaTrA> uhahahuahia
+[16:55:38] <SlackColatra> hehehe
+[16:55:38] <ne0fito[trampo]> SlackColatra tipo: sudo /sbin/shutdown -r now && exit ?
+[16:55:45] <SlackColatra> estamos chegando perto
+[16:55:49] <SlackColatra> nem ne0fito[trampo] 
+[16:55:53] <SlackColatra> da  sudo
+[16:55:53] <CaFeCoLaTrA> LinuxColatras somos todos nos
+[16:55:56] <SlackColatra> e na linha de baixo
+[16:55:58] <SlackColatra> logout
+[16:55:58] <CaFeCoLaTrA> uhahuahuahiaia
+[16:56:00] <SlackColatra> ou exit
+[16:56:01] <Agent_Smith> se jah deu shutdown pra q o exit ?????????
+[16:56:05] <Shebbas> acreditem ele vai voltar http://www.napster.com/
+[16:56:33] <SlackColatra> LeAuei grrrrrrrrrrr
+[16:56:34] <Agent_Smith> SlackColatra eu li sobre uma doenca de sede por conhecimento
+[16:56:36] <SlackColatra> volta logo
+[16:56:37] <CaFeCoLaTrA> blah
+[16:56:39] <Agent_Smith> SlackColatra acho q tenho essa parada
+[16:56:40] Join: contraventor
+[16:56:44] <SlackColatra> ahahahhahhhahahaha
+[16:56:49] <CaFeCoLaTrA> eita
+[16:56:52] <Agent_Smith> SlackColatra nao posso ver uma Super Interessante q quero ler
+[16:56:54] <DebianColatra> =)
+[16:57:02] Quit: Remote closed the connection [zechim]
+[16:57:04] <SlackColatra> contraventor =@@@@@@@@@@@@@@@@@@@@@@@
+[16:57:07] <CaFeCoLaTrA> uahuahuahuahiahuaia
+[16:57:07] <Agent_Smith> PuzzleColotra
+[16:57:09] <SlackColatra> hahahhaaha
+[16:57:10] <Agent_Smith> eahue
+[16:57:12] <Agent_Smith> eu gosto
+[16:57:12] <CaFeCoLaTrA> uhahuahuhuaihaa
+[16:57:15] <L1nuxer> CaFeCoLaTrA, ta na sessao de downloads o gcc e o cc
+[16:57:15] <SlackColatra> ManiacoColatra
+[16:57:16] <Agent_Smith> Puzzle
+[16:57:23] <Shebbas> fico imaginando se a banda larga fosse como é hoje nos tempos do napster so ia ter hd explodindo
+[16:57:26] <CaFeCoLaTrA> ta na sessão packages
+[16:57:30] <SlackColatra> hahahaha
+[16:57:34] <SlackColatra> eh verdade Shebbas 
+[16:57:34] <contraventor> SlackColatra :@@@@@@@@@@@@@@@@@@@@
+[16:57:40] <CaFeCoLaTrA> coloca sua distru e gcc e cc
+[16:57:44] <CaFeCoLaTrA> e ja era
+[16:57:45] Quit: Remote closed the connection [knoppix]
+[16:57:47] <SlackColatra> contra... q colatra eh vc ?
+[16:57:51] <GeeKolotra> BD
+[16:57:53] <GeeKolotra> ops
+[16:57:55] <GeeKolotra> :)
+[16:57:57] <SlackColatra> hahahha
+[16:57:59] Join: super_tricolor
+[16:57:59] <CaFeCoLaTrA> ahuahuauhahiauhia
+[16:58:00] <SlackColatra> GeekColatra
+[16:58:01] <GeeKolotra> tirei os oculos
+[16:58:05] <CaFeCoLaTrA> caraca
+[16:58:14] <SlackColatra> super_tricolor =@@@@@@@@@@@@@@@@@@@@@@@@@@
+[16:58:15] <L1nuxer> CaFeCoLaTrA, se o meu HD deixasse fazer milhagre na hora da instalacao eu colocaria
+[16:58:23] <SLACK`91`eh`bom`hein> no site do superdownloads tah faladno q tem 4isos!!??
+[16:58:25] <CaFeCoLaTrA> hunf
+[16:58:26] <L1nuxer> CaFeCoLaTrA, 1.7 GB de HD
+[16:58:30] <CaFeCoLaTrA> pega pra sua distru
+[16:58:35] <SlackColatra> super_tricolor DelphiColatra
+[16:58:37] <L1nuxer> CaFeCoLaTrA, vou fazer isso
+[16:58:38] <CaFeCoLaTrA> qualquer q seja ela
+[16:58:40] <GeeKolotra> <SLACK`91`eh`bom`hein> no site do superdownloads tah faladno q tem 4isos!!??
+[16:58:40] Quit: Quit: [L1nuxer]
+[16:58:43] <GeeKolotra> isso eh nick
+[16:58:44] <GeeKolotra> para
+[16:58:49] <super_tricolor> SlackColatra uia =]
+[16:58:49] <SlackColatra> SLACK`91`eh`bom`hein sim... pega o ISO 1 e 2
+[16:58:52] <super_tricolor> SlackColatra ae =]
+[16:58:53] <SlackColatra> o 3 e 4 eh source
+[16:59:10] <SlackColatra> tb super_tricolor =)))
+[16:59:16] <GeeKolotra> SlackColatra soh no sussu hj?
+[16:59:18] <SlackColatra> LeAuei volta logo panterinha inutil
+[16:59:24] <SlackColatra> LeAuei = PanterinhaColatra
+[16:59:29] <GeeKolotra> eauhea
+[16:59:32] <CaFeCoLaTrA> caraca talvez segunda começo a trampar
+[16:59:38] <GeeKolotra> SlackColatra pq vc chama ele de panterinha?
+[16:59:38] <SlackColatra> CaFeCoLaTrA uia
+[16:59:39] <SlackColatra> =`
+[16:59:45] <SlackColatra> GeeKolotra pq ele eh mole
+[16:59:45] <CaFeCoLaTrA> serio
+[16:59:53] <LeAuei> SlackColatra vou buscar um modem 
+[16:59:54] <CaFeCoLaTrA> mexe com manutenção
+[16:59:56] <mR_X_fr0m_h3LL> CaFeCoLaTrA - ow arruma um trampo ae ?
+[16:59:56] <SlackColatra> fui tarar ele
+[16:59:57] <LeAuei> :P
+[16:59:58] <SlackColatra> e ele correu
+[16:59:59] <GeeKolotra> SlackColatra tah di folga hj?
+[17:00:00] <SlackColatra> =~
+[17:00:02] <CaFeCoLaTrA> blah
+[17:00:24] <SlackColatra> LeAuei =PPPPPPPP
+[17:00:28] <SlackColatra> uia
+[17:00:33] <SlackColatra> me deram uma piada agora
+[17:00:36] <mR_X_fr0m_h3LL> haeuahu correu ?
+[17:00:36] <SlackColatra> olha so
+[17:00:43] <SlackColatra> pq o japones compra camisinha na vespera ?
+[17:00:50] <SlackColatra> resposta... pq ele tem q fazer a bainha
+[17:00:52] <CaFeCoLaTrA> tipo  manutencão instalação de softer e conf de system e wireless r0x
+[17:00:52] <SlackColatra> ...
+[17:00:53] <LeAuei> SlackColatra piada ??
+[17:00:54] Join: Siarom
+[17:00:55] Quit: Quit: [drummer]
+[17:00:57] <SlackColatra> tsc tsc
+[17:01:03] <CaFeCoLaTrA> heheheehhe
+[17:01:05] <CaFeCoLaTrA> trampo owned
+[17:01:12] Part: Siarom
+[17:01:28] <CaFeCoLaTrA> e tem tb um trampo numa LanHouse
+[17:01:31] <SlackColatra> 1 minuto de silencio!
+[17:01:33] <CaFeCoLaTrA> q e caso a pensar
+[17:01:35] <GeeKolotra> putz
+[17:01:37] <SlackColatra> hahahahaa
+[17:01:41] <GeeKolotra> SlackColatra essa foi fraca
+[17:01:47] <SlackColatra> foi mesmo GeeKolotra 
+[17:01:53] <SlackColatra> me dao estas merdas pra ler
+[17:02:02] <CaFeCoLaTrA> Ae MrX from hell mora aonde?
+[17:02:11] <mR_X_fr0m_h3LL> CaFeCoLaTrA - sampa...
+[17:02:16] <CaFeCoLaTrA> caraca ai e foda
+[17:02:20] <CaFeCoLaTrA> to no Maranhão
+[17:02:25] <CaFeCoLaTrA> iuxe
+[17:02:35] <CaFeCoLaTrA> pow em sampa bola trampo demais
+[17:02:39] <mR_X_fr0m_h3LL> CaFeCoLaTrA - ave.... 
+[17:02:43] <CaFeCoLaTrA> que issu
+[17:02:46] <CaFeCoLaTrA> tu faz oq?
+[17:02:49] <GeeKolotra> tipo dois portugues andando pela rua e uma pombo caga na cabeca de um, o outro pergunta "Manuel, que isto a ka em tu cabeça?"
+[17:02:50] <mR_X_fr0m_h3LL> CaFeCoLaTrA - aonde isso que eeu nao sei..
+[17:02:57] <GeeKolotra> o outro diz "Eh merda!"
+[17:03:01] <CaFeCoLaTrA> q tu faz?
+[17:03:09] <DebianColatra> SlackColatra o conectiva naum tem .bash_login
+[17:03:11] <mR_X_fr0m_h3LL> CaFeCoLaTrA - adm linux...
+[17:03:15] <CaFeCoLaTrA> r0x
+[17:03:16] <GeeKolotra> o outro diz "Nao! Eu digo por fora!"
+[17:03:18] <SlackColatra> redhate_ RedHatColatra
+[17:03:24] <CaFeCoLaTrA> meu trampo real e Assessoria Linux
+[17:03:30] <SlackColatra> DebianColatra crie-o
+[17:03:36] <CaFeCoLaTrA> mais agente no mundo de hj faz de tudo
+[17:03:37] <SlackColatra> na pasta home do user
+[17:03:43] <SlackColatra> arghhhhhhhhhhhh
+[17:03:45] <CaFeCoLaTrA> menos vende meu corpo
+[17:03:48] <SlackColatra> vc ta fazendo isto em um CL ???????????
+[17:03:48] <CaFeCoLaTrA> hahuahuaaihahia
+[17:03:49] <redhate_> SlackColatra redhatecolatra SLACKWARE OWNZ!!!
+[17:03:50] <SlackColatra> credo
+[17:03:52] <DebianColatra> SlackColatra ja criei, mas ele naum esse arquivo
+[17:03:52] <SlackColatra> nao te ajudo mais
+[17:03:53] <GeeKolotra> CaFeCoLaTrA ehauehau cuidado com o q diz
+[17:03:53] <SlackColatra> =~
+[17:03:55] <DebianColatra> BitchX-1.0c18+ by panasync - Linux 2.4.18-2cl
+[17:03:57] <DebianColatra> =(
+[17:03:57] <CaFeCoLaTrA> serio
+[17:04:03] <mR_X_fr0m_h3LL> CaFeCoLaTrA - eu tb...semana passada instalei um speedy em um win95 .. aehau
+[17:04:05] <CaFeCoLaTrA> mais ta phoda msm
+[17:04:19] <CaFeCoLaTrA> porra olha o trampo que eu ja peguei
+[17:04:27] <CaFeCoLaTrA> comp naum ligava
+[17:04:28] <Anti-CLColatra> Linux labo 2.4.22 #6 Tue Sep 2 17:43:01 PDT 2003 i586 unknown unknown GNU/Linux
+[17:04:33] <Anti-CLColatra> slack 9.1
+[17:04:43] <CaFeCoLaTrA> quando fui ver o fdp aumentou o speedy do proc na bios
+[17:04:52] <CaFeCoLaTrA> tipo de 1.3 pra 1.7
+[17:05:00] <CaFeCoLaTrA> uhahuahuauhaaihauhaia ai num liga msm naum
+[17:05:01] <LeAuei> Anti-CLColatra :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[17:05:08] Join: CokeLUch`x]
+[17:05:09] <DebianColatra> Anti-CLColatra =) o conectiva naum le esse ~/.bash.login
+[17:05:09] <CaFeCoLaTrA> mudei pra 1.3 e tudop rodando
+[17:05:18] <CaFeCoLaTrA> 50 r$
+[17:05:19] <Anti-CLColatra> coconectiva hahahahaha
+[17:05:19] <Anti-CLColatra> boa
+[17:05:23] Join: MrMetal-Work
+[17:05:24] <CokeLUch`x]> alguem pode me ajudar a configurar meu modem no linux?
+[17:05:25] <CaFeCoLaTrA> Ae demoro
+[17:05:29] <mR_X_fr0m_h3LL> CaFeCoLaTrA - cobrei 30 pra instalar o speedy...
+[17:05:29] <CaFeCoLaTrA> qual modem?
+[17:05:29] <Anti-CLColatra> DebianColatra .bashrc
+[17:05:40] <MrMetal-Work> e ae galera
+[17:05:41] <Anti-CLColatra> CokeLUch`x] qual modem ?
+[17:05:41] <CaFeCoLaTrA> cara mais o mais r0x de tudo e mexer com linux
+[17:05:51] <Anti-CLColatra> ae MrMetal-Work 
+[17:05:53] <CaFeCoLaTrA> tipo eu mexo com wireless aqui
+[17:05:55] <DebianColatra> coconetitica
+[17:05:57] <GeeKolotra> vai comeca a floodagem
+[17:06:03] <CaFeCoLaTrA> install no lnx
+[17:06:07] <GeeKolotra> FlooDolotra
+[17:06:09] <CaFeCoLaTrA> e tudo +
+[17:06:12] Quit: Quit: [sindicate]
+[17:06:13] <CokeLUch`x]> (Anti-CLColatra) agere
+[17:06:14] <mR_X_fr0m_h3LL> CaFeCoLaTrA - nunca mexi com wireless
+[17:06:21] <Anti-CLColatra> lovezinho = FloodColatra
+[17:06:25] <CaFeCoLaTrA> pow e mto shown
+[17:06:32] <CaFeCoLaTrA> aqui rola soh wireless e cable
+[17:06:37] <CarenteColatra> =~
+[17:06:50] <mR_X_fr0m_h3LL> CaFeCoLaTrA - eu mexi com lp, fibra, frame, speedy... 
+[17:06:52] <GeeKolotra> CarenteColatra depois eu q sou indeciso
+[17:06:53] <CaFeCoLaTrA> entaum os kra do prov daqui naum sabe c contrata eu c so chama pra fazer uns trampo e phoda
+[17:06:54] <GeeKolotra> euahuhea
+[17:07:09] <GeeKolotra> BaXaNdO`SLaCK`91 e vc tah aki ainda!
+[17:07:11] <CokeLUch`x]> Anti: pode me ajudar?
+[17:07:16] <CaFeCoLaTrA> ja fiz trampo numma lanHouse
+[17:07:16] <BaXaNdO`SLaCK`91> aff
+[17:07:19] <BaXaNdO`SLaCK`91> nem tow naum
+[17:07:20] <GeeKolotra> BaXaNdO`SLaCK`91 nick TOSCO!
+[17:07:21] <BaXaNdO`SLaCK`91> eu sai
+[17:07:22] <CaFeCoLaTrA> em 90 computador
+[17:07:22] <CokeLUch`x]> CarenteColatra pode me ajudar?
+[17:07:24] <BaXaNdO`SLaCK`91> kra
+[17:07:26] <BaXaNdO`SLaCK`91> esse naum eh meu nick
+[17:07:31] <BaXaNdO`SLaCK`91> eu nem entro na brasnet
+[17:07:36] <CaFeCoLaTrA> install cs no linux e tudo +
+[17:07:39] <BaXaNdO`SLaCK`91> soh entro nos canais linux
+[17:07:50] <CarenteColatra> CokeLUch`x] qual modem ?
+[17:07:50] <mR_X_fr0m_h3LL> CaFeCoLaTrA - instalo cs em qual distro ?
+[17:07:50] <GeeKolotra> humm
+[17:07:50] <CaFeCoLaTrA> trampo d+
+[17:07:55] <GeeKolotra> seu nick eh RoDRIgO
+[17:07:55] <CaFeCoLaTrA> slack
+[17:07:58] <CokeLUch`x]> (CarenteColatra) agere
+[17:08:09] <CaFeCoLaTrA> slack 8.1
+[17:08:17] <CarenteColatra> CokeLUch`x] www.lucentlinux.hpg.ig.com.br
+[17:08:18] <mR_X_fr0m_h3LL> CaFeCoLaTrA - hum rodo legal ?
+[17:08:24] <CaFeCoLaTrA> legalzim
+[17:08:27] <CarenteColatra> ele usa o mesmo chipset do lucent
+[17:08:32] <CokeLUch`x]> (CarenteColatra) jah tentei isso ae
+[17:08:43] <CaFeCoLaTrA> normal pow
+[17:08:44] <CarenteColatra> qual distro ta usando ?
+[17:08:46] <GeeKolotra> tem um modem destes dai q nao tem modulo pra ele nao
+[17:08:51] <CaFeCoLaTrA> ateh aqui em ksa roda normal eu jogo diretu
+[17:08:53] <LeAuei> CarenteColatra eiiiiiiiiiiiiiiiiiiiiiiii
+[17:09:17] <mR_X_fr0m_h3LL> CaFeCoLaTrA - eu to rodando slack 9.1
+[17:09:18] <CaFeCoLaTrA> to querendo por os arquivos tipo o hl hl atualização e cs 1.5 num server ftp aqui
+[17:09:26] <CaFeCoLaTrA> hehehehe
+[17:09:29] <mR_X_fr0m_h3LL> CaFeCoLaTrA - to com preguica de instalar o wine...
+[17:09:32] <GeeKolotra> SouDaPaz
+[17:09:32] <CaFeCoLaTrA> disponibilizar pra galera
+[17:09:33] <GeeKolotra> eauhuhea
+[17:09:47] Quit: Read error: 54 (Connection reset by peer) [K9_Pippen_Aracatuba]
+[17:09:48] <CaFeCoLaTrA> pow eu instalo so no ./configure; make; make install
+[17:09:56] <CaFeCoLaTrA> e deixo compilar e rapidim
+[17:09:58] Quit: Read error: 54 (Connection reset by peer) [gold[off]z]
+[17:10:02] <mR_X_fr0m_h3LL> CaFeCoLaTrA - eu sei moh preguica.. aehaaeu de baixar ele...
+[17:10:09] <mR_X_fr0m_h3LL> CaFeCoLaTrA - ta usando um fake_windows ?
+[17:10:12] <CaFeCoLaTrA> nunca usei o /tools/./wineinstall
+[17:10:20] <CaFeCoLaTrA> yepz
+[17:10:23] <GeeKolotra> Novo Howto Incentivando mulheres no Linux >> http://www.linuxchix.org.br/node.php?id=67
+[17:10:27] <mR_X_fr0m_h3LL> CaFeCoLaTrA - nem eu usei..
+[17:10:30] <GeeKolotra> nem isso funfa com a minha muié
+[17:10:34] <CaFeCoLaTrA> bixo jogo ateh jogo em flash dum cd do rw aqui
+[17:10:52] <mR_X_fr0m_h3LL> CaFeCoLaTrA - hauaheu fake windows ?
+[17:11:04] Join: url
+[17:11:25] <CaFeCoLaTrA> nopz outro dir
+[17:11:30] Join: owned_by
+[17:11:33] <CaFeCoLaTrA> tipo uso rw1nsux
+[17:11:37] <CaFeCoLaTrA> hehueheiehiheia
+[17:11:38] <mR_X_fr0m_h3LL> CaFeCoLaTrA - heeheh 
+[17:11:49] <mR_X_fr0m_h3LL> CaFeCoLaTrA - vo instalar um nogenta e 8 aqui.. ou pegar so as libs mesmo..
+[17:12:08] <MrMetal-Work> nogenta??
+[17:12:10] <owned_by> Alguem sabe onde posso baixar a libcrypto.so.4 para DEBIAN ???
+[17:12:10] <MrMetal-Work> auheuhauha
+[17:12:14] <CaFeCoLaTrA> uhahuahuhuahiahuahiahahiauhiaa
+[17:12:24] <owned_by> Alguem sabe onde posso baixar a libcrypto.so.4 para DEBIAN ???
+[17:12:25] <CaFeCoLaTrA> atp-get filho
+[17:12:27] <mR_X_fr0m_h3LL> MrMetal-Work - Uindous Nogentae8
+[17:12:32] <CaFeCoLaTrA> rwinsux
+[17:12:40] <MrMetal-Work> vc quis dizer NoJenta ne
+[17:12:42] <MrMetal-Work> euhauheauh
+[17:12:55] <mR_X_fr0m_h3LL> MrMetal-Work - nao eh tosco demais pra escrever certo...
+[17:12:56] <owned_by> CaFeCoLaTrA < EU NAUM ENCONTRO LA D JEITO NENHUM
+[17:13:04] <CaFeCoLaTrA> que issu fala serio
+[17:13:09] <CaFeCoLaTrA> freshmeat
+[17:13:14] <CaFeCoLaTrA> ou google tu acha
+[17:13:38] <mR_X_fr0m_h3LL> o que vc nao achar no google nao existe nessa dimensao...
+[17:13:46] Join: Breno_Osbourne
+[17:13:50] <GeeKolotra> ueh, Debian nao tem super power mega ultra apt-get ???
+[17:14:10] <CaFeCoLaTrA> eh verdade
+[17:14:13] Part: Guest65971
+[17:14:29] <owned_by> pra RPM
+[17:14:33] <owned_by> eu ja axei
+[17:14:36] <owned_by> mas pra .deb
+[17:14:39] <owned_by> ainda naum
+[17:14:41] <CaFeCoLaTrA> kd a taum poderoza ferramenta q destroi o slack?
+[17:14:56] <CaFeCoLaTrA> vsf seus prepotentes
+[17:15:03] <mR_X_fr0m_h3LL> haeuaheuha
+[17:15:09] <CaFeCoLaTrA> nunca substime o poder do slackr0x
+[17:15:14] <GeeKolotra> http://www.napster.com/bits/
+[17:15:15] <CaFeCoLaTrA> ehueheiehheihueia
+[17:15:24] <mR_X_fr0m_h3LL> kra o slogan diz tudo ..
+[17:15:24] <CaFeCoLaTrA> eu vi Geekolatra
+[17:15:35] <BaXaNdO`SLaCK`91> vcs preferem KURUMIN, CONECTIVA ou RED HAT?????
+[17:15:37] <CaFeCoLaTrA> uhahuaahuhaiahuahiahiaa
+[17:15:43] <CaFeCoLaTrA> exatamente
+[17:15:51] <CaFeCoLaTrA> eu concordo plenamente com issu
+[17:15:55] <ElcioColatra> bo boa
+[17:16:05] <ElcioColatra> LoveSlackColatra
+[17:16:11] <CaFeCoLaTrA> uhahuahauhiahauiaa
+[17:16:15] <Shebbas> GeeKolotra ve a do rap
+[17:16:19] <Shebbas> legal demais
+[17:16:23] <LoveSlackColatra> SouDaLE grrrrrrrrrrrrrrrrr
+[17:16:27] <CaFeCoLaTrA> a do rap nem vi vi da fuga uhaahuahhahauia
+[17:16:29] <LoveSlackColatra> paterinha malhada aguada e inutil
+[17:16:53] Part: owned_by
+[17:16:54] <SouDaLE> LoveSlackColatra te amo tb
+[17:16:56] <CokeLUch`x]> onde posso arranjar um bom discador para linux??
+[17:16:58] <GeeKolotra> eauhea
+[17:17:00] <LoveSlackColatra> BaXaNdO`SLaCK`91 sinceramente nenhuma das 3
+[17:17:03] <GeeKolotra> dahora essas animacoes
+[17:17:05] <LoveSlackColatra> mas se fosse para usar
+[17:17:08] <LoveSlackColatra> preferia red hat
+[17:17:16] <coconectiva> BaXaNdO`SLaCK`91 usa slack e pronto
+[17:17:16] <BaXaNdO`SLaCK`91> LoveSlackColatra: sim.. eu uso slack 9.0
+[17:17:18] <BaXaNdO`SLaCK`91> sim
+[17:17:20] <coconectiva> rh sux a lort
+[17:17:24] <BaXaNdO`SLaCK`91> eu uso
+[17:17:28] Join: L1nuxer
+[17:17:30] <CaFeCoLaTrA> rh e mto sux msm
+[17:17:32] <BaXaNdO`SLaCK`91> agora tow no windows pra baxar o 9.1
+[17:17:38] <CaFeCoLaTrA> eu sempre usei slack
+[17:17:38] <BaXaNdO`SLaCK`91> + tem us pacotes RPM
+[17:17:48] <CaFeCoLaTrA> unico que eu usei das antigas foi o kurumin
+[17:17:49] <BaXaNdO`SLaCK`91> 9.1?
+[17:17:53] <CaFeCoLaTrA> uhahuahuahiahuaia
+[17:17:57] <CaFeCoLaTrA> e tenho ele aqui ateh hj
+[17:17:58] <BaXaNdO`SLaCK`91> heaiueaiuhea
+[17:18:03] <BaXaNdO`SLaCK`91> falam q eh mto facil ele
+[17:18:09] <LoveSlackColatra> meu primeiro linux como server
+[17:18:10] <CaFeCoLaTrA> os 2 kurumin e morumbi
+[17:18:12] <LoveSlackColatra> foi um techlinux
+[17:18:16] <CaFeCoLaTrA> tenho os 2 aqui
+[17:18:17] <LoveSlackColatra> durou 2 semanas
+[17:18:19] <CaFeCoLaTrA> uhauhahuahaahuahiauaia
+[17:18:22] <LoveSlackColatra> haahhaa
+[17:18:27] <CaFeCoLaTrA> depois em seguida
+[17:18:28] <coconectiva> a cada dia que passa eu odeio mais o rh
+[17:18:29] <LoveSlackColatra> depois coloquei slack
+[17:18:31] <CaFeCoLaTrA> passei pro slack7
+[17:18:38] <CaFeCoLaTrA> ai nunca mais larguei
+[17:18:42] <LoveSlackColatra> hahahahaa
+[17:18:43] <CaFeCoLaTrA> so slack 
+[17:18:45] <LoveSlackColatra> ElcioSo grrrrrrrrrrrrrrrrrrrrr
+[17:18:50] <CaFeCoLaTrA> i am love slack a lot
+[17:18:57] <coconectiva> meu ai pos ele em um k6 II 900 256ram e o bixo travou no inicializacao :D
+[17:18:58] <LoveSlackColatra> ElcioSo se tivesse na irc.linuxajuda eu mudava seu nick
+[17:19:02] <coconectiva> ai = pai
+[17:19:04] <DebianHolic> !seen Leo*
+[17:19:07] <Butana> Encontrei 20 apelidos. Esses sao os 5 mais recentes: Leonardo_Lopes Leonardo_Jogando_MegaMan Leonardo_Treino leo-sjrp Leonardu_Lopes. Leonardo_Lopes (Debian@yMGixMZDwx7.201.4.131.O) saiu do #linuxajuda 36 minutos atras (Ping timeout: 240 seconds).
+[17:19:08] <LoveSlackColatra> coconectiva keto
+[17:19:10] <LnxHelp> DebianHolic, achei 25 combinações para sua pergunta. Esses são os 5 resultados mais recentes: Leonardo_Lopes, leonnardu, leonnardu[durmino], leonnardo`renaTa, Leo_MeToDiStA. Leonardo_Lopes (Debian@yMGixMZDwx7.201.4.131.O) foi visto saindo do IRC #linuxajuda 36 minutos atrás (03.10. 16:42) com saida "Ping timeout: 240 seconds" ficando 6 minutos.
+[17:19:14] <LoveSlackColatra> nao existe k6II 900
+[17:19:19] <CaFeCoLaTrA> uhahuahuauhhaiuhaia
+[17:19:26] <LoveSlackColatra> o maximo do k56 eh 533
+[17:19:27] <coconectiva> LoveSlackColatra huahuahuahauhauhauah foi uma porra dessas
+[17:19:32] <DebianHolic> viva debian
+[17:19:37] Join: InFoLinK
+[17:19:41] <DebianHolic> =)
+[17:19:50] Quit: Quit: [R00T3R]
+[17:20:01] <LoveSlackColatra> hahahha
+[17:20:10] <BaXaNdO`SLaCK`91> LoveSlackColatra : eh mesmo.. eu tenho um k62 533 -=> uma bost.a
+[17:20:16] <LoveSlackColatra> debian eh upgrade para users de conectiva
+[17:20:20] <LoveSlackColatra> mantem a filosofia apt
+[17:20:24] <DebianHolic> LoveSlackColatra uia
+[17:20:29] <CokeLUch`x]> !ajuda
+[17:20:31] <BaXaNdO`SLaCK`91> [LoveSlackColatra]: naum aguenta o kde
+[17:20:36] <BaXaNdO`SLaCK`91> !ajuda
+[17:20:38] <DebianHolic> upgradepkg -> copia do apt =)
+[17:20:41] <LoveSlackColatra> nao aguenta nada BaXaNdO`SLaCK`91 
+[17:20:45] <LoveSlackColatra> k6 eh igual conectiva
+[17:20:50] <LoveSlackColatra> tudo uma bosta
+[17:20:53] <LoveSlackColatra> nao tem nada q preste
+[17:20:53] <Coconetitica> BaXaNdO`SLaCK`91 tah fora do ar por ento
+[17:20:54] <LoveSlackColatra> nao
+[17:20:55] <BaXaNdO`SLaCK`91> iueahiuhea
+[17:20:55] <CokeLUch`x]> !comandos
+[17:20:58] <LoveSlackColatra> conectiva eh melhor
+[17:21:01] <LoveSlackColatra> vou ser sincera aki
+[17:21:04] <BaXaNdO`SLaCK`91> ok
+[17:21:05] <CaFeCoLaTrA> ahuhuahuahiahuaiaa
+[17:21:13] <LoveSlackColatra> NENHUMA distro tem uma doc igual a da conectiva
+[17:21:20] <LoveSlackColatra> eh a melhor documentacao de linux q existe
+[17:21:30] <LoveSlackColatra> isto eu assumo
+[17:21:31] <BaXaNdO`SLaCK`91> a maioria do pessoal aqui usa slack??
+[17:21:37] <DebianHolic> =)
+[17:21:37] <LoveSlackColatra> qto a DOC nenhuma distro ganha do CL
+[17:21:40] <GatoCariocaSo> LoveSlackColatra: beijos amor to saindo 
+[17:21:47] <LoveSlackColatra> GatoCariocaSo ja ?
+[17:21:50] <Coconetitica> BaXaNdO`SLaCK`91 nao a maioria usa drogas
+[17:21:51] <GatoCariocaSo> sim 
+[17:21:52] <Coconetitica> euahuehauea
+[17:21:57] <CaFeCoLaTrA> que drogas?
+[17:22:00] <LoveSlackColatra> GatoCariocaSo vc ker ser banido agora ou daki a pouco ?
+[17:22:01] <CaFeCoLaTrA> o café?
+[17:22:03] <BaXaNdO`SLaCK`91> [Coconetitica]: q pena =/
+[17:22:07] <CaFeCoLaTrA> uhahuahuahuahiuhaia
+[17:22:08] <CokeLUch`x]> alguem pode me ajudar a configurar meu modem no linux?
+[17:22:11] <GatoCariocaSo> LoveSlackColatra voou ali e ja volto
+[17:22:11] <BaXaNdO`SLaCK`91> Coconetitica : eles naum gostam de slack?
+[17:22:18] <BaXaNdO`SLaCK`91> Coconetitica : axam mto dificil ou alguma coisa do tpw?
+[17:22:19] <LoveSlackColatra> CokeLUch`x] =/
+[17:22:27] <CaFeCoLaTrA> ixe
+[17:22:34] <LoveSlackColatra> alguem ja config o modem algere para ajudar o CokeLUch`x]  ?
+[17:22:45] <f3ck4r> qual modem?^
+[17:22:54] <LoveSlackColatra> agere
+[17:22:59] <CokeLUch`x]> agere
+[17:23:00] <LoveSlackColatra> vou sair
+[17:23:08] <BaXaNdO`SLaCK`91> ruim do red hat eh aquele bluecurve
+[17:23:09] <LoveSlackColatra> o Elcio_ me abandonou
+[17:23:10] <LoveSlackColatra> =~
+[17:23:28] <f3ck4r> numca ouvi falar
+[17:23:31] <EscarradaNoCantoColatra> =~
+[17:23:31] <f3ck4r> desse modem
+[17:23:37] <BaXaNdO`SLaCK`91> fala uma coisa..
+[17:23:40] <BaXaNdO`SLaCK`91> FREEBSD
+[17:23:41] <EscarradaNoCantoColatra> f3ck4r eh o mesmo q o lucent
+[17:23:43] <BaXaNdO`SLaCK`91> eh bom??
+[17:23:45] <EscarradaNoCantoColatra> mesmo chipset
+[17:23:57] <f3ck4r> tipo aquele hsp? Lucent?
+[17:24:03] <f3ck4r> tudo a msm boxta
+[17:24:05] Quit: Quit: [_BLIND__]
+[17:24:09] <EscarradaNoCantoColatra> vou embora
+[17:24:11] <EscarradaNoCantoColatra> beijos
+[17:24:12] <mR_X_fr0m_h3LL> f3ck4r - lucent eh baum vai...
+[17:24:13] <EscarradaNoCantoColatra> =~
+[17:24:17] <mR_X_fr0m_h3LL> EscarradaNoCantoColatra - =@@@@@@@@@@@@@@@
+[17:24:37] <AbandonadaColatra> grrrrr
+[17:24:39] <CokeLUch`x]> Agere Systems PCI Soft Modem
+[17:24:40] <AbandonadaColatra> cansou ja estes nicks
+[17:24:41] <f3ck4r> tipo o hsp com string pra funfar 115200 fika ateh mais ou menos
+[17:25:00] <f3ck4r> mais o lucent naum sei o percentual dele naum
+[17:25:03] <mR_X_fr0m_h3LL> leticia-sp - finalmente hein..
+[17:25:20] Quit: Quit: [coconectiva]
+[17:25:21] <DebianHolic> leticia-sp bem melhor
+[17:25:34] <leticia-sp> sei sei
+[17:25:38] <leticia-sp> panterinha vc so fala
+[17:25:39] <f3ck4r> huahuauhahaiahuaia
+[17:25:40] <leticia-sp> =~
+[17:25:47] <Elcio_> leticia-sp :@@@@@@@@@@22
+[17:25:51] Join: goldblade
+[17:25:53] <leticia-sp> xo i
+[17:25:58] <BaXaNdO`SLaCK`91> tive um problema.. dividi meu HD em 3 partiçoes: linux native linux swap e windows -=> instalei o windows em uma.. dps instalei o slack (linux) nas outras duas.. na hora q eu dei u BOOT.. o LILO soh aparece o linux.. naum axow o WINDOWS XP.. =/
+[17:25:59] <mR_X_fr0m_h3LL> haeuahu 
+[17:26:04] <mR_X_fr0m_h3LL> leticia-sp - malvada ..
+[17:26:08] <leticia-sp> hahahahhahaa
+[17:26:09] <leticia-sp> =P
+[17:26:35] <leticia-sp> hehehee
+[17:26:37] <leticia-sp> tadinho
+[17:26:37] <leticia-sp> =P
+[17:26:41] <leticia-sp> hehehe
+[17:26:42] <leticia-sp> uia
+[17:26:44] <leticia-sp> qto memo
+[17:26:45] <leticia-sp> =-~
+[17:27:05] Join: Elcio_
+[17:27:06] <leticia-sp> hahahaha
+[17:27:09] <super_tricolor> leticia-sp qual eh a linha pra adicionar o gateway default do rh?
+[17:27:20] <leticia-sp> super_tricolor route add default gw IP
+[17:27:35] <leticia-sp> Elcio_ este eh seu problema
+[17:27:36] <leticia-sp> vc so diz
+[17:27:38] <super_tricolor> leticia-sp valeu :)
+[17:27:42] <leticia-sp> ajir q eh bom nada
+[17:27:43] <mR_X_fr0m_h3LL> super_tricolor - edita o /etc/sysconfig/network e coloca la na linha gateway
+[17:27:45] <leticia-sp> hunpf
+[17:27:48] <mR_X_fr0m_h3LL> ave...
+[17:27:58] <leticia-sp> ehehhee
+[17:28:00] <leticia-sp> uia
+[17:28:04] <leticia-sp> nao to falando em pvt
+[17:28:04] <leticia-sp> =P
+[17:28:07] <leticia-sp> ops
+[17:28:08] <leticia-sp> hehehe
+[17:28:10] <leticia-sp> bom 
+[17:28:10] <leticia-sp> xo i
+[17:28:19] <leticia-sp> mR_X_fr0m_h3LL =@@@@@@@
+[17:28:27] <mR_X_fr0m_h3LL> leticia-sp - =@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@22
+[17:28:30] <leticia-sp> Elcio_ beijos panterinha bamby
+[17:28:42] <Elcio_> leticia-sp xau fujona 
+[17:28:44] <Coconetitica> O_o
+[17:28:47] Quit: Quit: [leticia-sp]
+[17:28:55] <mR_X_fr0m_h3LL> uia...
+[17:29:22] <Elcio_> fui-se
+[17:30:07] <f3ck4r> eita
+[17:30:59] <f3ck4r> falou seus Colotras
+[17:31:54] <mR_X_fr0m_h3LL> flws..
+[17:32:43] <CokeLUch`x]> pq meu xmms num tah tocando mp3? soh wav.
+[17:32:58] <f3ck4r> eita
+[17:33:05] <f3ck4r> why?
+[17:33:18] Join: SP3CTR3[off]
+[17:33:26] <mR_X_fr0m_h3LL> f3ck4r - num guento mais ouvir falar nessa merda que ele eh baum .. quero usar pra ver se eh baum mesmo..
+[17:33:35] <f3ck4r> ah pode crer
+[17:33:39] <mR_X_fr0m_h3LL> eu sei que nao.. eh .... 
+[17:33:39] <f3ck4r> eu nem puz a mão
+[17:33:46] <f3ck4r> e olha q tenho cd
+[17:33:51] <CokeLUch`x]> pq meu xmms num tah tocando mp3? soh wav.
+[17:34:01] <mR_X_fr0m_h3LL> f3ck4r - eh phoda kra.. todo mundo fala dele.. quero testar... 
+[17:34:02] <f3ck4r> sei lá ja perguntou pra ele?
+[17:34:13] <mR_X_fr0m_h3LL> f3ck4r - depois vo testar freebsd e openbsd..
+[17:34:23] <f3ck4r> freebsd eu quero testar tumem
+[17:34:30] <f3ck4r> dizem ser r0x
+[17:34:41] <mR_X_fr0m_h3LL> f3ck4r - eh entao quero ver qual a dele ta ligado.. aeaheu
+[17:35:09] Quit: Read error: 104 (Connection reset by peer) [BATHORY]
+[17:35:32] Join: Cr4CkInG
+[17:35:32] Join: BATHORY
+[17:35:52] Part: BulletProof_Monk
+[17:36:17] <f3ck4r> pode crer
+[17:36:20] <f3ck4r> to sabendo
+[17:36:24] <f3ck4r> teste drive
+[17:36:35] <f3ck4r> eu que naum tem outro hdzim pra testar ai e phoda
+[17:36:38] <mR_X_fr0m_h3LL> f3ck4r - test drive ruliz...
+[17:36:46] <f3ck4r> mais segunda eu começo no trampo
+[17:36:51] <mR_X_fr0m_h3LL> hell@node:/bugigangas$ fdisk -l|grep Disk
+[17:36:51] <mR_X_fr0m_h3LL> Disk /dev/hdc: 40.0 GB, 40027029504 bytes
+[17:36:51] <mR_X_fr0m_h3LL> Disk /dev/hda: 40.0 GB, 40020664320 bytes
+[17:36:51] <mR_X_fr0m_h3LL> Disk /dev/hdb: 30.7 GB, 30738677760 bytes
+[17:36:51] <mR_X_fr0m_h3LL> hell@node:/bugigangas$ 
+[17:36:53] <f3ck4r> ai arrumo un hdzim ogo
+[17:36:55] <mR_X_fr0m_h3LL> ahueauehauhue
+[17:37:08] <f3ck4r> caraio /me e podrim
+[17:37:34] <f3ck4r> pobrim
+[17:37:37] <f3ck4r> quer dizer
+[17:37:39] Quit: Quit: [Coconetitica]
+[17:37:47] <f3ck4r> sem dim pra nada no momento
+[17:37:53] <f3ck4r> so o trampo pra amenizar
+[17:37:53] <CokeLUch`x]> !colaboradores
+[17:38:02] <mR_X_fr0m_h3LL> f3ck4r - eu tb.. kra... to sem grana.. pranada..
+[17:38:47] Quit: Killed (NickServ (GHOST command used by Paulo^)) [Paulo]
+[17:38:48] <f3ck4r> bixo eu acho q nem pra levar uma safa pro motel eu tem dimdim ta feio
+[17:39:14] <mR_X_fr0m_h3LL> f3ck4r - haeuahau eu fico em casa.. kra.. tahp hoda aqui tb.. o dimdim que eu arrumo vai de gasosa pra buscar e levar a mulher...
+[17:39:27] <f3ck4r> e mano o bixo ta pegando
+[17:39:32] <f3ck4r> eu briguei com meu papi
+[17:39:32] <mR_X_fr0m_h3LL> f3ck4r - eu vo buscar ela eh 40 km venho pra kra mais 40 levo embora mais 40 e volto mais 40
+[17:39:33] Join: rogerio
+[17:39:44] <f3ck4r> eu ia ateh sair de ksa
+[17:39:54] <f3ck4r> mais minha mae ta vendo oq vamu fazer
+[17:39:54] <mR_X_fr0m_h3LL> f3ck4r - eta porra.. eu nunca briguei com meu pai ... 
+[17:39:56] Join: L1nuxer
+[17:40:03] <f3ck4r> ah ele moh ignorante
+[17:40:08] <f3ck4r> num sabe conversar
+[17:40:17] <f3ck4r> ai c ja viu fode tudo
+[17:40:46] <f3ck4r> entaum tipo
+[17:40:50] <f3ck4r> ta meio embaçado
+[17:40:52] <mR_X_fr0m_h3LL> com certeza.. meu pai eh moh gente boa..
+[17:41:03] <BaXaNdO`SLaCK`91> tem como instalar pacotes RPM no slack?
+[17:41:06] <f3ck4r> manow de boa o trampo veio na hora certa
+[17:41:10] <f3ck4r> tem sim
+[17:41:12] <mR_X_fr0m_h3LL> BaXaNdO`SLaCK`91 - usa o rpm2tgz 
+[17:41:13] <f3ck4r> rpm -ivh
+[17:41:23] <BaXaNdO`SLaCK`91> ok
+[17:41:24] <BaXaNdO`SLaCK`91> vlw
+[17:41:44] <f3ck4r> esse trampo vai ajudar
+[17:41:48] <f3ck4r> heheehhee
+[17:42:13] <f3ck4r> o pais ta numa crise feia
+[17:42:19] <f3ck4r> o desemprego aumentando
+[17:42:24] <f3ck4r> o Lula nada fazendo
+[17:42:30] <CokeLUch`x]> o pais e eu tb rsss
+[17:42:42] <f3ck4r> putz nem me fala cokeluch
+[17:43:06] <mR_X_fr0m_h3LL> f3ck4r - ah kra o lula ta tentando neh kra.. nao fala assim dele...
+[17:43:10] <MrMetal-Work> f3ck4r: po
+[17:43:14] <MrMetal-Work> f3ck4r: o lula ta indo bem
+[17:43:19] <f3ck4r> heheheheeh
+[17:43:25] <CokeLUch`x]> o lula tah bem mesmo
+[17:43:26] <mR_X_fr0m_h3LL> f3ck4r - 9 meses de governo so kra... 
+[17:43:27] <MrMetal-Work> so em ele ter peitado o fmi
+[17:43:31] <MrMetal-Work> eu dei valor
+[17:43:35] <f3ck4r> pow ta certo
+[17:43:38] <f3ck4r> fmi sux
+[17:43:39] <MrMetal-Work> disse q nao precisava de um novo acordo
+[17:43:43] <mR_X_fr0m_h3LL> MrMetal-Work - ele eh o unico kra que peito o fmi e o macaco bush...
+[17:43:44] <CokeLUch`x]> viu o q ele tah fazendo c/ os veinho?
+[17:43:45] <MrMetal-Work> ninguem fez isso NA HISTORIA
+[17:43:50] <MrMetal-Work> pode crer
+[17:43:52] <f3ck4r> e to ligado
+[17:44:01] <MrMetal-Work> e vcs viram a indireta q ele soltou pra bush???
+[17:44:08] <f3ck4r> mais vamo ver no que issu vai acarretar a economia do pais
+[17:44:16] <CokeLUch`x]> hauhuha! o lula eh escroto!
+[17:44:18] <f3ck4r> nopz
+[17:44:24] <MrMetal-Work> ele disse:
+[17:44:30] <DebianHolic> mR_X_fr0m_h3LL tu usa slack?
+[17:44:48] <mR_X_fr0m_h3LL> DebianHolic - sim...
+[17:44:54] <DebianHolic> mR_X_fr0m_h3LL isso mesmo, experimenta o debian =)
+[17:44:55] <CokeLUch`x]> ele disse pro bush: para de usar windows e use linux
+[17:45:01] <f3ck4r> uhauhahuahuauhahiahuaihaiaa
+[17:45:09] <f3ck4r> free software
+[17:45:13] <MrMetal-Work> "eu fui a cuba como chefe de estado. E as boas maneiras dizem q como chefe de estado, a gente nao deve dar palpite na administracao dos outros. Respeito eh bom, eu dou, e quero receber"
+[17:45:13] Join: alvin_lee
+[17:45:15] <mR_X_fr0m_h3LL> DebianHolic - vamo ver se eh tudo o que falam negh..
+[17:45:15] <f3ck4r> around the worls
+[17:45:17] <f3ck4r> around the world
+[17:45:18] <DebianHolic> mR_X_fr0m_h3LL vai gostar muittooooooo =)
+[17:45:27] <MrMetal-Work> essa foi foda
+[17:45:38] <mR_X_fr0m_h3LL> MrMetal-Work - ele eh phoda kra nao tem medo de ser feliz..
+[17:45:39] <alvin_lee> como eu fasso pra instalar um pacote rpm sem checar as dependencias em modo texto?
+[17:45:42] <MrMetal-Work> foi como se ele dissesse: "nao vem querer mandar aqui, que nao cola"
+[17:45:52] <f3ck4r> uhauhahuahuhaihuaa
+[17:45:54] <f3ck4r> pode crer
+[17:46:20] <mR_X_fr0m_h3LL> MrMetal-Work - e qd o macaco ia mandar o portavoz falar com ele .. e ele disse eu sou presidente quero falar com o presidente se for assim mando o meu tb..
+[17:46:31] <MrMetal-Work> ehehe
+[17:46:34] <MrMetal-Work> pode crer
+[17:46:36] <CokeLUch`x]> hauhuha! o lula eh escroto!
+[17:46:43] <MrMetal-Work> o lula tem postura de chefe de estado po
+[17:46:47] <MrMetal-Work> num eh fhc nao
+[17:46:53] <MrMetal-Work> aquele filho da puta q vendeu o brasil
+[17:46:55] <DebianHolic> mR_X_fr0m_h3LL apoio vc totalmente =) experimenta antes de falar q é ruim ... como muita gente diz
+[17:46:56] <mR_X_fr0m_h3LL> o lula kra.. ele vai ate o fim qd ele quer alguma coisa...
+[17:47:04] <mR_X_fr0m_h3LL> DebianHolic - eh isso que eu quero fazer...
+[17:47:14] Quit: Read error: 54 (Connection reset by peer) [STK_KINGKONG_III]
+[17:47:17] <mR_X_fr0m_h3LL> ele fez o mundo ver o brasil com outros olhos ... 
+[17:47:22] <DebianHolic> mR_X_fr0m_h3LL muitos tem medo de usar debian e nunca mais largar ahuuhu
+[17:47:27] <mR_X_fr0m_h3LL> o pib aumento... o dolar caiu o juros tao caindo...
+[17:47:34] <f3ck4r> uhahuahuahuahauaiauhaia
+[17:47:44] <mR_X_fr0m_h3LL> DebianHolic - kra eu ja usei conectica, rh, slackware e gentoo
+[17:48:04] <f3ck4r> gentoo eu nunca usei
+[17:48:11] <f3ck4r> conectiva ei ja usei por 1 dia
+[17:48:16] <f3ck4r> q lixo
+[17:48:17] <mR_X_fr0m_h3LL> f3ck4r - gentoo eh chapado.. kra..
+[17:48:19] <f3ck4r> comercial
+[17:48:27] <f3ck4r> conectiva e lixo comenrcial
+[17:48:33] <mR_X_fr0m_h3LL> f3ck4r - qd me apresentaram o linux me mostrara o vomicticia... 
+[17:48:45] <mR_X_fr0m_h3LL> eu comecei a aprender com o redhat e aprendi de verdade com o slack... 
+[17:48:50] <f3ck4r> me too
+[17:48:52] <f3ck4r> :PP
+[17:49:00] <mR_X_fr0m_h3LL> ai me aventurei no 3 gentoo por 3 meses e fiquei mal acostumado com o emerge 
+[17:49:02] <DebianHolic> mR_X_fr0m_h3LL falatava so debian mesmo hein 
+[17:49:06] <DebianHolic> 0-0-
+[17:49:06] <mR_X_fr0m_h3LL> ai voltei pro slack...
+[17:49:10] <mR_X_fr0m_h3LL> DebianHolic - sim...
+[17:49:17] <mR_X_fr0m_h3LL> DebianHolic - baixo 55% ja...
+[17:49:18] <f3ck4r> hehehehe slack owned
+[17:49:18] <DebianHolic> mR_X_fr0m_h3LL tu vai voltar pra slack mais naum
+[17:49:22] <DebianHolic> com debian =)
+[17:49:24] <f3ck4r> claru q vai manow
+[17:49:31] <mR_X_fr0m_h3LL> DebianHolic - volto kra... slack eh minha vida.. kra... 
+[17:49:34] <f3ck4r> pow vcs tiram so por causa desse apt-get
+[17:49:36] <DebianHolic> f3ck4r isso é o q vamus ver
+[17:49:40] <DebianHolic> nopz
+[17:49:47] <f3ck4r> ya
+[17:49:50] <f3ck4r> issu memso
+[17:49:53] <DebianHolic> nopz
+[17:50:01] <DebianHolic> update-rc.d
+[17:50:02] <DebianHolic> rlz
+[17:50:11] <DebianHolic> apt tb e baum d++
+[17:50:17] <mR_X_fr0m_h3LL> DebianHolic - o gentoo tem um parada dessa...
+[17:50:19] <DebianHolic> mas num e so por causa disso
+[17:50:30] <DebianHolic> derivados do debian
+[17:50:42] <f3ck4r> sei sei
+[17:50:47] Join: eXploit
+[17:50:51] <f3ck4r> cara ne nem apologia ao slack naum
+[17:50:53] <DebianHolic> f3ck4r usei slack tb,usei poko mas usei
+[17:50:58] <mR_X_fr0m_h3LL> DebianHolic - nao senho derivado do OpenBsd
+[17:51:11] <f3ck4r> mais e a melhor distru (na minha opnião)
+[17:51:13] <mR_X_fr0m_h3LL> DebianHolic - nao senhor derivado do OpenBsd
+[17:51:28] <DebianHolic> OpenBsd nunca usei
+[17:51:32] <mR_X_fr0m_h3LL> http://www1.folha.uol.com.br/folha/brasil/ult96u54047.shtml
+[17:51:41] <CokeLUch`x]> falow os cara!
+[17:51:43] <DebianHolic> naum sei
+[17:51:46] <mR_X_fr0m_h3LL> DebianHolic - ops o esquema de ports partiu do freebsd
+[17:51:49] <DebianHolic> como é
+[17:52:03] <DebianHolic> tudo da familila =)
+[17:52:09] <DebianHolic> tudo da familia =)
+[17:52:18] <DebianHolic> e um poko de cada
+[17:52:35] <DebianHolic> mR_X_fr0m_h3LL naum vou dizer q e baum naum, usa ele, e verá se gosta
+[17:52:41] <DebianHolic> acho q vai gostar sim
+[17:52:56] <mR_X_fr0m_h3LL> DebianHolic - deve ser bom sim.. ele tem algumas facilidades... 
+[17:53:23] <DebianHolic> mR_X_fr0m_h3LL farás bem =)
+[17:53:46] Quit: Quit: [Atchixim]
+[17:53:59] <f3ck4r> heheheehhe
+[17:54:24] <DebianHolic> f3ck4r ja usow debian?
+[17:54:28] <f3ck4r> nem
+[17:54:31] <f3ck4r> tenho cd aqui
+[17:54:35] <f3ck4r> mais hd pequeno
+[17:54:36] Quit: Ping timeout: 240 seconds [Guest61761]
+[17:54:37] <DebianHolic> f3ck4r uia
+[17:54:42] Quit: Read error: 54 (Connection reset by peer) [CokeLUch`x]]
+[17:54:43] Join: Guest61761
+[17:54:49] <DebianHolic> pq naum experimenta ele?
+[17:55:04] <f3ck4r> blah del no slack pra testar ele?
+[17:55:16] <f3ck4r> meu hd e 20 GB soh fio
+[17:55:25] <f3ck4r> 10 xp e 10 slack
+[17:55:26] <mR_X_fr0m_h3LL> kct e vc quer mais... ?
+[17:55:33] <mR_X_fr0m_h3LL> roda vmware ae...
+[17:55:49] <DebianHolic> f3ck4r livre escolha
+[17:55:56] <DebianHolic> prefere xp q debian =)
+[17:56:01] <f3ck4r> never
+[17:56:03] Join: kille-
+[17:56:04] <f3ck4r> xp e lixo
+[17:56:10] Quit: Quit: [bads[wrk]]
+[17:56:14] <f3ck4r> mais e por causa dos meus familiares neh so eu q uso o cpu naum
+[17:56:14] <mR_X_fr0m_h3LL> uindus xispirito..
+[17:56:16] <kille-> !busca gkrellm
+[17:56:19] <LnxHelp> http://freshmeat.net/projects/gkrellm/
+[17:56:29] Quit: Quit: [BATHORY]
+[17:56:30] <DebianHolic> f3ck4r sow
+[17:56:34] Quit: Remote closed the connection [Elcio_]
+[17:56:35] <f3ck4r> por issu eu uso xp
+[17:56:44] <DebianHolic> f3ck4r quando tiver oportunidade naum exite de por debian =)
+[17:56:54] <f3ck4r> hunf
+[17:56:57] <f3ck4r> apologia danada
+[17:57:01] <DebianHolic> como o mR_X_fr0m_h3LL esta fazendo
+[17:57:07] <f3ck4r> uhahuahuahaiahua :PP
+[17:57:23] <DebianHolic> =)
+[17:57:25] <f3ck4r> uhahuahuahihauia(:
+[17:57:30] <mR_X_fr0m_h3LL> heheheheehhe
+[17:57:50] <f3ck4r> hehehehe
+[17:58:01] <f3ck4r> eu to up to 9.1
+[17:58:04] <f3ck4r> hehehehehe
+[17:58:10] <f3ck4r> pakotando os packages
+[17:58:16] <alvin_lee> alguem ae usa bittorrent no linux
+[17:58:17] <alvin_lee> ?
+[17:58:19] <f3ck4r> to de xp mermo
+[17:58:22] <f3ck4r> hehueehehuehehueia
+[17:58:31] Join: PlaTiNium_
+[17:58:34] <PlaTiNium_> alguem ai de slackware 9.1 e kernel 2.6 e gravadora de cds ?
+[17:58:39] <f3ck4r> tem q acostumar com win agora
+[17:58:49] <f3ck4r> www.linuxajuda.com.br 
+[17:58:52] <mR_X_fr0m_h3LL> PlaTiNium_ - cdrecord --scanbus trava ?
+[17:59:06] <PlaTiNium_> mR_X_fr0m_h3LL, neim eh isso iss oateh ki foi normal
+[17:59:16] <PlaTiNium_> mR_X_fr0m_h3LL, ma so dispositivo nao eh encontrado
+[17:59:25] <PlaTiNium_> nao tenhu nenhum /dev/ pra gravadora
+[17:59:39] <PlaTiNium_> apenas quando eu tiro o hdc=ide-scsi
+[17:59:49] <mR_X_fr0m_h3LL> PlaTiNium_ - /dev/sr0 ou /dev/sg0 ?
+[18:00:31] Join: Atchixim
+[18:00:50] <PlaTiNium_> mR_X_fr0m_h3LL, nenum iauhaiuha
+[18:01:05] <mR_X_fr0m_h3LL> PlaTiNium_ - ave.. aehau compilo os modulos certin ?
+[18:01:09] <PlaTiNium_> mR_X_fr0m_h3LL, tentei tudu ... no 2.4 /dev/scd0 dava
+[18:01:26] <PlaTiNium_> mR_X_fr0m_h3LL, sim eu usava a mesma config no slack 9
+[18:01:42] <PlaTiNium_> ma santes era o 2.6 teste5 e nao teste 6
+[18:01:45] <mR_X_fr0m_h3LL> estranhum.. kra.. eu nem to de 2.6 aqui...
+[18:01:56] <PlaTiNium_> =)
+[18:02:01] <PlaTiNium_> vou tentar um downgrade
+[18:02:12] <PlaTiNium_> mas to apostando em algo no slack
+[18:02:23] <PlaTiNium_> no slack 9 eu tinha ki instalar usn pacotes extras
+[18:02:34] <PlaTiNium_> mas o 9.1 jah vem preparado pra 2.6
+[18:03:23] Quit: Quit: [DebianHolic]
+[18:04:10] <mR_X_fr0m_h3LL> tendi...
+[18:05:03] <f3ck4r> eu aqui help one guy rhmaniec
+[18:05:13] <f3ck4r> is sux 
+[18:05:15] <f3ck4r> uhahuahuahihuaia
+[18:05:27] <mR_X_fr0m_h3LL> aheuaheau
+[18:05:47] Quit: Read error: 54 (Connection reset by peer) [Guest61761]
+[18:05:52] Join: Guest61761
+[18:06:02] Quit: Quit: [L1nuxer]
+[18:06:08] <f3ck4r> rh e soda
+[18:07:24] <mR_X_fr0m_h3LL> soda eh limonada .. rh eh sux a lot..
+[18:07:44] Quit: Quit: [eli4stxt]
+[18:08:01] Join: LGB
+[18:08:02] Join: caixabox_
+[18:08:19] <PlaTiNium_> linux nunca eh sux
+[18:08:20] <PlaTiNium_> :)
+[18:08:33] <PlaTiNium_> mesmo k iseja lindows
+[18:08:34] <PlaTiNium_> oaiaoija
+[18:08:35] Join: My_3gg5
+[18:09:03] <f3ck4r> ae gentem
+[18:09:04] <My_3gg5> alguem poderia tirar uma dulvida minha sobre a conecção adsl no linux???????<-------
+[18:09:08] Join: Terror_br
+[18:09:08] <f3ck4r> to windows depois eu voltuh
+[18:09:25] <f3ck4r> flw Mr X from hell
+[18:09:27] <My_3gg5> alguem poderia?
+[18:09:34] <f3ck4r> and all 
+[18:09:39] <caixabox_> My_3gg5 diz a duvida
+[18:09:43] <My_3gg5> tipo
+[18:09:46] <caixabox_> alguem pode 
+[18:09:48] <caixabox_> saber
+[18:09:54] <My_3gg5> eu tava configurando a adsl da velox no linux
+[18:10:01] Join: HomemH
+[18:10:02] <My_3gg5> ai tudo deu certo
+[18:10:07] Quit: Quit: [f3ck4r]
+[18:10:08] Quit: Quit: [Atchixim]
+[18:10:10] <My_3gg5> as configuração deu certo
+[18:10:10] <HomemH> alguém instalou o drive da nvidia?
+[18:10:12] <My_3gg5> mas..
+[18:10:14] <LGB> q distro eh melhor, slack ou mandrake?!?!
+[18:10:17] <My_3gg5> n conecta
+[18:10:24] <My_3gg5> vou la: adsl-start
+[18:10:51] <My_3gg5> e aparece: /usr/sabin/ads-start: line 195: 1368 termined
+[18:11:24] <My_3gg5> e aparece: /usr/sabin/ads-start: line 195: 1368 termined $CONNECT "$@" /dev/null 2&1
+[18:11:28] <My_3gg5> aparece isso ai
+[18:11:34] <My_3gg5> alguem sabe pq n ta conectando
+[18:11:37] <HomemH> alguém instalou o drive da nvidia?
+[18:11:44] <mR_X_fr0m_h3LL> HomemH - sim pq ?
+[18:11:52] <My_3gg5> [@caixabox_] vc sabe?
+[18:11:54] <mR_X_fr0m_h3LL> LinuXRR - sim instalei...
+[18:12:34] <My_3gg5> [@mR_X_fr0m_h3LL] vc sabe?
+[18:12:40] <mR_X_fr0m_h3LL> My_3gg5 - nem kra...
+[18:12:54] <My_3gg5> [@mR_X_fr0m_h3LL] mias intendeu ai o erro?
+[18:13:04] <mR_X_fr0m_h3LL> My_3gg5 - sim.. tendi... kra... 
+[18:13:10] <My_3gg5> [@mR_X_fr0m_h3LL] tipo
+[18:13:10] Part: InFoLinK
+[18:13:11] Quit: Read error: 54 (Connection reset by peer) [hussan-away]
+[18:13:14] <mR_X_fr0m_h3LL> My_3gg5 - a placa de rede esta funfando ? 
+[18:13:26] <My_3gg5> [@mR_X_fr0m_h3LL] cara! ela ta reconhecida! s
+[18:13:40] <My_3gg5> [@mR_X_fr0m_h3LL] mais instalada n sei se instala sozim
+[18:13:50] <mR_X_fr0m_h3LL> My_3gg5 - que distro vc ta usando ?
+[18:13:57] <My_3gg5> [@mR_X_fr0m_h3LL] conectiva linux 9.0
+[18:14:03] <mR_X_fr0m_h3LL> LinuXRR - o que vc qeur saber do drive da nvidia...
+[18:14:07] <LinuXRR> alguém instalou o drive da nvidia?
+[18:14:08] <mR_X_fr0m_h3LL> My_3gg5 - qual placa de rede eh ?
+[18:14:14] <My_3gg5> [@mR_X_fr0m_h3LL] realtek
+[18:14:31] Join: T1AGO
+[18:14:37] <mR_X_fr0m_h3LL> My_3gg5 - certo... kra deve ter funfando qd o adsl-setup pergunto a placa de rede vc coloco o que ?
+[18:15:12] <My_3gg5> [@mR_X_fr0m_h3LL] tipo.. ele n pergunto! tipo.. fez todas aquelas perguntas que tem no site de vcs! tudo certim! configurei tudo blz
+[18:15:28] <mR_X_fr0m_h3LL> My_3gg5 - ele pergunta sim qual placa de rede esta conectado o modem..
+[18:15:43] <My_3gg5> [@mR_X_fr0m_h3LL] sabe o passo?
+[18:15:51] Quit: Quit: [rogerio]
+[18:15:54] Join: Solitario_JP
+[18:16:02] <mR_X_fr0m_h3LL> na 2 pergunta... 
+[18:16:19] <Solitario_JP> desconfigurei me xf86config quem me ajuda a consertar ?
+[18:16:28] <LinuXRR> alguém sabe onde tenho que fazer as alteracoes para o drive da nvidia funcionar?
+[18:16:30] <My_3gg5> [@mR_X_fr0m_h3LL] vixe
+[18:16:31] <My_3gg5> cara
+[18:16:43] <My_3gg5> [@mR_X_fr0m_h3LL] eu deixei padrão
+[18:16:51] <My_3gg5> [@mR_X_fr0m_h3LL] eth0
+[18:16:55] <mR_X_fr0m_h3LL> LinuXRR - vc tem que alterar no /etc/X11/XFree86 onde esta nv para nvidia
+[18:17:04] <mR_X_fr0m_h3LL> My_3gg5 - isso mesmo colou conexao on demmand ?
+[18:17:37] <My_3gg5> [@mR_X_fr0m_h3LL] tipo... nesse segundo passo o que devo fazer dar so enter ou escrever o que?
+[18:17:47] <mR_X_fr0m_h3LL> so da enter mesmo...
+[18:17:57] <My_3gg5> [@mR_X_fr0m_h3LL] pois foi o que fiz
+[18:18:03] Join: stchuq
+[18:18:46] <My_3gg5> [@mR_X_fr0m_h3LL] tipo onde vc flw que é o demmand eu deixei o demmand! que é o padrão
+[18:19:01] <mR_X_fr0m_h3LL> My_3gg5 - entao esta certo... 
+[18:19:14] <LinuXRR> em todos os lugares ou só tem 1?
+[18:19:22] <mR_X_fr0m_h3LL> LinuXRR - so um..
+[18:19:28] <My_3gg5> [@mR_X_fr0m_h3LL] tipo... quando eu do o comando adsl-status aparece isso:
+[18:19:34] <stchuq> dae galera, o qual o melhor falando em ftp, o wu-ftpd ou proftpd??
+[18:19:46] <mR_X_fr0m_h3LL> LinuXRR - esta como Driver "nv" colocar Driver "nvidia"
+[18:19:56] <mR_X_fr0m_h3LL> stchuq - proftpd
+[18:19:57] Join: bAd_TuX
+[18:20:12] Quit: Quit: [eXploit]
+[18:20:17] <LGB> alguém jah instalou a placa d rede realtek 8139 no linux?
+[18:20:17] <mR_X_fr0m_h3LL> kralho 
+[18:20:20] <mR_X_fr0m_h3LL> LnxHelp - vai durmir
+[18:20:21] <My_3gg5> [@mR_X_fr0m_h3LL] adslstatus: link is down (can't read pppoe pid file/var/ppoe.conf-adsl.pid.pppoe)
+[18:20:22] <LnxHelp> http://linux-br.conectiva.com.br/arquivo/2002/03/msg00901.html
+[18:20:26] <bAd_TuX> boa noite..
+[18:20:27] <bAd_TuX> all..
+[18:20:33] <mR_X_fr0m_h3LL> My_3gg5 - digita uns adsl-stop
+[18:20:39] <LinuXRR> eu nao sei como edito
+[18:20:45] <My_3gg5> [@mR_X_fr0m_h3LL] ja digitei e aparece isso
+[18:20:46] <PlaTiNium_> Ol?s.
+[18:20:46] <PlaTiNium_> Alguns dias atr?s, comentei que n?o estava conseguindo usar o Xcdroast
+[18:20:46] <PlaTiNium_> com o kernel2.6.0-test1 _sem_ o emulador SCSI (ide-scsi). Descobri que
+[18:20:47] <PlaTiNium_> era um problema de "BIOS" :) 
+[18:20:49] <PlaTiNium_> A quest?o era: o Xcdroast n?o consegue detectar automaticamente os
+[18:20:51] <PlaTiNium_> drives (um DVD e um CD-RW, ambos ATAPI) sem a emula??o SCSI.
+[18:20:53] <PlaTiNium_> Mas, adicionando os drives manualmente, passou a funcionar sem
+[18:20:55] <PlaTiNium_> problemas. 
+[18:20:57] <PlaTiNium_> perdao
+[18:20:59] <PlaTiNium_> :)
+[18:21:08] <stchuq> mR_X_fr0m_h3LL, valeu
+[18:21:12] <My_3gg5> [@mR_X_fr0m_h3LL] adsl-stop: no adsl connection appears to be running
+[18:21:22] <My_3gg5> [@mR_X_fr0m_h3LL] da isso ai
+[18:21:36] <mR_X_fr0m_h3LL> My_3gg5 - kra ta estranho isso... vc coloco o que como username ?
+[18:21:57] <My_3gg5> [@mR_X_fr0m_h3LL] coloquei o ddd junto do meu nº
+[18:22:06] <My_3gg5> [@mR_X_fr0m_h3LL] ta certo?
+[18:22:13] <mR_X_fr0m_h3LL> ssim ta certo..
+[18:22:30] Join: Guest71023
+[18:22:44] <My_3gg5> fiz tudo que tava la no tutorial de intalação da velozx no site de vcs
+[18:23:12] <My_3gg5> [@mR_X_fr0m_h3LL] tem que pegar o drive da placa de rede?
+[18:23:35] <mR_X_fr0m_h3LL> My_3gg5 - nao ela ja deve estar ok...
+[18:23:49] <My_3gg5> [@mR_X_fr0m_h3LL] hum... e sera o que? vc tem ideia?
+[18:24:15] Join: C0d1g0
+[18:24:23] <C0d1g0> noite galera
+[18:24:26] <C0d1g0> =]
+[18:24:36] <mR_X_fr0m_h3LL> My_3gg5 - http://linux-br.conectiva.com.br/arquivo/2002/03/msg00901.html
+[18:24:42] <LinuXRR> como edito o arquivo /etc/x11/XFree86 ?
+[18:24:54] <Guest71023> alguem usa rh9  ae ?
+[18:24:54] <C0d1g0> mcedit
+[18:25:09] Quit: Ping timeout: 240 seconds [spymam]
+[18:25:11] Quit: Quit: [PlaTiNium_]
+[18:25:11] <C0d1g0> LinuXRR, mcedit 
+[18:25:29] <My_3gg5> o que devo fazer no site? outro processo de conecção?
+[18:25:33] <Shebbas> Bom a voces que ficam um bom final de semana
+[18:25:34] <Solitario_JP> como atualizar o kernel ?
+[18:25:42] <mR_X_fr0m_h3LL> da uma olhada no site la kra..
+[18:25:51] <Shebbas> eu vo descer do andaime lavar a marmita e pegar a bicicleta !!!!!!!
+[18:26:05] <mR_X_fr0m_h3LL> My_3gg5 - libpainel_applet.so.0:
+[18:26:08] <mR_X_fr0m_h3LL> Shebbas - aheuahauea
+[18:26:19] <mR_X_fr0m_h3LL> puta que pariu vo chutar esse lnxhelp
+[18:26:24] Part: Shebbas
+[18:27:12] <My_3gg5> o que isso ai faz
+[18:27:13] <My_3gg5> ?
+[18:27:27] <LinuXRR> como edito o arquivo /etc/x11/XFree86 ?
+[18:27:41] <kille-> alguem intendi de gkrellm ?
+[18:28:09] <caixabox_> pora
+[18:28:13] <mR_X_fr0m_h3LL> kralho lnxhelp morrrrrrrrrrrrrrrraaaaaaaaaaaaaaaaaaaa
+[18:28:18] Join: LordStorm
+[18:28:28] <mR_X_fr0m_h3LL> num dianta kra eu ja tentei.. ahau
+[18:28:35] <mR_X_fr0m_h3LL> hauaeuahaue
+[18:28:39] <LordStorm> hiauheuihweuihuuehew
+[18:28:45] <T1AGO> uieaiieae
+[18:28:46] <caixabox_> odeio bot
+[18:28:47] <mR_X_fr0m_h3LL> se eu kico ele a le me mata.. 
+[18:28:51] <caixabox_> pora
+[18:28:54] <T1AGO> LordStorm, ai gostei da historia akele dia :D
+[18:28:59] <LordStorm> que historia?
+[18:29:03] <LordStorm> ah tah
+[18:29:04] <LordStorm> a do hacker?
+[18:29:06] <LordStorm> ahwehiauhweuhiuwheuiawha
+[18:29:08] <mR_X_fr0m_h3LL> caixabox_ - ce ta usando xchato ae ne ?
+[18:29:09] <T1AGO> LordStorm, do reker
+[18:29:11] <T1AGO> eh :)
+[18:29:13] <T1AGO> uiaheahaeaea
+[18:29:16] <LordStorm> euiahwuieaheuiwehuiaehuiaueh
+[18:29:18] <LordStorm> eh rlz memo
+[18:29:21] <T1AGO> o cara q invadiu localhost
+[18:29:21] <T1AGO> rs*
+[18:29:21] <mR_X_fr0m_h3LL> caixabox_ - seu xchato ta usando essa lib ? libpainel_applet.so.0:
+[18:29:23] <T1AGO> AEHHAEUHAEHEUAAEUAE
+[18:29:26] Join: Guest70296
+[18:29:27] <caixabox_> mR_X_fr0m_h3LL tem de esperar o Leonardo Lopes
+[18:29:29] <mR_X_fr0m_h3LL> T1AGO - eu ja vi isso...
+[18:29:39] <LordStorm> alguem sabe quanto de ram o gnome ocupa?
+[18:29:40] Join: m4rch
+[18:29:42] <Guest70296> alguem ae sabe me dizer como eu faxo para DELETAR um arquivo LINUX ?
+[18:29:52] <T1AGO> mR_X_fr0m_h3LL, eh mais o LordStorm contando eh hilario
+[18:29:52] <T1AGO> =P
+[18:29:52] <LordStorm> Guest70296 rm arkivo
+[18:29:54] Quit: Read error: 60 (Operation timed out) [Terror_br]
+[18:29:59] <mR_X_fr0m_h3LL> T1AGO - haeuaeua
+[18:30:02] Join: InFoLinK
+[18:30:09] <mR_X_fr0m_h3LL> alguem ta usando xchato ae ?
+[18:30:10] <LordStorm> mR_X_fr0m_h3LL eh a do "Hacker Mortal" ?
+[18:30:11] <_D1NhO_> LordStorm valeuuu brother :)
+[18:30:13] Join: Terror_br
+[18:30:14] Part: Terror_br
+[18:30:14] <m4rch> como posso instalar minha placa de rede no linux?
+[18:30:18] <T1AGO> mR_X_fr0m_h3LL, ate parece que ele ja invadiu localhost tb.. será?
+[18:30:20] <T1AGO> ahahuiaheaae
+[18:30:23] <LordStorm> march qual placa q eh
+[18:30:24] <mR_X_fr0m_h3LL> LordStorm - conta ae.. 
+[18:30:27] Quit: Quit: [_dejavu_]
+[18:30:36] <LordStorm> T1AGO parece mas nunca fiz essa besteira
+[18:30:38] <LordStorm> apesar das aparencias
+[18:30:40] <LordStorm> ta bom hehehehehe
+[18:30:44] <T1AGO> LordStorm, ahahahhueahuae
+[18:30:48] <LordStorm> "Relato de um lammer: Hacker Mortal"
+[18:30:50] <T1AGO> sei lah
+[18:30:54] <T1AGO> tem tanto reker por ai
+[18:30:59] <T1AGO> hacker mortal?
+[18:30:59] <mR_X_fr0m_h3LL> alguem ta usando XChat ae ?
+[18:31:01] <LordStorm> "Hoje eu ganhei um  computador"
+[18:31:03] <LordStorm> eh o nick do cara
+[18:31:07] <T1AGO> eu =P
+[18:31:09] <T1AGO> ah ta
+[18:31:11] Part: _D1NhO_
+[18:31:11] <T1AGO> auhuauheaiaeiuaeuae
+[18:31:13] Part: m4rch
+[18:31:29] <T1AGO> mR_X_fr0m_h3LL, eu uso puta, pq? aauhaae
+[18:31:34] Join: cvs
+[18:31:37] Quit: Read error: 54 (Connection reset by peer) [cp_nec]
+[18:31:43] <LordStorm> "a primeira coisa que eu fiz foi procurar sobre hackers, pois sempre vejo noticias sobre eles no jornal da globo e depois que assisti Matrix eu quis me tornar um"
+[18:31:52] <mR_X_fr0m_h3LL> T1AGO - ele ta usando essa lib ae vadia ? libpainel_applet.so.0:
+[18:31:57] <T1AGO> essa do matrix eh triste
+[18:31:59] <T1AGO> ahahahahaha
+[18:32:01] <LordStorm> "eu entrei em um site que tinha fundo preto, algumas caveiras dançando e uma musiquinha no fundo"
+[18:32:09] Join: cp_nec
+[18:32:10] <T1AGO> mR_X_fr0m_h3LL, deixe eu ver pera :)
+[18:32:11] <LordStorm> "achei muito legal e fikei com vontade de aprender a fazer akilo "
+[18:32:30] <T1AGO> Depends: libc6 (>= 2.2.4-4), libglib1.2 (>= 1.2.0), libgtk1.2 (>= 1.2.10-4), libperl5.6 (>= 5.6.1-7), python2.1, xlibs (>> 4.1.0), xchat-common (= 1.8.9-0woody2)
+[18:32:39] <LordStorm> " eu baixei um programa que se chamava Net Bus e era um programa para invadir"
+[18:32:51] <Guest71023> galera
+[18:32:52] <mR_X_fr0m_h3LL> T1AGO - blz..
+[18:32:52] <caixabox_> mR_X_fr0m_h3LL to de xchato sim 
+[18:32:54] <Guest71023> oq eh esse erro ?
+[18:32:55] <Guest71023>  glibc-devel-2.3.2-91.i386.rpm
+[18:33:03] <LordStorm> "soh que eu nao consegui abrir pois aparecia uma mensagem pedindo pra mim selecionar um programa para abrilo"
+[18:33:05] <mR_X_fr0m_h3LL> caixabox_ - ele usa essa lib ae libpainel_applet.so.0:
+[18:33:16] <T1AGO> LordStorm, qual era a musiquinha?
+[18:33:19] <T1AGO> ;~
+[18:33:21] <LordStorm> "uma semana depois eu baixei o winzip e descobri que era esse o programa"
+[18:33:27] <LordStorm> T1AGO sei la
+[18:33:27] <T1AGO> kero saber pra eu fazer um site igual LordStorm
+[18:33:30] <T1AGO> eaueuahiae
+[18:33:31] <LordStorm> ahueihwauiheuiahwuiehuiawehuiahe
+[18:33:36] <T1AGO> po
+[18:33:41] <LordStorm> talves seja a smells like teen spirit
+[18:33:42] <LordStorm> pow
+[18:33:42] <T1AGO> no meu pvt tu falo q era smells do nirvana
+[18:33:44] <T1AGO> aeeaihhaeiuea
+[18:33:45] <LordStorm> pergunta pro cara
+[18:33:52] <T1AGO> ah
+[18:33:53] <LordStorm> ihiuehaiuwheiuahieuahew
+[18:33:56] <T1AGO> a parada eh vero mesmo?
+[18:33:59] <T1AGO> aeuhhaeihaeaeaae
+[18:34:01] <LordStorm> eu vi num site
+[18:34:08] <T1AGO> passa ai
+[18:34:08] <LordStorm> o cara contando
+[18:34:12] <T1AGO> kero ver o nick do fdp
+[18:34:14] <LordStorm> nem sei c esse site existe
+[18:34:14] <T1AGO> ahuauuhaeea
+[18:34:16] <LordStorm> ainda
+[18:34:20] <LordStorm> waheuahweuiauwheuihwe
+[18:34:21] Join: spymam
+[18:34:23] <T1AGO> ahuauuhaeea
+[18:34:25] <LordStorm> faz tempo foi em 2000
+[18:34:29] <LordStorm> vi no cade
+[18:34:32] <LordStorm> xo continuar
+[18:34:34] <T1AGO> auhauhuhasuhasuhaish
+[18:34:48] <T1AGO> caixabox_, fala mais nao eh ?
+[18:34:49] <MrMetal-Work> ei pessoal
+[18:34:50] <MrMetal-Work> vou la
+[18:34:51] <LordStorm> " mas eu acho que o arkivo patch.exe estava danificado, pois eu nao conseguia abri-lo, eu clikava e nada"
+[18:34:52] Quit: Ping timeout: 240 seconds [invisbow[morrido]]
+[18:34:57] <MrMetal-Work> falou caixa
+[18:35:02] <MrMetal-Work> falou T1AGO
+[18:35:03] <LordStorm> " um dia apareceu um cara no icq dizendo que iria me ajudar
+[18:35:07] <T1AGO> t+
+[18:35:20] <MrMetal-Work> mR_X_fr0m_h3LL? falo figura
+[18:35:22] <T1AGO> LordStorm, conta + rapido
+[18:35:23] Quit: Read error: 54 (Connection reset by peer) [stchuq]
+[18:35:26] <mR_X_fr0m_h3LL> MrMetal-Work - flws.. kra..
+[18:35:27] <T1AGO> huhiauuaa
+[18:35:29] Part: MrMetal-Work
+[18:35:43] <LordStorm> " ele disse que onde tava host tinha que colocar o ip de quem eu queria invadir"
+[18:35:58] <T1AGO> uia q reker
+[18:36:02] <LordStorm> "para quem nao sabe, ip significa identidade pessoal parece que sempre que voce se conecta voce recebe um"
+[18:36:12] <T1AGO> auiuiahiia
+[18:36:26] <LordStorm> " ai ele me passou o ip 127.0.0.1 , eu lembro ate hoje pois foi minha primeira invasao"
+[18:36:29] <T1AGO> daki a poko ip vai virar carteira de identidade
+[18:36:41] <T1AGO> c vai conectar e vai pegar o ip ( RG )
+[18:36:44] <LordStorm> minha professora d einfo disse q eh identidade de protocolo
+[18:36:44] <T1AGO> aehiheahiaeiuea
+[18:36:50] <LordStorm> ahheauihewuihiuewhuiehuiew
+[18:36:56] <T1AGO> ihahahuhauhhauaua
+[18:36:57] <mR_X_fr0m_h3LL> ahuahuehuahe
+[18:37:06] <T1AGO> pqp hhahahuhuauhaa
+[18:37:13] <caixabox_> nossa
+[18:37:14] <LordStorm> " era de um cara q ele queria invadir e nois iriamos fazerisso juntos"
+[18:37:18] <mR_X_fr0m_h3LL> kralho mano... o me mijar..
+[18:37:20] <caixabox_> eu sai dessa escola
+[18:37:32] <T1AGO> aeuuhhueuheaiuea
+[18:37:35] <LordStorm> " eu conectei e a primeira coisa que eu fiz foi ver os arkivos  do cara"
+[18:38:02] <LordStorm> " eu percebi que ele tinha um computador muito parecido com o mew, o dele tambem tinha a pasta c:/windows e os arkivos tambem eram os mesmos,, ate o scanner era igual"
+[18:38:06] <T1AGO> uhaehaehiuae
+[18:38:10] <mR_X_fr0m_h3LL> haeuaehauahauahuahuahu
+[18:38:18] <LinuXRR> alguém aqui usa o mandrake?
+[18:38:19] <T1AGO> scanner igual eh foda
+[18:38:22] <T1AGO> AEAEUHAUHAHAHUAAAEEA
+[18:38:30] <LordStorm> " fiquei com pnea de apagar tudo, mas agora eu sou um racker e como meu novo amigo disse, hacker nao tem pena de ninguem"
+[18:38:33] <T1AGO> LinuXRR, ja usei, pq? :P
+[18:38:37] <LordStorm> " comecei a deletar tudo"
+[18:38:41] <T1AGO> uheauuahhuaeuhuaeae
+[18:38:42] <LordStorm> " nossa, como eh legal ser hacker
+[18:38:44] <T1AGO> aehauiieuhea
+[18:39:07] Join: buffer
+[18:39:17] <buffer> como arrumo o teclado no slack?
+[18:39:22] <LordStorm> " mas eu acho q ele devia ter algum tipo de protecao especial, pois de repente mew pc travou"
+[18:39:33] <LordStorm> buffer c for no console eh loadkeys us-acentos.map
+[18:39:34] <LordStorm> claro
+[18:39:35] <mR_X_fr0m_h3LL> haeuaheauehuaehuahuehaeuahauahu
+[18:39:35] <T1AGO> uieuiauiaeuae
+[18:39:40] <LordStorm> c o seu teclado nao for abnt
+[18:39:41] <LordStorm> c for
+[18:39:44] <T1AGO> nao interrompe LordStorm
+[18:39:47] <T1AGO> ahhuaeuhae
+[18:39:49] <LordStorm> blz
+[18:39:56] <mR_X_fr0m_h3LL> hauaeuhu pelo amor...
+[18:39:56] <buffer> meu teclado he abnt
+[18:39:56] <LordStorm> " e quando reiniciei mew computador nao entrava mais"
+[18:40:02] <T1AGO> aff
+[18:40:05] <LordStorm> loadkeys abnt.map
+[18:40:15] <LordStorm> " gastei minha mesada toda com um técnico, mas valew a pena"
+[18:40:19] <buffer> e pra sempre usar como faz?
+[18:40:21] <mR_X_fr0m_h3LL> haeuaheaueahauahueaha
+[18:40:24] <T1AGO> buffer, www.linuxajuda.com.br tem um texto lá sobre configuracoes para slackware
+[18:40:37] <buffer> vlw
+[18:40:50] <LordStorm> " depois eu fiz um site no word, coloquei minha foto la e tudo que voce precisa saber para ser um grande hacker como eu"
+[18:40:58] <T1AGO> faz exatamente o que está lá e fica rlz :)
+[18:41:07] Quit: Quit: [My_3gg5]
+[18:41:08] <T1AGO> LordStorm, grande reker eh foda
+[18:41:11] <T1AGO> eauhaeieaeiaeaihieaea
+[18:41:12] <LordStorm> " eu baixei o net bus de novo, agora vou tentar invadir a NASA , so falta saber a indentidade pessoal deles"
+[18:41:15] <T1AGO> reker de localhost
+[18:41:17] <T1AGO> eauhaehueauheahiahihaeaeae
+[18:41:22] <LordStorm> "ps. o patch.exe continua danificado"
+[18:41:29] <T1AGO> LordStorm, po soh pegar o cnpj da NASA ;~
+[18:41:34] <T1AGO> eaaehuaaeuhauhae
+[18:41:56] <mR_X_fr0m_h3LL> aaieajeiajaeieaahauehaueaheuaehaueaheuhauhea
+[18:42:02] <LordStorm> eawheuhauiwheuiaewhuaehuiehuahueuehaewewahu
+[18:42:13] <mR_X_fr0m_h3LL> que merda kra.. que bosta..
+[18:42:18] <Solitario_JP> onde acho esse programa webmin ?
+[18:42:25] <T1AGO> ahhahaha!
+[18:42:33] <LordStorm> pois eh mas ele da pra entender
+[18:42:34] <T1AGO> <T1AGO> LordStorm, po soh pegar o cnpj da NASA ;~
+[18:42:36] <LordStorm> acabou de ganhar um pc
+[18:42:37] <T1AGO> LordStorm, manda teu amigo fazer isso
+[18:42:37] <LordStorm> wuaheuiahwheuaiwihuaiw
+[18:42:37] <mR_X_fr0m_h3LL> Solitario_JP - www.webmin.com
+[18:42:39] <T1AGO> ahahuauhaehaeaeea
+[18:42:44] <LordStorm> mas e minha professora
+[18:42:47] <LordStorm> q c formo na unicid
+[18:42:51] <LordStorm> ow na unicastelo nao sei
+[18:42:55] <T1AGO> unicid?
+[18:42:59] <LordStorm> aham
+[18:42:59] <T1AGO> q isso?
+[18:43:02] <LordStorm> faculdade
+[18:43:05] <T1AGO> q porah essa ?
+[18:43:05] <T1AGO> ahueiaehae
+[18:43:08] <T1AGO> faculdade dos rekers?
+[18:43:10] <T1AGO> auheaieahieuiea
+[18:43:13] <LordStorm> eahiehauiiueuiehuwhueuhhuiwheuihweaew
+[18:43:14] <Solitario_JP> ele configura o adsl beleza mesmo ?
+[18:43:19] <LordStorm> entao
+[18:43:20] <T1AGO> iheahiaeheahihaae
+[18:43:24] <LordStorm> falar q ip eh identidade de protocolo
+[18:43:29] <T1AGO> pqp morte a sua professora LordStorm
+[18:43:30] Part: LinuXRR
+[18:43:31] <LordStorm> apesar de que
+[18:43:31] <T1AGO> ahahhahauha
+[18:43:35] <LordStorm> essa hora eu ja esperava por iso
+[18:43:36] <LordStorm> ewahuewhuewhuiuihuihewuiwhea
+[18:43:41] <LordStorm> antes eu achava q ela manjava
+[18:43:42] <T1AGO> LordStorm, diz pra ela.. q meu ip eh meu numero RG
+[18:43:48] <T1AGO> eauheauhuhae
+[18:43:51] <LordStorm> ate o dia q ela disse q quando c desliga o micro errado a ram nao eh limpa
+[18:44:05] <LordStorm> e q o scandisk eh pra limpar a ram e c cancelar a ram fica cheia pra sempre
+[18:44:06] <LordStorm> cara
+[18:44:06] <T1AGO> pqp
+[18:44:08] <T1AGO> AAHAHAEUAAEHEHAAAEAEAEAE
+[18:44:10] <LordStorm> quando ela disse isso
+[18:44:11] <T1AGO> ram do cu dela rs*
+[18:44:14] <T1AGO> eiaaeuheaieahaehiaea!
+[18:44:15] <LordStorm> ate me doeu o rim
+[18:44:18] <mR_X_fr0m_h3LL> ave ce estuda aonde ?
+[18:44:19] <LordStorm> uihauhewuiawuiheuiawheuiwhe
+[18:44:23] <T1AGO> caralho
+[18:44:27] <T1AGO> SCANDISCK LIMPAR RAM ?
+[18:44:31] <LordStorm> mR_X_fr0m_h3LL na escola mesmo
+[18:44:33] <LordStorm> pois eh
+[18:44:34] <T1AGO> isso eh pior q o hacker mortal kra
+[18:44:35] <LordStorm> fikei pensando
+[18:44:36] <mR_X_fr0m_h3LL> ave mano...
+[18:44:40] <T1AGO> LordStorm isso eh pior q o hacker mortal kra
+[18:44:42] <T1AGO> ahahueieauae
+[18:44:45] <LordStorm> verdade
+[18:44:55] <T1AGO> pelo menos o hacker mortal eh nb
+[18:45:07] <T1AGO> e a tua professora q c formo na faculdade dos rekers?
+[18:45:09] <T1AGO> haeiaeehaaeae
+[18:45:14] Quit: Quit: [LGB]
+[18:45:18] <LordStorm> eahuwuehuiwheuiahweuihauiheaew
+[18:45:24] <mR_X_fr0m_h3LL> aheauehaue
+[18:45:29] <T1AGO> LordStorm, carai eu me recuso a ter aula com uma merda de professora dessa
+[18:45:33] <T1AGO> a nao ser q ela seje mto gostosa
+[18:45:37] <T1AGO> e te dando pra mim rs*
+[18:45:39] <Solitario_JP> pra que serve o webmin ?
+[18:45:46] <T1AGO> e ta dando pra mim uhaeauhae
+[18:46:03] <T1AGO> LordStorm, c ainda tem aula com a professora reker?
+[18:46:31] <LordStorm> T1AGO infelizmente sim
+[18:46:35] <LordStorm> toda 4 feira
+[18:46:40] <mR_X_fr0m_h3LL> ela eh gostosa ?
+[18:46:45] <LordStorm> o que????
+[18:46:49] <LordStorm> c ela eh gostosa?????
+[18:46:50] <T1AGO> mR_X_fr0m_h3LL, gente fika aki malhando a professora.. vai q ela descobre nos RGS e invadi a gente?
+[18:46:52] <LordStorm> parece um jumento
+[18:46:53] <T1AGO> hiaeuheauhaehuuhaaeaeaeea
+[18:46:54] <LordStorm> cara
+[18:46:56] <LordStorm> eh mo tribufu
+[18:47:00] <LordStorm> magricela
+[18:47:03] <LordStorm> eh chupada de tao magra
+[18:47:03] <T1AGO> nossos rgs
+[18:47:06] <T1AGO> ahahuuae
+[18:47:10] <LordStorm> a cara dela eh branca parece leite
+[18:47:13] <Solitario_JP> pra que serve o webmin ??????????????
+[18:47:16] <T1AGO> ja q ela xupada manda ela xupar
+[18:47:17] <T1AGO> ahahuhauhuaa
+[18:47:21] <LordStorm> aewhwuieuhewauiewhuhe
+[18:47:23] <LordStorm> eu nao
+[18:47:27] <LordStorm> vai contaminar meu paau
+[18:47:30] <LordStorm> o cabelo dela
+[18:47:32] <LordStorm> ehuahauihewuuewhuiauiwhuieawuew
+[18:47:32] <mR_X_fr0m_h3LL> haeuahueahue
+[18:47:32] <T1AGO> Solitario_JP, para administrar o servidor via web :)
+[18:47:34] <LordStorm> ela tinge de loiro
+[18:47:38] <LordStorm> e depois nao tinge de novo
+[18:47:42] <LordStorm> daeh fica as raiz preta aparecendo
+[18:47:43] <LordStorm> cara
+[18:47:44] <T1AGO> ahaahahhaha tinha q ser
+[18:47:46] <LordStorm> parece uma mumia
+[18:47:46] <T1AGO> loira
+[18:47:47] <caixabox_> T1AGO LordStorm pora menos 
+[18:47:48] <T1AGO> EAAEUHEAUHAHEAUHAEEAAE
+[18:47:51] <T1AGO> q lixo ahhauheuhhuaeea
+[18:47:57] <Solitario_JP> me disseram que ele configura adsl
+[18:47:58] <LordStorm> ahuwiewhuiaeuewhuieawiuee
+[18:48:01] <LordStorm> quem?
+[18:48:03] <LordStorm> webmim?
+[18:48:08] <caixabox_> Solitario_JP nao !!
+[18:48:10] <mR_X_fr0m_h3LL> Solitario_JP - baixa o rp-pppoe e instala ele... 
+[18:48:21] <mR_X_fr0m_h3LL> adsl-setup responde as perguntas adsl-start inicia a conexao..
+[18:48:27] <T1AGO> caixabox_, num enche.. eu sei q vc eh velho, mais pelo menos nao seja chato q nem um velho
+[18:48:29] <T1AGO> auheiaiheahieaiuaeiea
+[18:48:43] <T1AGO> caixabox_ vovô
+[18:48:44] <Solitario_JP> mas é pq nao configurou a placa de rede RTL 8029
+[18:48:46] <T1AGO> ahahhahauhuihauhaeuheaea
+[18:48:49] Quit: Read error: 54 (Connection reset by peer) [C0d1g0ff]
+[18:48:53] <caixabox_> T1AGO olha o estatuto do IDOSO POW !!
+[18:48:58] <slac> caixabox_ tio caixa
+[18:48:59] <mR_X_fr0m_h3LL> Solitario_JP - modprobe ne2k-pci
+[18:49:04] <T1AGO> maneh estatuto do idoso
+[18:49:05] <caixabox_> T1AGO te prendo 
+[18:49:08] <T1AGO> idoso no brasil soh c fode
+[18:49:12] <caixabox_> slac noite tio
+[18:49:18] <T1AGO> uhaeaeea
+[18:49:23] Quit: Quit: [Solitario_JP]
+[18:49:45] <T1AGO> caixabox_, velho =p
+[18:50:07] <LordStorm> caixabox_ fica de boa c nao eu vo chama a doriz hein
+[18:50:09] <LordStorm> hiahieuhuiawehuihaewhuieawe
+[18:50:13] <mR_X_fr0m_h3LL> haeauheuahuehauaehauaueheauh
+[18:50:16] <T1AGO> doriz?
+[18:50:22] <mR_X_fr0m_h3LL> !rank
+[18:50:26] <mR_X_fr0m_h3LL> !rank 10
+[18:50:27] <caixabox_> uia
+[18:50:29] <T1AGO> !rank
+[18:50:31] <caixabox_> outro bot
+[18:50:32] <T1AGO> ahahaahaehea
+[18:50:34] <caixabox_> que fala
+[18:50:36] <T1AGO> !rank 100
+[18:50:40] <mR_X_fr0m_h3LL> rank mentiroso...
+[18:50:43] <caixabox_> !rank 10
+[18:50:52] <LordStorm> T1AGO a doriz da novela
+[18:50:59] <T1AGO> rank de cu eh rola
+[18:51:00] <LordStorm> T1AGO q maltrata os avós
+[18:51:02] <T1AGO> LordStorm, ah ta
+[18:51:06] <T1AGO> hhahahahaha
+[18:51:14] <LordStorm> aeh
+[18:51:15] <mR_X_fr0m_h3LL> eh phoda a mina eh moh magrela e sai na playboy com peito e bunda.. photoshop ruliz..
+[18:51:17] <LordStorm> o carinha akeh no pvt
+[18:51:19] <caixabox_> tem gente votendo em si mesmo
+[18:51:34] <mR_X_fr0m_h3LL> o recker de localhost ?
+[18:51:45] <T1AGO> rank eh coisa de nerd
+[18:51:54] <LordStorm> nao
+[18:51:55] <LordStorm> wehauihuiwehuaewwehuewhui
+[18:51:56] <T1AGO> mR_X_fr0m_h3LL, hauhauhehueahuae!
+[18:51:59] <LordStorm> eh um q ta dando pau no red hat
+[18:52:03] <T1AGO> photoshop eh foda
+[18:52:03] Join: tocha[off]
+[18:52:05] <T1AGO> faz milagre
+[18:52:10] <mR_X_fr0m_h3LL> com certeza...
+[18:52:11] <T1AGO> hahaahahahahaa
+[18:52:16] <LordStorm> T1AGO awheuahweuihweuihewuihewuiwe
+[18:52:20] <tocha[off]> T1AGO qual comando de request version?
+[18:52:20] <T1AGO> ahuauhaihaua
+[18:52:26] <LordStorm> o mew colega fez um wallpaper no photoshop
+[18:52:28] <LordStorm> tava uma merda
+[18:52:30] <mR_X_fr0m_h3LL> tinha um camarada que trabalhava na edicao das fotos da playboy ele falou que toda mulher era retocada... 
+[18:52:33] <LordStorm> "mas pra primeiro ta bom"
+[18:52:35] <LordStorm> foi a descupa dele
+[18:52:36] <T1AGO> po
+[18:52:43] <LordStorm> carai
+[18:52:44] <T1AGO> photoshop eh bom
+[18:52:45] <LordStorm> aeuihaiehuiwheuiauwheuiawe
+[18:52:47] <T1AGO> o cara q eh ruim
+[18:52:47] <T1AGO> eauaehhuae
+[18:52:57] <LordStorm> T1AGO c acha melhor photoshop ou gimp?
+[18:53:06] <T1AGO> mR_X_fr0m_h3LL, retocada no photoshop?
+[18:53:18] <T1AGO> LordStorm, photoshop tem mais recursos que o gimp :)
+[18:53:22] <mR_X_fr0m_h3LL> T1AGO - sim os caras resedesenham as minas no photoshop.. 
+[18:53:35] <T1AGO> mais o gimp eh bom.. mais ainda nao chega no photoshop
+[18:53:47] <LordStorm> ja vi mulher todinha feita no photoshp
+[18:53:51] <mR_X_fr0m_h3LL> T1AGO - o photoshop vai ser portado pro linx
+[18:53:53] <T1AGO> mR_X_fr0m_h3LL, eh serio isso mesmo ?
+[18:54:00] <LordStorm> o foda eh ke ficava muito artifical
+[18:54:03] <LordStorm> artificial
+[18:54:05] <mR_X_fr0m_h3LL> T1AGO - eu li um barato da adobe que sim...
+[18:54:07] <LordStorm> nao tinha nem um pelinho no suvaco
+[18:54:10] <LordStorm> tudo lisinho
+[18:54:17] <mR_X_fr0m_h3LL> T1AGO - eles querem portar a linha toda pro linux..
+[18:54:27] <T1AGO> mR_X_fr0m_h3LL, eu quero eh as ferramentas da macromedia
+[18:54:30] <T1AGO> faz falta a vera
+[18:54:37] <T1AGO> photoshop nem tanto
+[18:54:41] <mR_X_fr0m_h3LL> T1AGO - e a tendencia.. kra..
+[18:54:49] <T1AGO> eu tenho windows aki
+[18:54:54] <T1AGO> pq qdo trampo com imagens
+[18:54:54] <tocha[off]> T1AGO qual comando de request version?
+[18:55:02] <T1AGO> sou obrigado a ir pro win
+[18:55:04] <T1AGO> blah
+[18:55:12] <T1AGO> tocha[off], como assim?
+[18:55:12] <LordStorm> T1AGO daeh c curte muito tira um sarro dos lammers neh?
+[18:55:13] Quit: Quit: [alvin_lee]
+[18:55:14] Join: Guest61761
+[18:55:22] <LordStorm> T1AGO entra nu www.clantn.cjb.net
+[18:55:23] <LordStorm> wahueiahweuawheuihauwheuwe
+[18:55:38] <T1AGO> LordStorm, po nao eh curtir.. mais q dou boas risados eu do
+[18:55:40] <T1AGO> :D
+[18:55:43] <T1AGO> kem nao gosta de rir?
+[18:55:48] <caixabox_> mR_X_fr0m_h3LL pow se for volto para webdesing
+[18:55:55] <caixabox_> huahuahuahauha
+[18:55:57] <LordStorm> ewhuaheuihweuhauwheuiawheuiawe
+[18:56:05] Part: buffer
+[18:56:06] Quit: Read error: 54 (Connection reset by peer) [m3m0ry]
+[18:56:15] <LordStorm> T1AGO esse site eh rlz
+[18:56:16] <T1AGO> webdesigner de cu eh rola rs*
+[18:56:20] Join: Juneco
+[18:56:23] <LordStorm> T1AGO mas o da hora do site eh o guest book
+[18:56:24] <T1AGO> aehaeuhaeea
+[18:56:27] <LordStorm> o resto nao interessa
+[18:56:28] <mR_X_fr0m_h3LL> eu nao volto pra web nem phodendo..
+[18:56:35] <Juneco> BOA NOITE AE PESSOAL
+[18:57:10] Join: Atchixim
+[18:57:12] <T1AGO> ja volto
+[18:57:12] Join: clunsde
+[18:57:14] <mR_X_fr0m_h3LL> noite..
+[18:57:22] Quit: Quit: [{[{RaImUnDoS}]}]
+[18:57:24] <T1AGO> vo colocar um kurulixo q remasterizei no pc do meu primo, q está sem hd.. rs*
+[18:57:28] <T1AGO> ja volto
+[18:57:39] Quit: Read error: 54 (Connection reset by peer) [beersbox]
+[18:57:51] <LordStorm> q pc q eh?
+[18:57:54] <LordStorm> pra ta sem hd?
+[18:57:57] <LordStorm> 286?
+[18:58:06] <tocha[off]> T1AGO pra sabe qual versao do linux o cara tah usanu, dado pelo mirc
+[18:58:37] <LordStorm> apesar de que um misero raio pode fazer isso com qualquer pentium 4 da vida
+[19:01:01] <T1AGO> LordStorm`away, eh um pII 266
+[19:01:42] <T1AGO> ai remasterizei com umas modificacoes minhas pra ganho de desempenho pra ele :)
+[19:01:55] <T1AGO> se nao vai ficar = fuskinha
+[19:02:27] <mR_X_fr0m_h3LL> eca p4...
+[19:02:51] <mR_X_fr0m_h3LL> turbino.. aheaeua
+[19:03:20] Quit: Read error: 54 (Connection reset by peer) [clunsde]
+[19:03:26] Join: clunsde
+[19:03:45] Join: _LoUis__
+[19:05:30] <_LoUis__> [Away: jogando f16][-l+p][Cachimbo!2.01]
+[19:07:28] Quit: Ping timeout: 240 seconds [clunsde]
+[19:07:38] Quit: Remote closed the connection [mxzypktl]
+[19:07:54] Quit: Quit: [cp_nec]
+[19:09:12] Quit: Ping timeout: 240 seconds [Juneco]
+[19:10:39] Quit: Ping timeout: 240 seconds [LoUis_off]
+[19:16:48] Quit: Quit: [bAd_TuX]
+[19:17:05] Join: rogerio
+[19:17:56] Join: __UND3RL1N3__
+[19:18:06] <__UND3RL1N3__> to morto
+[19:18:07] <__UND3RL1N3__> :p
+[19:18:08] <__UND3RL1N3__> mto mtroto
+[19:18:09] <__UND3RL1N3__> morto
+[19:18:25] <T1AGO> ai ai esses rekers
+[19:18:26] <LordStorm`away> heawihuehwuehauiwheuaew
+[19:18:28] <T1AGO> se acham ahuuhaeuhae
+[19:18:29] <LordStorm`away> o cara eh mo anta
+[19:18:30] <LordStorm`away> fala
+[19:18:34] <LordStorm`away> q cd do red hat ta bugado
+[19:18:37] <T1AGO> cd "bugado"
+[19:18:40] <T1AGO> e diz q eh reker
+[19:18:42] <LordStorm`away> por isso q ele nao consegue instalar
+[19:18:42] <T1AGO> pqp ...
+[19:18:43] <LordStorm`away> uwhuiawheuawuihewaauiew
+[19:18:43] <LordStorm`away> o cara
+[19:18:45] <Guest71023> galera
+[19:18:49] <__UND3RL1N3__> LordStorm`away eh mto eh burro.. ahiuehiauehiaheiaheiu
+[19:18:50] <LordStorm`away> " vaza da ki senao te pacoto"
+[19:18:51] Join: _LoUis__
+[19:19:01] <Guest71023> estou tentando instalar o ImageMagick libs mas fala de dependencias
+[19:19:02] <__UND3RL1N3__> Guest71023 diz aeeee
+[19:19:03] <T1AGO> LordStorm`away, ele falando eu tenho shell aahhaha falei foda-se vc e a sua shell.. roda ddos ai e pacota o seu c*
+[19:19:04] <T1AGO> aeuuaeuhaeuhae
+[19:19:11] <Guest71023> liblcms.so.1
+[19:19:15] <Guest71023> mas eu tenho essa lib
+[19:19:15] <__UND3RL1N3__> Guest71023 instala essa lib ae
+[19:19:27] <__UND3RL1N3__> Guest71023 tnta reinstala.. pega uma versaum mais nova :)
+[19:19:28] <_LoUis__> [Away: f16 boladao][-l+p][Cachimbo!2.01]
+[19:19:33] <Guest71023> /usr/lib/liblcms.so.1.0.10
+[19:19:33] <Guest71023> /usr/lib/liblcms.so.1
+[19:19:34] <T1AGO> ja volto
+[19:19:35] <Guest71023> jah peguei!
+[19:19:38] <Guest71023> e reinstalei
+[19:19:45] <__UND3RL1N3__> Guest71023 poe o erro ae
+[19:20:08] <Guest71023>      libMagick.so.6 is needed by giFT-0.11.4-1
+[19:20:08] <Guest71023>         liblcms.so.1 is needed by giFT-0.11.4-1
+[19:20:08] <Guest71023>         libmagic.so.1 is needed by giFT-0.11.4-1
+[19:20:08] <Guest71023>         ImageMagick-libs is needed by giFT-0.11.4-1
+[19:20:08] <Guest71023>         libltdl is needed by giFT-0.11.4-1
+[19:20:09] <Guest71023>         libmagic is needed by giFT-0.11.4-1
+[19:20:14] <Guest71023> tentando isntalar o gift car
+[19:20:29] <Guest71023> compilei tudo aki mas na hr de tentar entrar gifToxic da um erro
+[19:20:29] <__UND3RL1N3__> Guest71023 vc tm todas essas libs???
+[19:20:49] <__UND3RL1N3__> Guest71023 qual eh tua distro???
+[19:21:01] <Guest71023> agora estou tentando isntalar via rpm
+[19:21:01] <Guest71023> tipo
+[19:21:01] <Guest71023> sim
+[19:21:02] <Guest71023> a libMagick nao
+[19:21:15] <Guest71023> mas para instalar a libMagick ele fala que depende de libltdl e liblcms.so.1
+[19:21:16] <Guest71023> entende ?
+[19:21:19] <__UND3RL1N3__> Guest71023 instala a libMagick entaum
+[19:21:20] <Guest71023> entra em loop a parada
+[19:21:22] <Guest71023> rh9
+[19:21:47] <__UND3RL1N3__> Guest71023 entra em http://rpmfind.net
+[19:21:52] <Guest71023> tipo
+[19:21:55] <__UND3RL1N3__> Guest71023 pega os rpms feitos pra RH9
+[19:21:56] <Guest71023> tÃ¡
+[19:22:01] <__UND3RL1N3__> Guest71023 facilita pra vc :)
+[19:22:19] <Guest71023>  error while loading shared libraries: libgift.so.0: cannot open shared object file: No such file or directory
+[19:22:24] <Guest71023> alguem usa gift aki ?
+[19:22:35] <__UND3RL1N3__> Guest71023 esse erro foi na compilacaum neh"???
+[19:22:41] <Guest71023> compilei o gift e o giftfasttrack
+[19:22:43] <Guest71023> __UND3RL1N3__, 
+[19:22:45] <Guest71023> tipo
+[19:22:50] <Guest71023> eu fiz tudo compilado antes
+[19:22:54] <Guest71023> e deu esse erro
+[19:22:56] <Guest71023> entende ?
+[19:23:00] <Guest71023> atualizei tudo
+[19:23:01] <__UND3RL1N3__> Guest71023 sohh!!!
+[19:23:08] <Guest71023> gtk2 glib2 etc.. etc...
+[19:23:15] <__UND3RL1N3__> Guest71023 mas kra.. pega tudo rpm.. v c funfa!!
+[19:23:19] <__UND3RL1N3__> Guest71023 as libs todas :)
+[19:23:22] <__UND3RL1N3__> rpmfind.net
+[19:23:24] <Guest71023> tÃ¡
+[19:23:34] <Guest71023> mas tipo
+[19:23:35] <Guest71023> peguei cara
+[19:23:41] <Guest71023> mas ele diz que nao tem tal lib
+[19:23:45] <Guest71023> mas a lib esta no meu pc
+[19:23:50] <Guest71023> eu localizo ela
+[19:23:52] <Guest71023> entende ?
+[19:24:03] <__UND3RL1N3__> Guest71023 como vc compilo??
+[19:24:23] <__UND3RL1N3__> quais comandos??
+[19:24:25] <__UND3RL1N3__> poe ae
+[19:24:25] <__UND3RL1N3__> :p
+[19:24:28] <Guest71023> tipo
+[19:24:38] <Guest71023> compilei gift ./configure make e make install
+[19:24:44] <Guest71023> depois o giftfastrack lah
+[19:24:48] <Guest71023> mesma coisa
+[19:24:53] <__UND3RL1N3__> Guest71023 hmm... blz... e qual q eh o teu gcc???
+[19:24:55] <Guest71023> ai o giftoxic
+[19:24:58] <__UND3RL1N3__> 2.95?? 3.2?? 3.3??
+[19:25:15] <Guest71023> 3.2.2
+[19:25:22] <Guest71023> tipo
+[19:25:25] <Guest71023> compilou tudo
+[19:25:36] <Guest71023> soh na hr de entrar no giftoxic
+[19:25:41] <Guest71023> tentei giftcurs tbn nao deu
+[19:25:43] <Guest71023> deu mesmo erro
+[19:25:48] <__UND3RL1N3__> Guest71023 kra.. tnta com o gcc 2.95 ou o 3.3.. ja vi mto erro com o 3.2
+[19:25:48] <__UND3RL1N3__> :p
+[19:25:56] <Guest71023> ahhhh
+[19:26:00] <Guest71023> pare
+[19:26:09] <__UND3RL1N3__> Guest71023 to dizndo...
+[19:26:16] <__UND3RL1N3__> Guest71023 o 3.2 eh meio instavel
+[19:26:23] <Guest71023> tÃ¡ cara
+[19:26:25] <Guest71023> tipo
+[19:26:32] <Guest71023> pq no rh8 funfou de prima ?
+[19:26:56] <Guest71023> mesmo gcc
+[19:27:05] <__UND3RL1N3__> Guest71023 rh8 != rh9
+[19:27:35] <Guest71023> hmmm
+[19:27:40] <__UND3RL1N3__> contraventor caixabox_ LordStorm rootsh salveeeeeee!!!
+[19:27:42] <Guest71023> tipo
+[19:27:44] Join: aFlag
+[19:27:51] <Guest71023> sei lah
+[19:28:14] Quit: Ping timeout: 240 seconds [rogerio]
+[19:28:23] <__UND3RL1N3__> Guest71023 tnta com os rpms...
+[19:28:27] <__UND3RL1N3__> saum precompilados
+[19:28:41] <__UND3RL1N3__> Guest71023 pega as libs todas tbm
+[19:28:41] <__UND3RL1N3__> :)
+[19:29:20] Quit: Quit: [kille]
+[19:29:29] <Guest71023> gcc ou oq ?
+[19:29:32] <Guest71023> jah estou perdido
+[19:29:33] <Guest71023> ehehehehe
+[19:29:50] <__UND3RL1N3__> Guest71023 as libs e o gift :)
+[19:30:05] <Guest71023> peguei gift
+[19:30:07] <__UND3RL1N3__> Guest71023 pera q eu vo procura!!!
+[19:30:07] <Guest71023> peguei as libs
+[19:30:21] <Guest71023> mas ae ele fala que nao tenho tal lib mas essa tal lib tem no meu pc
+[19:30:55] <__UND3RL1N3__> Guest71023 por isso q eu vo t dar o link pra pega o rpm da lib!!
+[19:30:57] <__UND3RL1N3__> saco?
+[19:31:13] <Guest71023> hmmm
+[19:31:16] <Guest71023> tipo
+[19:31:21] <Guest71023> jah esta instalada!
+[19:31:24] <Guest71023> pega ai pra eu tentar
+[19:31:28] <__UND3RL1N3__> mas kra!!
+[19:31:30] Quit: Quit: [super_tricolor]
+[19:31:33] <__UND3RL1N3__> tm algum erro
+[19:31:40] <__UND3RL1N3__> pq ele naum ta reconhecendo como instalada
+[19:31:44] <Guest71023> pois eh
+[19:31:46] <Guest71023> estranho
+[19:31:53] <__UND3RL1N3__> digita ae.. whereis libMagick
+[19:32:07] <Guest71023> tipo
+[19:32:13] <Guest71023> a ligMagick nao
+[19:32:25] <__UND3RL1N3__> ??
+[19:32:30] <Guest71023> nao
+[19:32:32] <Guest71023> nao tem
+[19:32:36] <__UND3RL1N3__> a sohh
+[19:32:38] <__UND3RL1N3__> tnta qq uma das otras
+[19:32:40] <__UND3RL1N3__> :p
+[19:32:48] <__UND3RL1N3__> libltdl
+[19:32:53] <__UND3RL1N3__> whereis libltdl
+[19:32:54] <Guest71023> [root@localhost hussan]# whereis liblcms.so.1
+[19:32:55] <_LoUis__> [Back!Away: f16 boladao][13m41s][Cachimbo!2.01]
+[19:32:55] <Guest71023> liblcms.so: /usr/lib/liblcms.so /usr/lib/liblcms.so.1
+[19:33:20] <Guest71023> [root@localhost hussan]# whereis libltdl
+[19:33:20] <Guest71023> libltdl: /usr/lib/libltdl.a /usr/lib/libltdl.la /usr/lib/libltdl.so
+[19:33:23] Join: Guest76817
+[19:33:47] <__UND3RL1N3__> realmnt... soh o prog naum ta reconhecndo
+[19:33:48] <__UND3RL1N3__> estranho
+[19:33:50] <__UND3RL1N3__> :p
+[19:34:24] <__UND3RL1N3__> Guest71023 pow.. naum to axando nnhuma pra rh
+[19:34:25] <__UND3RL1N3__> fods
+[19:34:26] <__UND3RL1N3__> :p
+[19:34:29] <T1AGO> vortei
+[19:34:34] <__UND3RL1N3__> Guest71023 qq coisa.. procura em www.google.com.br/linux
+[19:34:37] <Guest71023> [root@localhost hussan]# rpm -ql libtool-libs-1.4.3-5
+[19:34:38] <Guest71023> /usr/lib/libltdl.so.3
+[19:34:38] <Guest71023> /usr/lib/libltdl.so.3.1.0
+[19:34:40] <Guest71023> ahahhaha
+[19:34:46] <Guest71023> estou a 5 dias jah procurando!
+[19:34:50] <__UND3RL1N3__> fods
+[19:34:53] <Guest71023> esse erro ae
+[19:34:54] <__UND3RL1N3__> fods fods fods
+[19:34:59] <__UND3RL1N3__> Guest71023 naum tm no CD???
+[19:35:24] <Guest71023> hmmm
+[19:35:25] <Guest71023> deve ter 
+[19:35:31] <Guest71023> kual lib ?
+[19:35:33] <__UND3RL1N3__> Guest71023 poiseh.. procura la!!!
+[19:35:35] Join: Psico_Indie
+[19:35:35] <__UND3RL1N3__> Guest71023 todas elas
+[19:35:36] <__UND3RL1N3__> :p
+[19:35:45] <__UND3RL1N3__> Guest71023 c tivr o gift no CD.. tm as libs dele
+[19:35:45] <__UND3RL1N3__> :p
+[19:36:13] <Guest71023> gift nao 
+[19:36:17] <__UND3RL1N3__> putz
+[19:36:25] <Guest71023> tipo
+[19:36:25] <__UND3RL1N3__> mas procura essas duas ae q taum dando paus
+[19:36:26] <__UND3RL1N3__> :p
+[19:36:30] <Guest71023> estou num loopp
+[19:36:30] Join: DRTH
+[19:36:33] Part: DRTH
+[19:36:39] <__UND3RL1N3__> ???
+[19:36:39] <Guest71023> pra reinstalar!?
+[19:36:45] <__UND3RL1N3__> Guest71023 hmmmm
+[19:36:47] <__UND3RL1N3__> Guest71023 ehhh
+[19:36:52] <__UND3RL1N3__> Guest71023 c tivr o RPM eh melhor :p
+[19:36:58] <Guest71023> hmmm
+[19:37:11] <Guest71023> tou de cara!
+[19:37:13] Join: Spynal
+[19:37:39] Join: DRTH
+[19:37:54] Quit: Quit: [tocha]
+[19:38:56] Part: DRTH
+[19:39:58] Quit: Quit: [Atchixim]
+[19:41:28] Join: _D1NhO_
+[19:41:43] <_D1NhO_> ??como eh ki renomeia um arquivo??
+[19:42:01] <__UND3RL1N3__> _D1NhO_ mv arquivo1 arquivo2
+[19:42:10] <__UND3RL1N3__> _D1NhO_ pro exemplo: mv test1.txt test2.txt
+[19:42:13] <__UND3RL1N3__> _D1NhO_ :)
+[19:42:13] <_D1NhO_> vlw
+[19:42:23] Quit: Quit: [T1AGO]
+[19:42:28] <hussan-away> hehehe
+[19:44:00] <mR_X_fr0m_h3LL> Swordfish2003 - opa kra foi mal fui jantar.. 
+[19:44:02] <mR_X_fr0m_h3LL> falae..
+[19:44:11] Quit: Quit: [mR_X_fr0m_h3LL]
+[19:44:29] Join: mR_X_fr0m_h3LL
+[19:46:54] Join: DiEg0
+[19:47:08] <DiEg0> ae pessoal... alguem pode me dizer como configura o som no slack ?
+[19:47:20] <__UND3RL1N3__> DiEg0 q plak??
+[19:47:41] <mR_X_fr0m_h3LL> __UND3RL1N3__ - e ae..
+[19:47:42] <DiEg0> __UND3RL1N3__, c-media
+[19:47:43] <LordStorm> DiEg0 soh c carrega o modulo da sua placa
+[19:47:45] <__UND3RL1N3__> mR_X_fr0m_h3LL e aeee
+[19:47:48] <__UND3RL1N3__> DiEg0 ac97??
+[19:47:52] <__UND3RL1N3__> DiEg0 naum naum!
+[19:47:57] <DiEg0> __UND3RL1N3__, issu mermo
+[19:48:00] <__UND3RL1N3__> DiEg0 a sohh
+[19:48:03] <DiEg0> eh essa merma
+[19:48:04] <DiEg0> eheh
+[19:48:12] <DiEg0> sabe qual o modulo ?
+[19:48:21] <DiEg0> pra eu carregar
+[19:48:22] <DiEg0> ?
+[19:48:40] <LordStorm> procura no /etc/rc.d/rc.modules
+[19:48:44] <LordStorm> la tem os modulos das placas
+[19:48:52] <LordStorm> ai c procura a sua, e descomenta a linha q ta o comando
+[19:49:02] <__UND3RL1N3__> DiEg0 modprobe sound && modprobe soundcore && modprobe VIA82cxxx_audio && modprobe ac97 (ou ac97_codec) && chmo 666 /dev/dsp*
+[19:49:04] Join: keffer
+[19:49:05] <__UND3RL1N3__> DiEg0 faz isso ae
+[19:49:22] <LordStorm> q isso mew
+[19:49:23] <DiEg0> vo testar man
+[19:49:32] <__UND3RL1N3__> DiEg0 :p
+[19:49:47] Quit: Conectado por tempo insuficiente [keffer]
+[19:49:50] <__UND3RL1N3__> DiEg0 qq coisa.. digita modprobe -l |grep ac97
+[19:50:03] <__UND3RL1N3__> DiEg0 e modprobe -l |grep VIA
+[19:50:10] <__UND3RL1N3__> DiEg0 pra vc pega o nome dos modulos :p
+[19:50:11] <DiEg0> to ligadu
+[19:50:28] Join: rogerio
+[19:51:17] Join: Enkhrypthor
+[19:52:54] <Swordfish2003> alguém me falaum bom programa cliente de IRC sem ser o Xchato
+[19:53:13] <Enkhrypthor> Swordfish2003: BitchX
+[19:53:20] <__UND3RL1N3__> Swordfish2003 kra.. tm o bitchx, o gaim e varios otros
+[19:53:20] <__UND3RL1N3__> :p
+[19:53:43] <__UND3RL1N3__> uhuhu
+[19:53:48] <__UND3RL1N3__> 96% do test5
+[19:54:15] <Swordfish2003> uepa
+[19:54:15] <Swordfish2003> love u
+[19:54:16] <Swordfish2003> huahuahua
+[19:54:23] <__UND3RL1N3__> Swordfish2003 perae
+[19:54:24] <Enkhrypthor> Swordfish2003: tenta o centericq
+[19:54:29] <__UND3RL1N3__> Swordfish2003 bitchx eh pra txt!!
+[19:54:30] <__UND3RL1N3__> tty
+[19:54:33] <__UND3RL1N3__> modo texto
+[19:54:34] <__UND3RL1N3__> :p
+[19:54:38] <Enkhrypthor> __UND3RL1N3__: falae fi :C)
+[19:54:42] Quit: Quit: [BaXaNdO`SLaCK`91]
+[19:54:44] <__UND3RL1N3__> Enkhrypthor opa.. blz kra?? :)
+[19:54:47] <hussan-away> ola!
+[19:54:54] Quit: Quit: [DiEg0]
+[19:55:33] <mR_X_fr0m_h3LL> e ae hussan-away
+[19:55:45] <hussan-away> ola!
+[19:57:35] <mR_X_fr0m_h3LL> alguem tem o source do vmware ae ?
+[19:58:17] <__UND3RL1N3__> mR_X_fr0m_h3LL www.vmware.com
+[19:58:20] <__UND3RL1N3__> mR_X_fr0m_h3LL pega la...
+[19:58:20] Part: Psico_Indie
+[19:58:28] <__UND3RL1N3__> mR_X_fr0m_h3LL posso t arranja um keygen.. mas pra win :(
+[19:58:44] <mR_X_fr0m_h3LL> __UND3RL1N3__ - ah o phoda eh ter que registrar no site.. enche o saco.. aehaue
+[19:59:10] <__UND3RL1N3__> mR_X_fr0m_h3LL seu preguicoso!!! :p
+[19:59:48] <Peter_li> acho q vou embora.... q acham ?
+[19:59:52] Join: Solitario_JP
+[19:59:57] <__UND3RL1N3__> Peter_li q linux c usa??
+[19:59:59] <__UND3RL1N3__> :p
+[20:00:00] <mR_X_fr0m_h3LL> __UND3RL1N3__ - num eh assim tb.. ne...
+[20:00:01] <Solitario_JP> como desinstalo o linux ?
+[20:00:05] <__UND3RL1N3__> mR_X_fr0m_h3LL :p
+[20:00:18] <LordStorm> Solitario_JP da mesma maneira que voce desinstala o windows
+[20:00:20] <LordStorm> format c:
+[20:00:24] <__UND3RL1N3__> Solitario_JP apaga a particaum dele
+[20:00:29] <__UND3RL1N3__> Solitario_JP dpois manda fdisk /MBR
+[20:00:34] <__UND3RL1N3__> Solitario_JP no prompt do win msmo
+[20:00:35] <__UND3RL1N3__> :p
+[20:00:37] Join: DeViLs
+[20:00:38] Join: LocDogg
+[20:00:40] <__UND3RL1N3__> Solitario_JP ou com um disco d boot
+[20:00:44] <__UND3RL1N3__> Solitario_JP q eh mais viavel :)
+[20:00:51] <Peter_li> __UND3RL1N3__: cnc 9
+[20:00:55] Join: xsun_
+[20:00:58] <xsun_> noite
+[20:01:02] <mR_X_fr0m_h3LL> noite...
+[20:01:07] <Solitario_JP> e com o cd ?
+[20:01:11] <__UND3RL1N3__> Peter_li putz.. ntaum pod ir... c fosse debian eu dizia pra fik mais :p
+[20:01:15] <__UND3RL1N3__> Peter_li brincadera
+[20:01:22] <__UND3RL1N3__> Solitario_JP kra!! axo q o CD naum vai fazr isso
+[20:01:27] <__UND3RL1N3__> Solitario_JP ele soh boota pra instala :p
+[20:01:39] <LordStorm> Peter_li quau u sew problema
+[20:01:57] <mR_X_fr0m_h3LL> Solitario_JP - kra vai no linux e da um fdisk e apaga as particoes do linux e salva... 
+[20:02:02] <Peter_li> LordStorm: meu ???? nenhum
+[20:02:07] <mR_X_fr0m_h3LL> ai no windows vc da um fdisk /mbr
+[20:02:16] <LordStorm> Peter_li ueh
+[20:02:56] Join: W4lk0v1r
+[20:03:03] <LordStorm> do q q o __UND3RL1N3__ tava falando entaum?
+[20:03:15] <mR_X_fr0m_h3LL> __UND3RL1N3__ - ja tinha cadastro la.. aehau
+[20:03:21] <__UND3RL1N3__> mR_X_fr0m_h3LL kkkkkkkkkkkkkkkkkkkkkkkkkk
+[20:03:35] <__UND3RL1N3__> mR_X_fr0m_h3LL foi isso q eu disse pro Solitario_JP haiuhiaehiaehia
+[20:03:37] Join: Guest68159
+[20:03:49] Part: Guest68159
+[20:03:52] <mR_X_fr0m_h3LL> heheeh
+[20:04:13] <mR_X_fr0m_h3LL> eh phoda..
+[20:04:19] <Solitario_JP> na verdade nem queria tirar o linux
+[20:04:27] <Solitario_JP> é que qd eu vou reinstalar
+[20:04:28] <mR_X_fr0m_h3LL> Solitario_JP - entao.. faz o que eu te falei...
+[20:04:34] <Solitario_JP> apqarece 1 erro
+[20:04:52] <Solitario_JP> you may safety rebbot system
+[20:04:56] Quit: Quit: [__UND3RL1N3__]
+[20:04:59] <Solitario_JP> o que é isso ?
+[20:05:12] <mR_X_fr0m_h3LL> qd vc vai instalar o que ?
+[20:05:39] <Solitario_JP> o red hat de novo
+[20:05:45] <Solitario_JP> pq é assim
+[20:05:50] <mR_X_fr0m_h3LL> ele aparece isso em que parte ?
+[20:05:52] <Solitario_JP> eu tinha 1 k6II
+[20:06:04] <Solitario_JP> ai comprei hj 1 duron 1.3
+[20:06:11] <Peter_li> bom bom... hora de ralar peito....
+[20:06:16] <Solitario_JP> tirei o hd de 1 e coloquei no outro
+[20:06:34] <Solitario_JP> ai qd reiniciei
+[20:07:07] <Solitario_JP> apareceu pra reconfigurar
+[20:07:12] <Solitario_JP> ai td bem
+[20:07:22] <Solitario_JP> so que ao inves de entrar no modo grafico
+[20:07:27] <Solitario_JP> entrou no texto
+[20:07:29] <DeViLs> logico
+[20:07:34] <DeViLs> eh outra placa de video Solitario_JP
+[20:07:35] <Solitario_JP> localhost>#
+[20:07:38] <mR_X_fr0m_h3LL> vc mudo a arquitetura... 
+[20:07:39] <Solitario_JP> eu sei
+[20:07:42] <Solitario_JP> tf bem
+[20:07:44] <Peter_li> ate segunda... fikem com Deus... good work .... um abraço..... beijundas.....
+[20:07:49] <mR_X_fr0m_h3LL> Peter_li - flwsss..
+[20:07:53] <DeViLs> Peter_li, x)
+[20:08:07] <Peter_li> fuie
+[20:08:08] <Solitario_JP> ai entrei no kudzu em root
+[20:08:11] Quit: Quit: [Peter_li]
+[20:08:29] <Solitario_JP> e depois no xf86config
+[20:08:38] <Solitario_JP> ai coloquei td certo
+[20:08:51] <Solitario_JP> a placa de video sis 740 tal
+[20:09:01] <Solitario_JP> ai no final pede pra aceitar geral
+[20:09:10] <Solitario_JP> ao que nao entra no grafico
+[20:09:13] <Solitario_JP> nao entendi
+[20:09:19] <Solitario_JP> apoarece erro fatal
+[20:09:24] <Solitario_JP> aparece erro fatal
+[20:09:26] <DeViLs> velho
+[20:09:27] <Solitario_JP> coisa assim
+[20:09:31] <DeViLs> eh complicado
+[20:09:35] <Solitario_JP> pense num odio
+[20:09:37] <DeViLs> pq vc nao reinstala
+[20:09:42] <DeViLs> faz um beckup e tal
+[20:09:43] <Solitario_JP> ai quero reinstalar
+[20:09:53] <Solitario_JP> sim é instalação nova
+[20:09:59] <mR_X_fr0m_h3LL> reinstala por cima formatando a particao do linux
+[20:10:03] <mR_X_fr0m_h3LL> vc instalo hoje ?
+[20:10:08] <Solitario_JP> ai aparece esse tal de safety sei la o q
+[20:10:10] <DeViLs> mR_X_fr0m_h3LL, ai nao eh por cima HUehUEhUEH
+[20:10:13] <Solitario_JP> sim hj
+[20:10:17] <DeViLs> Solitario_JP, aparece o que?
+[20:10:42] <Solitario_JP> you safety reboot system
+[20:10:46] <Solitario_JP> coisa assim
+[20:11:01] <DeViLs> quando isso?
+[20:11:05] <mR_X_fr0m_h3LL> vc rebooto ele depois que apareceu isso ?
+[20:11:08] <mR_X_fr0m_h3LL> tiro o cd do drive ?
+[20:11:08] <Solitario_JP> qd eu vou reinstalar
+[20:11:20] <DeViLs> Solitario_JP, faz o seguinte
+[20:11:22] <DeViLs> pega um disco de boot
+[20:11:23] Join: drummer
+[20:11:25] <drummer> I aeee
+[20:11:26] <DeViLs> formata o hd
+[20:11:29] Join: __UND3RL1N3__
+[20:11:29] <DeViLs> apaga a particao
+[20:11:31] <DeViLs> cria de novo
+[20:11:33] <DeViLs> e instala
+[20:11:36] <DeViLs> duvido que de pau algum
+[20:11:37] <drummer> DeViLs aff
+[20:11:37] <drummer> uiAHEUIOAhea
+[20:11:38] <drummer> :D
+[20:11:41] <__UND3RL1N3__> vorteii
+[20:11:44] <DeViLs> hAUhUAH
+[20:11:45] <Solitario_JP> eu nao criei disco de boot pode ?
+[20:12:02] <DeViLs> raciociono lento eh uma merda
+[20:12:11] <Solitario_JP> eu criarei
+[20:12:15] <__UND3RL1N3__> uhuuhuhuhuh
+[20:12:18] <__UND3RL1N3__> BitchX-1.0c20cvs+ by panasync - Linux 2.6.0-test4
+[20:12:22] <__UND3RL1N3__> vo compila o test5
+[20:12:24] <Solitario_JP> ai apago a partição tal
+[20:12:24] <__UND3RL1N3__> nhenhenhe
+[20:12:26] Quit: Quit: [xsun_]
+[20:12:26] <__UND3RL1N3__> :p
+[20:12:32] <DeViLs>  xchat 2.0.5 Linux 2.4.20-8
+[20:12:37] <DeViLs> __UND3RL1N3__, :P
+[20:12:48] <__UND3RL1N3__> DeViLs :p
+[20:12:51] Quit: Quit: [mR_X_fr0m_h3LL]
+[20:13:14] <__UND3RL1N3__> alguem ae ta por dentro das DarkNETs????
+[20:13:26] <__UND3RL1N3__> saiu uma reportagem mto boa na info desse mes sobre o assunto
+[20:13:37] Part: Solitario_JP
+[20:13:40] <DeViLs> sobre o que __UND3RL1N3__ ?
+[20:14:00] <__UND3RL1N3__> DarkNETs
+[20:14:08] Join: Atchixim
+[20:14:15] Quit: Quit: [SP3CTR3[off]]
+[20:14:18] <__UND3RL1N3__> e tbm fala sobre criptografia (reportagem com o criador do PGP)
+[20:14:19] <__UND3RL1N3__> ehehe
+[20:14:24] <__UND3RL1N3__> ta blz a info desse mes :)
+[20:16:37] Quit: Quit: [W4lk0v1r]
+[20:18:31] <__UND3RL1N3__> krak
+[20:18:33] <__UND3RL1N3__> to qbradoooooooooooo
+[20:18:34] <__UND3RL1N3__> :p
+[20:18:40] Join: sabot4ge
+[20:18:56] Quit: Quit: [Spynal]
+[20:19:02] <__UND3RL1N3__> blebleble..
+[20:19:05] <__UND3RL1N3__> compilandoooo
+[20:19:05] <__UND3RL1N3__> :p
+[20:19:15] <__UND3RL1N3__> jaja eu tenhu meu pacotinho com o novo kernelzinho
+[20:19:15] <__UND3RL1N3__> :p
+[20:19:16] <__UND3RL1N3__> kkkkkkkkkkkkkkkkk
+[20:21:42] Join: _TZLORD_
+[20:21:50] Quit: Ping timeout: 240 seconds [_LoUis__]
+[20:21:53] <hussan-away> sim
+[20:21:55] <hussan-away> massa!
+[20:22:11] <hussan-away> __UND3RL1N3__, estou a pegar o gcc3.3
+[20:24:13] Join: M3g
+[20:24:14] <__UND3RL1N3__> hussan-away sussu :)
+[20:25:05] <M3g> alloww !! alguem sabe instalar uma placa pcmcia (rádio) samsung wlan minipci/swl-2300 no conectiva 9 ?
+[20:25:43] Quit: Quit: [Sabot4ge`off]
+[20:26:04] <__UND3RL1N3__> M3g  digita ae.. modprobe -l |grep pcmcia
+[20:26:10] <__UND3RL1N3__> M3g  instala o modulo d pcmcia :)
+[20:26:49] <M3g> sou novo no linux, to me matando, o cara q instalou a placa aqui no pc falou q naum funciona no linux
+[20:26:51] Join: keffer
+[20:27:00] <__UND3RL1N3__> M3g  tavlz funfe sim
+[20:27:08] <__UND3RL1N3__> M3g digita ae.. modprobe -l |grep pcmcia
+[20:27:13] <__UND3RL1N3__> M3g  me da o resultado :p
+[20:27:28] Join: xsun_
+[20:27:37] <xsun_> alguem usa fluxbox ae?
+[20:27:46] <Enkhrypthor> <-
+[20:28:05] <xsun_> Enkhrypthor: como vc inicia ele?
+[20:28:12] Join: _LoUis__
+[20:28:37] <M3g> eu naum inicio, nem sei p/ onde começar
+[20:28:43] <Guest81819> alguém sabe como identifica o nick no KSIRC?
+[20:28:46] Part: _D1NhO_|MaDMaCk
+[20:28:57] <xsun_> Enkhrypthor ??
+[20:29:07] <Guest81819> __UND3RL1N3__ se sabe como eu identifico o nick no KSirc
+[20:29:24] <__UND3RL1N3__> Guest81819 /quote nickserv identify senha
+[20:29:36] <__UND3RL1N3__> M3g  hmmmm... procura um tutorial na net ntaum :p
+[20:29:38] <__UND3RL1N3__> eh o jeito
+[20:29:54] <keffer> ae
+[20:29:57] <keffer> quem usa gentoo ?
+[20:30:37] <M3g> valeu, mas como inicio normalmente uma placa pcmcia ? como instalo o pacote p/ wireless ? meu linux é o conectiva 9
+[20:30:42] Join: BAWDOK
+[20:31:17] <__UND3RL1N3__> M3g kra... ae vc vai precisar sabr qual eh o modulo pra tua plak sak??
+[20:31:35] <__UND3RL1N3__> M3g pra sabr o modulo vc tm q digita modprobe -l |grep pcmcia
+[20:31:45] <__UND3RL1N3__> M3g dpois modprobe modulo
+[20:31:55] Join: c4p3t1nh4
+[20:31:56] <__UND3RL1N3__> M3g aeee.. vc vai tr q procura um pacote wireless pra linux!!!
+[20:32:06] <__UND3RL1N3__> M3g pera... q posso t da o nome d algum prob
+[20:32:07] <__UND3RL1N3__> prog
+[20:32:12] Part: Enkhrypthor
+[20:33:03] <__UND3RL1N3__> M3g aceita aee....
+[20:33:15] <__UND3RL1N3__> M3g tm varios nomes d varios pacotes relacionados a wireless :p
+[20:35:22] <__UND3RL1N3__> lalala...
+[20:35:25] <__UND3RL1N3__> kernel novo!!
+[20:35:27] <__UND3RL1N3__> uhuuu
+[20:35:32] <__UND3RL1N3__> test 5!!
+[20:35:33] Quit: Quit: [M3g]
+[20:35:34] <__UND3RL1N3__> vo jaja tsta
+[20:35:34] <__UND3RL1N3__> :p
+[20:35:52] <__UND3RL1N3__> vou reiniciar pra tsta meu novo kernel
+[20:35:55] <__UND3RL1N3__> ja volto
+[20:36:04] Quit: Quit: [__UND3RL1N3__]
+[20:38:14] Join: __UND3RL1N3__
+[20:38:20] <LordStorm> q kernel?
+[20:38:23] <__UND3RL1N3__> BitchX-1.0c20cvs+ by panasync - Linux 2.6.0-test5
+[20:38:24] <__UND3RL1N3__> ehehe
+[20:38:26] <__UND3RL1N3__> olhem isso
+[20:38:27] <__UND3RL1N3__> BitchX-1.0c20cvs+ by panasync - Linux 2.6.0-test5
+[20:38:29] <__UND3RL1N3__> q lindu!!
+[20:39:33] Join: Solitario_JP
+[20:39:40] <Solitario_JP> huahuahua
+[20:40:00] <Solitario_JP> apaguei a partição do linux
+[20:40:11] <LordStorm> interessante
+[20:40:22] <__UND3RL1N3__> LordStorm ja viu meu novo kernel???
+[20:40:32] <LordStorm> hehhheheehhehe
+[20:40:39] <LordStorm> esse treco funciona direitinho mesmo?
+[20:40:44] <__UND3RL1N3__> LordStorm  sussu :)
+[20:40:44] <__UND3RL1N3__> ehehehe
+[20:40:46] Quit: Quit: [_LoUis__]
+[20:40:52] <__UND3RL1N3__> LordStorm ta novinho.. kbei d compila
+[20:40:54] <__UND3RL1N3__> aeihaeihaiehaiehaie
+[20:40:56] <Solitario_JP> o q quer dizer ?
+[20:41:05] <Solitario_JP> o erro que da é esse: you may safely your system
+[20:41:05] <__UND3RL1N3__> meus primeiros 45segs com ele
+[20:41:06] <__UND3RL1N3__> :p
+[20:41:12] <LordStorm> hauihewuiahewuaiwehuiahewuiahewuihwe
+[20:41:19] <__UND3RL1N3__> Solitario_JP tqa faltando alguma coisa nessa frase
+[20:41:20] <LordStorm> c vai vira fanatico por kernel eauhuwehuiahwehuiawe
+[20:41:21] <__UND3RL1N3__> Solitario_JP :p
+[20:41:27] <__UND3RL1N3__> LordStorm kkkkkkkkkkkkkkkkkkkkkk
+[20:41:40] <__UND3RL1N3__> LordStorm daki a alguns anos.. tiro o tosatti da jogada!! aehiaehiaehiauehiaehiaehiaehiuahiuaehiahaie
+[20:41:45] <Solitario_JP> nao sr eu copiei exatamente como vi
+[20:41:47] <LordStorm> eiawjeueahuiewhuiahweuihauewhuiawehuiahew
+[20:41:52] <__UND3RL1N3__> Solitario_JP hmmmm..
+[20:41:58] <__UND3RL1N3__> Solitario_JP ainda aparece o lilo??
+[20:42:02] <LordStorm> __UND3RL1N3__ ow pq vc nao cria versao alternativa do kernel
+[20:42:05] <LordStorm> pq ja vi nego q faz isso
+[20:42:08] <LordStorm> por exeplo
+[20:42:14] <__UND3RL1N3__> Solitario_JP tnta entra no modo failsafe e passa o fsck!!
+[20:42:22] <__UND3RL1N3__> LordStorm por exemplo...???
+[20:42:22] <LordStorm> lancam o kernel 2.25.648878778789787878979
+[20:42:22] <__UND3RL1N3__> :;p
+[20:42:24] <Solitario_JP> isso é qd vai instalar dando o boot pelo cdrom
+[20:42:26] <LordStorm> daeh ele pega o source
+[20:42:27] <LordStorm> e muda
+[20:42:29] <LordStorm> do jeito dele
+[20:42:37] <__UND3RL1N3__> LordStorm sako poco d C
+[20:42:44] <__UND3RL1N3__> LordStorm qnd eu saca mais.. ae eh ate faco isso :p
+[20:42:49] <Solitario_JP> acho que é pq é duron
+[20:42:52] <__UND3RL1N3__> LordStorm crio um novo sistema ate :p
+[20:42:54] <__UND3RL1N3__> ahuheaiuhiaehiehiaehaie
+[20:42:57] <LordStorm> aehaheuiawehuihwauheuiawheuiahwe
+[20:43:00] <Solitario_JP> dizem que é dificil instalar em durom
+[20:43:02] <LordStorm> vai tr q saber assembly
+[20:43:03] <__UND3RL1N3__> Solitario_JP q nada.. o meu eh duron e funfa direitim
+[20:43:10] <__UND3RL1N3__> LordStorm tbm haieuhaiehiae
+[20:43:12] <Solitario_JP> ahh o seu
+[20:43:14] <Solitario_JP> risos
+[20:43:18] <LordStorm> Solitario_JP quem foi o maluco q disse isso
+[20:43:19] <LordStorm> ?
+[20:43:22] <LordStorm> aposto q foi o bill gates
+[20:43:22] <__UND3RL1N3__> LordStorm mas nm tanto.. ja fucei nos sources do kernel..
+[20:43:23] <LordStorm> hewahuihuiwheuhauweha
+[20:43:26] <__UND3RL1N3__> LordStorm eh soh C/C++
+[20:43:32] <Solitario_JP> aki mesmo no canal
+[20:43:33] <Solitario_JP> risos
+[20:43:33] <LordStorm> crtz?
+[20:43:44] <__UND3RL1N3__> LordStorm axo q assembly soh pra debuga erro msmo :)
+[20:43:46] <__UND3RL1N3__> LordStorm aham..
+[20:43:56] <__UND3RL1N3__> LordStorm pega um source d kernel.. e abre ele!!
+[20:44:01] <LordStorm> __UND3RL1N3__ mas c viw todos os sources?
+[20:44:05] <__UND3RL1N3__> LordStorm axo q ta na pasta sources/
+[20:44:07] <__UND3RL1N3__> LordStorm aham!!!
+[20:44:09] Quit: Quit: [Atchixim]
+[20:44:11] <LordStorm> __UND3RL1N3__ carai
+[20:44:15] <__UND3RL1N3__> LordStorm :p
+[20:44:16] Join: T1AGO
+[20:44:28] Join: NyuMatrix
+[20:44:28] <__UND3RL1N3__> LordStorm tava procurando ond mudar o tux da tty :p
+[20:44:32] <__UND3RL1N3__> LordStorm nm axei.. fods
+[20:44:32] <__UND3RL1N3__> aehiuaheihaieae
+[20:44:33] <LordStorm> __UND3RL1N3__ sera q da pra criar sistema operacional por visual basic?
+[20:44:37] <LordStorm> ehauiehwuihwehauwiea
+[20:44:48] <LordStorm> eh alguma imagem
+[20:44:50] <LordStorm> pq no slackware
+[20:44:54] <LordStorm> nem tem esse pinguim
+[20:44:58] <LordStorm> quando poe frame bufer
+[20:45:27] <__UND3RL1N3__> LordStorm poiseh.. eu tava procurando ond mudar a img..
+[20:45:38] <__UND3RL1N3__> LordStorm eu to ligado no frame buffer... no slack naum eh padraum...
+[20:45:39] Join: Matew
+[20:45:45] <Matew> instalei o red hat 9 e qdo fui tocar mp3 deu um aviso q foi retirado o suporta pra mp3... tem alguma atualizacao, config, algo assim ?
+[20:45:47] <LordStorm> eh sim
+[20:45:52] <__UND3RL1N3__> LordStorm no debian eh padraum tr o frame buffer habilitado :p
+[20:45:52] <LordStorm> eh so i nu lilu e digita
+[20:45:54] <__UND3RL1N3__> LordStorm sak??
+[20:46:04] <LordStorm> ah sim
+[20:46:13] <LordStorm> no slack pergunta na instalacao c vc qr ow nao ativar
+[20:46:16] <LordStorm> o debian ja ativa direto
+[20:46:24] <LordStorm> da pra roda x sobre frame buffeR?
+[20:46:25] <T1AGO> e ai suas bixa :)
+[20:46:25] Quit: Quit: [caixabox_]
+[20:46:34] <LordStorm> T1AGO incluindo voce neh
+[20:46:34] <T1AGO> LordStorm, claro :)
+[20:46:42] <T1AGO> da ate pra usar X com FB :)
+[20:46:47] <T1AGO> fbdev =]
+[20:46:51] <LordStorm> hum
+[20:46:54] <LordStorm> deve ficar rapido pra caramba
+[20:46:56] <LordStorm> eahwueauihweuihawheuiahewuahwaeh
+[20:47:01] <LordStorm> mas qual a vantagem?
+[20:47:07] <Solitario_JP> e ai
+[20:47:09] <T1AGO> nem.. aki minha placa fica mais rapido q o FB :D
+[20:47:17] <T1AGO> eh uma geforce 5800 =]
+[20:47:18] <LordStorm> por isso mesmo q e to falando
+[20:47:24] <LordStorm> "deve ficar rapido pra caralho"
+[20:47:29] <LordStorm> tava ironizando
+[20:47:32] <LordStorm> duh!
+[20:47:35] <LordStorm> ow
+[20:47:36] <T1AGO> vantagem q eu uso 1024x768 no terminal
+[20:47:41] Quit: Quit: [xsun_]
+[20:47:42] <T1AGO> 1024x768 256 cores
+[20:47:44] <T1AGO> =P
+[20:47:47] Quit: Quit: [Solitario_JP]
+[20:47:49] <LordStorm> c ja conto pro __UND3RL1N3__ da barata q queimo o pc do cara
+[20:47:49] <T1AGO> e ainda botei um logo :)
+[20:47:50] <LordStorm> eahuewhiauwehuaiehuiawhuehauiwaew
+[20:47:55] <T1AGO> no lugar do tux
+[20:48:05] <__UND3RL1N3__> T1AGO como c fez isso?? 1024X768 no trm???
+[20:48:10] <T1AGO> ueh
+[20:48:25] <T1AGO> recompila seu kernel com suporte VESA/FB
+[20:48:28] <T1AGO> e poe no lilo
+[20:48:29] Quit: Quit: [Matew]
+[20:48:30] <T1AGO> vga=791
+[20:48:33] <T1AGO> e pronto =p
+[20:48:35] <__UND3RL1N3__> T1AGO hmmm!!!
+[20:48:39] <__UND3RL1N3__> T1AGO sussu :)
+[20:48:46] <LordStorm> T1AGO q distro q c ta usanu?
+[20:48:50] <T1AGO> __UND3RL1N3__, eu fiz patch pra colocar um papel de parede
+[20:48:50] <__UND3RL1N3__> T1AGO aeeee.. em qual arquivo muda o tux???
+[20:49:00] <T1AGO> LordStorm, debian e slack =]
+[20:49:04] <T1AGO> to no deb agora :P
+[20:49:13] <T1AGO> __UND3RL1N3__, fbcon.c e linux_logo.h :)
+[20:49:25] <__UND3RL1N3__> T1AGO uhuuuuuu.. vlw kra :)
+[20:49:26] <__UND3RL1N3__> T1AGO brigadaum :)
+[20:50:11] <LordStorm> __UND3RL1N3__ q q c vai por la?
+[20:50:13] <LordStorm> ahewuiahweiuiwheuihwehha
+[20:50:14] <LordStorm> sua foto?
+[20:50:44] <__UND3RL1N3__> LordStorm sei la!!! haiuhiaehiaehiaehaie
+[20:50:45] <__UND3RL1N3__> kkkkkkkkkkkkkkkkk
+[20:50:55] <LordStorm> uuhahiehawheuihwaihuawhuihauiwheuiahewuihauie
+[20:51:06] <LordStorm> c ta usanu console?
+[20:51:15] <__UND3RL1N3__> LordStorm aham :)
+[20:51:19] Quit: Ping timeout: 240 seconds [LocDogg]
+[20:51:24] <T1AGO> http://www.codigolivre.org/~t1ago/imagens/shots/shot-slack.jpeg
+[20:51:30] <T1AGO> eu botei essa imagem no linux_logo.h :)
+[20:51:36] <T1AGO> eh minha tela de boot =p
+[20:51:44] <T1AGO> esse papel de parede =]
+[20:52:26] <T1AGO> http://www.codigolivre.org/~t1ago/lilo/ins64a.bmp
+[20:52:27] <LordStorm> ueaehwauihewiuahewaeuihwuiehwauiwheuieaw
+[20:52:30] <T1AGO> e esse eh o meu lilo :)
+[20:52:31] <cvs> T1AGO`legal
+[20:52:36] Join: Atchixim
+[20:52:37] Quit: Read error: 54 (Connection reset by peer) [Atchixim]
+[20:52:53] <cvs> T1AGO vou usar esse ai no lilo :P
+[20:53:00] <LordStorm> nosss
+[20:53:03] <LordStorm> olha q lammah
+[20:53:05] <LordStorm> o nome do script do cara
+[20:53:07] <LordStorm> ehuahaeiuahueheawuaew
+[20:53:09] <T1AGO> ??
+[20:53:11] <LordStorm> "RULEZ SCRIPT"
+[20:53:12] <cvs> T1AGO sera que funciona?
+[20:53:14] <LordStorm> esse povo nao tem o q inventar
+[20:53:22] Join: ViperX
+[20:53:41] <T1AGO> cvs, se vc saber como faz pra botar bitmap no lilo.. funfa sim :)
+[20:53:54] <cvs> T1AGO onde eu vejo como fazer?
+[20:54:15] <T1AGO> !busca imagem no lilo
+[20:54:17] <__UND3RL1N3__> T1AGO 
+[20:54:17] <__UND3RL1N3__> BitchX-1.0c20cvs+ by panasync - Linux 2.6.0-test5
+[20:54:19] <__UND3RL1N3__> :p
+[20:54:25] <T1AGO> bx fedi :)
+[20:54:26] <T1AGO> irssi ownz
+[20:54:38] <LordStorm> uia
+[20:54:44] <LordStorm> a mulhe du kurt cobain teve overdose
+[20:54:45] <LordStorm> auehaiuwhuiawheuihawuihaew
+[20:54:52] <T1AGO> rlz akela piranha
+[20:54:58] <LordStorm> ela foi presa ontem
+[20:55:00] <LordStorm> pq c drogo
+[20:55:01] <LordStorm> daeh
+[20:55:02] <T1AGO> r0x
+[20:55:07] <LordStorm> quebro 4 janelas
+[20:55:12] <T1AGO> aaaaahahah
+[20:55:17] <LordStorm> pago fiança de 2.500 e depois foi internada
+[20:55:18] Quit: Quit: [BAWDOK]
+[20:55:18] <LordStorm> eahwuehauweuihawuhew
+[20:55:24] <LordStorm> pow 2.500 da pra mim compra um pc novo
+[20:55:31] <T1AGO> pqp nerd eh foda
+[20:55:36] <LordStorm> aweaewhauiewuiaehuaeuahu
+[20:55:42] <LordStorm> T1AGO pior eh o hacker mortal
+[20:55:52] <LordStorm> agora eu ja sei pq o kurt c matou
+[20:55:55] Join: Enkhrypthor
+[20:55:59] <LordStorm> deve ser foda aguentar uma mulhe dakela
+[20:56:00] <T1AGO> deixa eu fazer teste com cups q empacotei aki pera ai
+[20:56:10] <T1AGO> o kurt nao se matou anta
+[20:56:13] <T1AGO> ela matou o kurt :)
+[20:56:35] <__UND3RL1N3__> grrrrrrrrrr
+[20:57:02] <LordStorm> eaeawehuhewuihauiwehuaiwh
+[20:57:02] <LordStorm> T1AGO c tb acha isso
+[20:57:02] <T1AGO> e o kurt
+[20:57:02] <T1AGO> era outro viciado
+[20:57:02] <LordStorm> __UND3RL1N3__ q q foi
+[20:57:04] <LordStorm> T1AGO mas ele tinha talento
+[20:57:05] <LordStorm> ela nao
+[20:57:06] <LordStorm> :-)
+[20:57:11] <T1AGO> nao ia se matar pq a mule usa
+[20:57:16] Join: LocDogg
+[20:57:17] <T1AGO> ele ia adorar ate :)
+[20:57:29] <LordStorm> hhheheehhehe
+[20:57:38] Quit: Read error: 54 (Connection reset by peer) [LocDogg]
+[20:57:41] <T1AGO> tpo ... sou nirvanamaniaco =p
+[20:57:48] <LordStorm> T1AGO eu tb
+[20:57:49] <LordStorm> aeh
+[20:57:49] <T1AGO> se vc repar
+[20:57:53] <LordStorm> eu reparei
+[20:57:54] <T1AGO> reparar na minha screnn shot
+[20:57:56] <LordStorm> neu vi
+[20:57:57] <LordStorm> auwehuiahewuihewuiew
+[20:58:00] <T1AGO> ta tocando nirvana :)
+[20:58:01] Part: Enkhrypthor
+[20:58:05] <LordStorm> "you know you right"
+[20:58:11] <T1AGO> sim
+[20:58:14] <LordStorm> eu achava q a musica era inedita
+[20:58:16] <T1AGO> soh q a versao + foda q tem :)
+[20:58:18] Part: c4p3t1nh4
+[20:58:20] <LordStorm> mas ate show ja catei
+[20:58:21] Join: Leonardo_Lopes
+[20:58:26] <T1AGO> remastered
+[20:58:31] <LordStorm> T1AGO como q eh?
+[20:58:36] <T1AGO> inedita? to vendo q vc nao sabe nda =P
+[20:58:42] <LordStorm> ewhuaiehwiwehiuawheiuawe
+[20:58:43] <T1AGO> um show ao vivo em roma :)
+[20:58:47] <T1AGO> aonde ele berra pra kct =p
+[20:58:50] <LordStorm> You Got No Right
+[20:58:52] <LordStorm> eu ja ouvi
+[20:59:02] <Leonardo_Lopes> __UND3RL1N3__: aew brother
+[20:59:13] <T1AGO> nao eh you got no right
+[20:59:13] <LordStorm> ow
+[20:59:18] <T1AGO> isso ai nego q inventou
+[20:59:23] <LordStorm> ehhehehehehehe
+[20:59:25] <T1AGO> troco o nome
+[20:59:28] <T1AGO> soh tem demente na internet
+[20:59:32] <LordStorm> hwehuaheuiwheuiahwuieahwuiawhe
+[20:59:41] <__UND3RL1N3__> Leonardo_Lopes e aeeee
+[20:59:46] <LordStorm> mas a musica ta toda zuada
+[20:59:48] <__UND3RL1N3__> Leonardo_Lopes 
+[20:59:49] <__UND3RL1N3__> BitchX-1.0c20cvs+ by panasync - Linux 2.6.0-test5
+[20:59:51] <Leonardo_Lopes> LordStorm: blz kra
+[20:59:58] <Leonardo_Lopes> __UND3RL1N3__: rlz
+[20:59:58] <LordStorm> Leonardo_Lopes  ?
+[21:00:09] Join: SPy00
+[21:00:11] <Leonardo_Lopes> LordStorm: beleza?
+[21:00:12] Join: caixabox_
+[21:00:15] <LordStorm> beleza
+[21:00:16] <LordStorm> hwheuahweuiwhe
+[21:00:18] <T1AGO> ai ai 
+[21:00:21] <LordStorm> achei q c tava falando de otro treco
+[21:00:26] <LordStorm> T1AGO para de geme aeh
+[21:00:26] <Leonardo_Lopes> auhuhauhuhauhauhauuhauhauhauhhau
+[21:00:29] <LordStorm> aehuehihewuihewuihewauiehiuwheuiew
+[21:00:46] <LordStorm> eh ke toda hora tem nego q quer falar por exemplo com o loc dogg e manda a mensagem pra mim
+[21:00:47] <Leonardo_Lopes> __UND3RL1N3__: aew brother acho q minha distro agora sai, hehehe
+[21:00:50] Join: LnxHelp
+[21:00:59] <caixabox_> Leonardo_Lopes ees
+[21:01:03] <T1AGO> to cansado jah
+[21:01:06] <Leonardo_Lopes> quem baniu ele?
+[21:01:09] <Leonardo_Lopes> :(((((((((((((((((((((((9
+[21:01:09] <caixabox_> Leonardo_Lopes esse LnxHelp eh seu fio ?
+[21:01:14] <LordStorm> T1AGO cansado de q?
+[21:01:25] <Leonardo_Lopes> caixabox_: eh sim :))
+[21:01:26] <Leonardo_Lopes> hehehe
+[21:01:37] <caixabox_> Leonardo_Lopes ele ta dodoi
+[21:01:46] <Leonardo_Lopes> __UND3RL1N3__: descobri o q tava fazendo d errado pra ele sempre dar merda com a glibc.
+[21:01:48] <Leonardo_Lopes> caixabox_: pq?
+[21:01:50] <Leonardo_Lopes> :((((
+[21:01:51] <LordStorm> quem foi o idiota q criou o kde
+[21:01:53] <T1AGO> deixa eu empacotar gift pro deb eehehe
+[21:01:55] <LordStorm> ?
+[21:01:57] <Leonardo_Lopes> caixabox_: quais os sintomas
+[21:01:59] <Leonardo_Lopes> ?
+[21:02:13] <caixabox_> Leonardo_Lopes ele cismou com o contraventor
+[21:02:21] <caixabox_> comecou
+[21:02:36] <Leonardo_Lopes> LordStorm: kde rlz, vc eh q eh liso e naum tem um pc q rode ele legal, hehehe
+[21:02:48] <LordStorm> Leonardo_Lopes ta ahueaiuhewuihuihewuiewhu
+[21:03:03] <LordStorm> Leonardo_Lopes os cara ker cria um programa proprio pra cada tarefa
+[21:03:07] <LordStorm> ao inves de faze q nem no gnome
+[21:03:16] <contraventor> aeee
+[21:03:21] <contraventor> caixabox_ :D
+[21:03:21] <LordStorm> pra q cria um programa de som c existe o xmms
+[21:03:25] <LordStorm> o kde nao
+[21:03:26] <kiLLe> como fa zpra configurar o e-mail du gkrellm para o da hotmail?
+[21:03:36] <LordStorm> por isso q ocupa mais de 300 mb
+[21:03:45] <LordStorm> ao inves de usa o opera
+[21:03:50] <LordStorm> eles botam o konquerour
+[21:04:07] <caixabox_> contraventor ae :D
+[21:04:22] <__UND3RL1N3__> vo sainduuu!!
+[21:04:23] <__UND3RL1N3__> flwsss
+[21:04:26] <LordStorm> falow
+[21:04:38] Quit: Quit: [keffer]
+[21:05:05] Quit: Quit: [__UND3RL1N3__]
+[21:05:19] <LordStorm> Leonardo_Lopes to falando alguma mentira
+[21:05:22] <LordStorm> :-)
+[21:06:58] Join: Agent_Smith
+[21:06:59] <LordStorm> e otra
+[21:07:16] <LordStorm> 90 % dos nego q falam q linux eh lento eh por q nao manja porra nenhuma e cataram red hat usando KDE
+[21:08:47] <T1AGO> bem
+[21:09:01] <T1AGO> pra mim o kde e o gnome sao os melhores q tem
+[21:09:02] <caixabox_> mal
+[21:09:10] <T1AGO> blackbox e derivados pra mim nao prestam :)
+[21:09:16] <LordStorm> T1AGO em parte
+[21:09:18] <T1AGO> a nao ser o enlighenment
+[21:09:19] <LordStorm> na leveza sao bons
+[21:09:23] <T1AGO> esse sim eu gosto :)
+[21:15:50] Join: Architect
+[21:15:56] <LordStorm> pq hd em raid deve gasta energia pra caralho
+[21:16:02] <Agent_Smith> !rank 99
+[21:16:05] Join: tpcxinhu
+[21:16:06] <T1AGO> nao gasta :)
+[21:16:11] <T1AGO> o meu ide funciona na raid
+[21:16:14] <T1AGO> na boa :P
+[21:16:21] <Agent_Smith> !voto thefallen 5
+[21:16:21] <Architect> Agent_Smith: 5 ponto(s) registrado para thefallen.
+[21:16:24] <Agent_Smith> !voto thefallen 5
+[21:16:24] <Architect> Agent_Smith: 5 ponto(s) registrado para thefallen.
+[21:16:34] <LordStorm> aeh
+[21:16:36] <Agent_Smith> !voto thefallen 5
+[21:16:36] <Architect> Agent_Smith: 5 ponto(s) registrado para thefallen.
+[21:16:40] <LordStorm> xo faze um teste
+[21:16:41] <LordStorm> haeuhiuehawe
+[21:16:43] <Agent_Smith> !rank 99
+[21:16:45] <T1AGO> q teste?
+[21:16:47] <LordStorm> !voto LordStorm 20
+[21:16:47] <Architect> LordStorm: O colaborador LordStorm nao esta cadastrado. Para cadastralo envie um e-mail para agent_smith@linxuajuda.com.br ou um memo para Agent_Smith com o seu nick, nome e e-mail.
+[21:16:53] <LordStorm> :-P
+[21:16:53] <T1AGO> !voto t1ago 100
+[21:16:53] <Architect> T1AGO: O colaborador t1ago nao esta cadastrado. Para cadastralo envie um e-mail para agent_smith@linxuajuda.com.br ou um memo para Agent_Smith com o seu nick, nome e e-mail.
+[21:16:55] <T1AGO> ahahaha
+[21:17:04] <kiLLe> !busca irc
+[21:17:05] <T1AGO> mais q coisa gay
+[21:17:06] <LnxHelp> http://freshmeat.net/releases/132570/
+[21:17:14] <Agent_Smith> T1AGO zoa nao porra
+[21:17:18] <Agent_Smith> !ajuda
+[21:17:30] <T1AGO> ui Agent_Smith ta nervoso
+[21:17:32] <LordStorm> T1AGO manda um memo pro cara pra me cadastra pq meu nick num ta identificado
+[21:25:17] Join: Architect
+[21:25:34] <T1AGO> http://www.piterpunk.hpg.ig.com.br/artigos/boot-image.html
+[21:25:37] <Agent_Smith> !voto thefallen 5
+[21:25:37] <Architect> Agent_Smith: 5 ponto(s) registrado para thefallen.
+[21:25:42] <Agent_Smith> !voto thefallen 5
+[21:25:42] <Architect> Agent_Smith: Voce so podera votar em thefallen novamente em 29 minuto(s) e 55 segundo(s).
+[21:25:50] <The_Invisible_Man> eita
+[21:26:12] <Agent_Smith> !voto rogerio 1
+[21:26:12] <Architect> Agent_Smith: 1 ponto(s) registrado para rogerio.
+[21:26:15] <Agent_Smith> !voto rogerio 1
+[21:26:15] <Architect> Agent_Smith: Voce so podera votar em rogerio novamente em 29 minuto(s) e 57 segundo(s).
+[21:26:36] <Agent_Smith> !voto rogerio 1
+[21:26:36] <Architect> Agent_Smith: Voce so podera votar em rogerio novamente em 29 minuto(s) e 36 segundo(s).
+[21:27:00] Quit: Quit: [_TZLORD_]
+[21:27:07] <Agent_Smith> tinha probs com variavel hash 
+[21:27:10] <Agent_Smith> perl rulez
+[21:27:17] Join: Matew
+[21:27:29] <Matew> instalei o red hat 9 e qdo fui tocar mp3 deu um aviso q foi retirado o suporta pra mp3... tem alguma atualizacao, config, algo assim ?
+[21:27:33] <Agent_Smith> agora vo joga cs
+[21:27:40] <Agent_Smith> fuiz
